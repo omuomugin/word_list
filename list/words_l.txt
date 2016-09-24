@@ -1,11 +1,4 @@
 l
-l'addition
-l'chaim
-l'envoy
-l'oeil
-l's
-l'tre
-l/w
 la
 laager
 laagered
@@ -13,7 +6,6 @@ laagering
 laagers
 laang
 lab
-lab's
 labaara
 labadist
 labara
@@ -123,7 +115,6 @@ laboratorially
 laboratorian
 laboratories
 laboratory
-laboratory's
 labordom
 labored
 laboredly
@@ -595,7 +586,6 @@ ladronize
 ladrons
 lads
 lady
-lady's
 ladybird
 ladybirds
 ladybug
@@ -714,7 +704,6 @@ lagomorphous
 lagomrph
 lagonite
 lagoon
-lagoon's
 lagoonal
 lagoons
 lagoonside
@@ -769,7 +758,6 @@ laine
 lainer
 laiose
 lair
-lair's
 lairage
 laird
 lairdess
@@ -803,7 +791,6 @@ lakarpite
 lakatan
 lakatoi
 lake
-lake's
 laked
 lakefront
 lakeland
@@ -878,7 +865,6 @@ lamaseries
 lamasery
 lamastery
 lamb
-lamb's
 lamba
 lamback
 lambale
@@ -977,7 +963,6 @@ lamentable
 lamentableness
 lamentably
 lamentation
-lamentation's
 lamentational
 lamentations
 lamentatory
@@ -1055,7 +1040,6 @@ lamnectomy
 lamnid
 lamnoid
 lamp
-lamp's
 lampad
 lampadaire
 lampadaries
@@ -1240,7 +1224,6 @@ landings
 landiron
 landladies
 landlady
-landlady's
 landladydom
 landladyhood
 landladyish
@@ -1259,7 +1242,6 @@ landlooker
 landloper
 landloping
 landlord
-landlord's
 landlordism
 landlordly
 landlordry
@@ -1274,7 +1256,6 @@ landlubbers
 landlubbing
 landman
 landmark
-landmark's
 landmarks
 landmass
 landmasses
@@ -1286,7 +1267,6 @@ landocracy
 landocrat
 landolphia
 landowner
-landowner's
 landowners
 landownership
 landowning
@@ -1349,7 +1329,6 @@ landwrack
 landwreck
 landyard
 lane
-lane's
 lanely
 lanes
 lanesome
@@ -1399,7 +1378,6 @@ langsyne
 langsynes
 langteraloo
 language
-language's
 languaged
 languageless
 languages
@@ -1494,7 +1472,6 @@ lantanium
 lantcha
 lanterloo
 lantern
-lantern's
 lanterned
 lanternfish
 lanternfishes
@@ -1536,7 +1513,6 @@ laos
 laotian
 laotians
 lap
-lap's
 lapacho
 lapachol
 lapactic
@@ -1589,7 +1565,6 @@ lapcock
 lapdog
 lapdogs
 lapel
-lapel's
 lapeler
 lapelled
 lapels
@@ -1801,7 +1776,6 @@ larithmics
 larix
 larixin
 lark
-lark's
 larked
 larker
 larkers
@@ -1961,7 +1935,6 @@ lasciviousness
 lase
 lased
 laser
-laser's
 laserdisk
 laserdisks
 laserjet
@@ -1994,7 +1967,6 @@ lasking
 laspring
 lasque
 lass
-lass's
 lasses
 lasset
 lassie
@@ -2240,7 +2212,6 @@ latitant
 latitat
 latite
 latitude
-latitude's
 latitudes
 latitudinal
 latitudinally
@@ -2272,7 +2243,6 @@ latrially
 latrian
 latrias
 latrine
-latrine's
 latrines
 latro
 latrobe
@@ -2292,7 +2262,6 @@ lattermint
 lattermost
 latterness
 lattice
-lattice's
 latticed
 latticeleaf
 latticelike
@@ -2425,7 +2394,6 @@ laureateships
 laureating
 laureation
 laurel
-laurel's
 laureled
 laureling
 laurelled
@@ -2496,7 +2464,6 @@ lavations
 lavatorial
 lavatories
 lavatory
-lavatory's
 lavature
 lave
 laveche
@@ -2540,7 +2507,6 @@ lavroffite
 lavrovite
 lavy
 law
-law's
 lawabidingness
 lawbook
 lawbreak
@@ -2579,7 +2545,6 @@ lawman
 lawmen
 lawmonger
 lawn
-lawn's
 lawned
 lawner
 lawnleaf
@@ -2598,12 +2563,10 @@ laws
 lawsone
 lawsonite
 lawsuit
-lawsuit's
 lawsuiting
 lawsuits
 lawter
 lawyer
-lawyer's
 lawyeress
 lawyeresses
 lawyering
@@ -2669,7 +2632,6 @@ layner
 layoff
 layoffs
 layout
-layout's
 layouts
 layover
 layovers
@@ -2781,7 +2743,6 @@ leaderette
 leaderless
 leaders
 leadership
-leadership's
 leaderships
 leadeth
 leadhillite
@@ -2833,7 +2794,6 @@ leafit
 leafless
 leaflessness
 leaflet
-leaflet's
 leafleteer
 leaflets
 leaflike
@@ -2858,7 +2818,6 @@ leagues
 leaguing
 leak
 leakage
-leakage's
 leakages
 leakance
 leaked
@@ -2946,7 +2905,6 @@ leaser
 leasers
 leases
 leash
-leash's
 leashed
 leashes
 leashing
@@ -3157,7 +3115,6 @@ leeangle
 leeboard
 leeboards
 leech
-leech's
 leechcraft
 leechdom
 leecheater
@@ -3233,13 +3190,11 @@ leftish
 leftism
 leftisms
 leftist
-leftist's
 leftists
 leftments
 leftmost
 leftness
 leftover
-leftover's
 leftovers
 lefts
 leftward
@@ -3251,7 +3206,6 @@ lefty
 leg
 legacies
 legacy
-legacy's
 legal
 legalese
 legaleses
@@ -3304,7 +3258,6 @@ legatus
 legbar
 lege
 legend
-legend's
 legenda
 legendarian
 legendaries
@@ -3352,7 +3305,6 @@ legibly
 legifer
 legific
 legion
-legion's
 legionaries
 legionary
 legioned
@@ -3372,7 +3324,6 @@ legislativ
 legislative
 legislatively
 legislator
-legislator's
 legislatorial
 legislatorially
 legislators
@@ -3383,7 +3334,6 @@ legislatrices
 legislatrix
 legislatrixes
 legislature
-legislature's
 legislatures
 legist
 legister
@@ -3539,7 +3489,6 @@ lemans
 leme
 lemel
 lemma
-lemma's
 lemmas
 lemmata
 lemmatize
@@ -3563,7 +3512,6 @@ lemogra
 lemography
 lemology
 lemon
-lemon's
 lemonade
 lemonades
 lemonado
@@ -3659,7 +3607,6 @@ leno
 lenocinant
 lenos
 lens
-lens's
 lense
 lensed
 lenses
@@ -3700,7 +3647,6 @@ lentiginose
 lentiginous
 lentigo
 lentil
-lentil's
 lentile
 lentils
 lentiner
@@ -3740,7 +3686,6 @@ leontiasis
 leontocephalous
 leontodon
 leopard
-leopard's
 leoparde
 leopardess
 leopardine
@@ -3959,7 +3904,6 @@ lessive
 lessn
 lessness
 lesson
-lesson's
 lessoned
 lessoning
 lessons
@@ -3975,7 +3919,6 @@ lestobiotic
 lestrad
 lesya
 let
-let's
 letch
 letches
 letchy
@@ -4262,7 +4205,6 @@ levators
 leve
 leveche
 levee
-levee's
 leveed
 leveeing
 levees
@@ -4288,7 +4230,6 @@ levelness
 levels
 leven
 lever
-lever's
 leverage
 leveraged
 leverages
@@ -4305,7 +4246,6 @@ leverwood
 levesel
 levet
 levi
-levi's
 leviable
 leviathan
 leviathans
@@ -4416,7 +4356,6 @@ lexicological
 lexicologist
 lexicology
 lexicon
-lexicon's
 lexiconist
 lexiconize
 lexicons
@@ -4449,7 +4388,6 @@ lhiamba
 li
 liabilities
 liability
-liability's
 liable
 liableness
 liaise
@@ -4457,7 +4395,6 @@ liaised
 liaises
 liaising
 liaison
-liaison's
 liaisons
 liamba
 liana
@@ -4469,7 +4406,6 @@ liangle
 liangs
 lianoid
 liar
-liar's
 liard
 liards
 liars
@@ -4565,7 +4501,6 @@ liberationists
 liberations
 liberative
 liberator
-liberator's
 liberators
 liberatory
 liberatress
@@ -4587,7 +4522,6 @@ libertine
 libertines
 libertinism
 liberty
-liberty's
 libertyless
 liberum
 libethenite
@@ -4615,7 +4549,6 @@ librae
 librairie
 libral
 librarian
-librarian's
 librarianess
 librarians
 librarianship
@@ -4624,7 +4557,6 @@ librarii
 librarious
 librarius
 library
-library's
 libraryless
 libras
 librate
@@ -4687,7 +4619,6 @@ lichanos
 lichee
 lichees
 lichen
-lichen's
 lichenaceous
 lichened
 lichenian
@@ -4764,7 +4695,6 @@ lictors
 licuri
 licury
 lid
-lid's
 lidar
 lidars
 lidded
@@ -4812,7 +4742,6 @@ lieges
 liegewoman
 liegier
 lien
-lien's
 lienable
 lienal
 lienculi
@@ -4858,7 +4787,6 @@ lieut
 lieutenancies
 lieutenancy
 lieutenant
-lieutenant's
 lieutenantry
 lieutenants
 lieutenantship
@@ -4917,7 +4845,6 @@ lifespring
 lifestyle
 lifestyles
 lifetime
-lifetime's
 lifetimes
 lifeward
 lifeway
@@ -4991,7 +4918,6 @@ lighteners
 lightening
 lightens
 lighter
-lighter's
 lighterage
 lightered
 lighterful
@@ -5018,7 +4944,6 @@ lighthearted
 lightheartedly
 lightheartedness
 lighthouse
-lighthouse's
 lighthouseman
 lighthouses
 lighting
@@ -5037,7 +4962,6 @@ lightmindedness
 lightmouthed
 lightness
 lightning
-lightning's
 lightningbug
 lightninged
 lightninglike
@@ -5153,7 +5077,6 @@ likemindedness
 liken
 likened
 likeness
-likeness's
 likenesses
 likening
 likens
@@ -5178,7 +5101,6 @@ liknon
 likuta
 lila
 lilac
-lilac's
 lilaceous
 lilacin
 lilacky
@@ -5212,7 +5134,6 @@ liltingly
 liltingness
 lilts
 lily
-lily's
 lilyfy
 lilyhanded
 lilylike
@@ -5278,7 +5199,6 @@ limbus
 limbuses
 limby
 lime
-lime's
 limeade
 limeades
 limeberries
@@ -5336,7 +5256,6 @@ limitaries
 limitary
 limitate
 limitation
-limitation's
 limitational
 limitations
 limitative
@@ -5507,7 +5426,6 @@ lindworm
 lindy
 lindying
 line
-line's
 linea
 lineable
 lineage
@@ -5563,7 +5481,6 @@ linelike
 lineman
 linemen
 linen
-linen's
 linendrapers
 linener
 linenette
@@ -5660,7 +5577,6 @@ linguinis
 linguipotence
 linguished
 linguist
-linguist's
 linguister
 linguistic
 linguistical
@@ -5704,7 +5620,6 @@ linje
 link
 linkable
 linkage
-linkage's
 linkages
 linkboy
 linkboys
@@ -5810,13 +5725,11 @@ liodermia
 liomyofibroma
 liomyoma
 lion
-lion's
 lionced
 lioncel
 lionel
 lionesque
 lioness
-lioness's
 lionesses
 lionet
 lionfish
@@ -5850,7 +5763,6 @@ lions
 lionship
 liotrichine
 lip
-lip's
 lipa
 lipacidemia
 lipaciduria
@@ -6019,7 +5931,6 @@ liqueured
 liqueuring
 liqueurs
 liquid
-liquid's
 liquidable
 liquidambar
 liquidamber
@@ -6028,7 +5939,6 @@ liquidated
 liquidates
 liquidating
 liquidation
-liquidation's
 liquidations
 liquidator
 liquidators
@@ -6060,7 +5970,6 @@ liquiform
 liquify
 liquifying
 liquor
-liquor's
 liquored
 liquorer
 liquorice
@@ -6103,7 +6012,6 @@ lisk
 lisle
 lisles
 lisp
-lisp's
 lisped
 lisper
 lispers
@@ -6154,7 +6062,6 @@ listeriosis
 listers
 listful
 listing
-listing's
 listings
 listless
 listlessly
@@ -6224,7 +6131,6 @@ literato
 literator
 literatos
 literature
-literature's
 literatured
 literatures
 literatus
@@ -6624,7 +6530,6 @@ lixivium
 lixiviums
 liza
 lizard
-lizard's
 lizardfish
 lizardfishes
 lizardlike
@@ -6642,11 +6547,8 @@ llareta
 llautu
 llb
 ller
-lloyd's
 llyn
 lm
-lm/ft
-lm/m
 ln
 lndg
 lnr
@@ -6766,7 +6668,6 @@ lobbymen
 lobcock
 lobcokt
 lobe
-lobe's
 lobectomies
 lobectomy
 lobed
@@ -6811,7 +6712,6 @@ lobscouse
 lobscouser
 lobsided
 lobster
-lobster's
 lobstering
 lobsterish
 lobsterlike
@@ -6860,7 +6760,6 @@ localite
 localites
 localities
 locality
-locality's
 localizable
 localization
 localizations
@@ -6890,7 +6789,6 @@ locations
 locative
 locatives
 locator
-locator's
 locators
 locatum
 locellate
@@ -6950,7 +6848,6 @@ lockman
 locknut
 locknuts
 lockout
-lockout's
 lockouts
 lockpin
 lockram
@@ -6967,7 +6864,6 @@ lockstep
 locksteps
 lockstitch
 lockup
-lockup's
 lockups
 lockwork
 locky
@@ -6992,7 +6888,6 @@ locomotility
 locomoting
 locomotion
 locomotive
-locomotive's
 locomotively
 locomotiveman
 locomotivemen
@@ -7028,7 +6923,6 @@ locupletely
 locus
 locusca
 locust
-locust's
 locusta
 locustae
 locustal
@@ -7096,7 +6990,6 @@ loessoid
 lof
 lofstelle
 loft
-loft's
 lofted
 lofter
 lofters
@@ -7113,7 +7006,6 @@ loftsman
 loftsmen
 lofty
 log
-log's
 logan
 loganberries
 loganberry
@@ -7122,7 +7014,6 @@ loganin
 logans
 logaoedic
 logarithm
-logarithm's
 logarithmal
 logarithmetic
 logarithmetical
@@ -7145,7 +7036,6 @@ loggat
 loggats
 logged
 logger
-logger's
 loggerhead
 loggerheaded
 loggerheads
@@ -7167,7 +7057,6 @@ loghead
 logheaded
 logia
 logic
-logic's
 logical
 logicalist
 logicality
@@ -7177,7 +7066,6 @@ logically
 logicalness
 logicaster
 logician
-logician's
 logicianer
 logicians
 logicise
@@ -7298,7 +7186,6 @@ loimic
 loimography
 loimology
 loin
-loin's
 loincloth
 loinclothes
 loincloths
@@ -7469,7 +7356,6 @@ longirostrine
 longisection
 longish
 longitude
-longitude's
 longitudes
 longitudianl
 longitudinal
@@ -7577,7 +7463,6 @@ lookouts
 looks
 lookum
 lookup
-lookup's
 lookups
 looky
 loom
@@ -7605,7 +7490,6 @@ looper
 loopers
 loopful
 loophole
-loophole's
 loopholed
 loopholes
 loopholing
@@ -7717,7 +7601,6 @@ loquent
 loquently
 loquitur
 lor
-lor'
 lora
 loral
 loran
@@ -7826,7 +7709,6 @@ losing
 losingly
 losings
 loss
-loss's
 lossenite
 losser
 losses
@@ -7841,7 +7723,6 @@ lostling
 lostness
 lostnesses
 lot
-lot's
 lota
 lotah
 lotahs
@@ -7906,7 +7787,6 @@ loudness
 loudnesses
 loudspeak
 loudspeaker
-loudspeaker's
 loudspeakers
 loudspeaking
 louey
@@ -8180,7 +8060,6 @@ loyally
 loyalness
 loyalties
 loyalty
-loyalty's
 loyn
 lozenge
 lozenged
@@ -8217,7 +8096,6 @@ lubra
 lubric
 lubrical
 lubricant
-lubricant's
 lubricants
 lubricate
 lubricated
@@ -8611,7 +8489,6 @@ lunatum
 lunch
 lunched
 luncheon
-luncheon's
 luncheoner
 luncheonette
 luncheonettes
@@ -8867,7 +8744,6 @@ lutany
 lutarious
 lutation
 lute
-lute's
 lutea
 luteal
 lutecia
@@ -8967,7 +8843,6 @@ luxuriousness
 luxurist
 luxurity
 luxury
-luxury's
 luxus
 lv
 lvalue
@@ -9181,7 +9056,6 @@ lyncine
 lynn
 lynnhaven
 lynx
-lynx's
 lynxes
 lynxlike
 lyocratic

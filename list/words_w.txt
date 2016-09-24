@@ -1,9 +1,5 @@
 w
-w's
-w/
-w/o
 wa
-wa'
 waac
 waag
 waapa
@@ -117,7 +113,6 @@ waesuck
 waesucks
 waf
 wafer
-wafer's
 wafered
 waferer
 wafering
@@ -135,7 +130,6 @@ waffie
 waffies
 waffing
 waffle
-waffle's
 waffled
 waffles
 wafflike
@@ -318,13 +312,11 @@ wairs
 wairsh
 waise
 waist
-waist's
 waistband
 waistbands
 waistcloth
 waistcloths
 waistcoat
-waistcoat's
 waistcoated
 waistcoateer
 waistcoathole
@@ -356,7 +348,6 @@ waitingly
 waitings
 waitlist
 waitress
-waitress's
 waitresses
 waitressless
 waits
@@ -487,7 +478,6 @@ walled
 waller
 wallerian
 wallet
-wallet's
 walletful
 wallets
 walleye
@@ -534,11 +524,9 @@ wally
 wallydrag
 wallydraigle
 walnut
-walnut's
 walnuts
 walpurgite
 walrus
-walrus's
 walruses
 walsh
 walspere
@@ -754,7 +742,6 @@ wappet
 wapping
 waps
 war
-war's
 warabi
 waragi
 warantee
@@ -808,7 +795,6 @@ wardmote
 wardress
 wardresses
 wardrobe
-wardrobe's
 wardrober
 wardrobes
 wardroom
@@ -1001,7 +987,6 @@ warrantor
 warrantors
 warrants
 warranty
-warranty's
 warratau
 warray
 warred
@@ -1017,7 +1002,6 @@ warrigals
 warrin
 warring
 warrior
-warrior's
 warrioress
 warriorhood
 warriorism
@@ -1035,7 +1019,6 @@ warsaws
 warse
 warsel
 warship
-warship's
 warships
 warsle
 warsled
@@ -1051,7 +1034,6 @@ warstlers
 warstles
 warstling
 wart
-wart's
 warted
 wartern
 wartflower
@@ -1161,10 +1143,8 @@ washwomen
 washwork
 washy
 wasn
-wasn't
 wasnt
 wasp
-wasp's
 waspen
 wasphood
 waspier
@@ -1309,7 +1289,6 @@ watchwise
 watchwoman
 watchwomen
 watchword
-watchword's
 watchwords
 watchwork
 watchworks
@@ -1361,7 +1340,6 @@ watered
 waterer
 waterers
 waterfall
-waterfall's
 waterfalls
 waterfinder
 waterflood
@@ -1459,7 +1437,6 @@ waterwall
 waterward
 waterwards
 waterway
-waterway's
 waterways
 waterweed
 waterwheel
@@ -1545,10 +1522,8 @@ waveband
 wavebands
 waved
 waveform
-waveform's
 waveforms
 wavefront
-wavefront's
 wavefronts
 waveguide
 waveguides
@@ -1650,7 +1625,6 @@ waxworm
 waxworms
 waxy
 way
-way's
 wayaka
 wayang
 wayback
@@ -1718,10 +1692,6 @@ wb
 wc
 wd
 we
-we'd
-we'll
-we're
-we've
 weak
 weakbrained
 weaken
@@ -1749,7 +1719,6 @@ weaklings
 weakly
 weakmouthed
 weakness
-weakness's
 weaknesses
 weaky
 weal
@@ -1792,7 +1761,6 @@ weanly
 weans
 weanyer
 weapon
-weapon's
 weaponed
 weaponeer
 weaponing
@@ -1847,7 +1815,6 @@ wearyingly
 weasand
 weasands
 weasel
-weasel's
 weaseled
 weaselfish
 weaseling
@@ -1870,7 +1837,6 @@ weatherbound
 weatherbreak
 weathercast
 weathercock
-weathercock's
 weathercockish
 weathercockism
 weathercocks
@@ -1920,7 +1886,6 @@ weaveable
 weaved
 weavement
 weaver
-weaver's
 weaverbird
 weaveress
 weavers
@@ -1932,7 +1897,6 @@ weazen
 weazened
 weazeny
 web
-web's
 webbed
 webber
 webbier
@@ -1978,7 +1942,6 @@ weddeed
 wedder
 wedders
 wedding
-wedding's
 weddinger
 weddings
 wede
@@ -2007,7 +1970,6 @@ wedgy
 wedlock
 wedlocks
 wednesday
-wednesday's
 wednesdays
 weds
 wedset
@@ -2043,7 +2005,6 @@ week
 weekday
 weekdays
 weekend
-weekend's
 weekended
 weekender
 weekending
@@ -2380,7 +2341,6 @@ wemmy
 wemodness
 wen
 wench
-wench's
 wenched
 wenchel
 wencher
@@ -2436,7 +2396,6 @@ werejaguar
 wereleopard
 werelion
 weren
-weren't
 werent
 weretiger
 werewall
@@ -2690,16 +2649,10 @@ wharves
 whase
 whasle
 what
-what'd
-what'll
-what're
-what's
-what've
 whata
 whatabouts
 whatchy
 whatd
-whate'er
 whatever
 whatkin
 whatlike
@@ -2713,7 +2666,6 @@ whatreck
 whats
 whatsis
 whatso
-whatsoe'er
 whatsoeer
 whatsoever
 whatsomever
@@ -2871,10 +2823,6 @@ whelve
 whemmel
 whemmle
 when
-when'd
-when'll
-when're
-when's
 whenabouts
 whenas
 whence
@@ -2884,22 +2832,14 @@ whenceforward
 whencesoeer
 whencesoever
 whencever
-whene'er
 wheneer
 whenever
 whenness
 whens
 whenso
-whensoe'er
 whensoever
 whensomever
 where
-where'd
-where'er
-where'll
-where're
-where's
-where've
 whereabout
 whereabouts
 whereafter
@@ -2929,7 +2869,6 @@ whereover
 wherere
 wheres
 whereso
-wheresoe'er
 wheresoeer
 wheresoever
 wheresomever
@@ -3070,7 +3009,6 @@ whils
 whilst
 whilter
 whim
-whim's
 whimberry
 whimble
 whimbrel
@@ -3100,7 +3038,6 @@ whimsied
 whimsies
 whimstone
 whimsy
-whimsy's
 whimwham
 whimwhams
 whin
@@ -3141,7 +3078,6 @@ whinstone
 whiny
 whinyard
 whip
-whip's
 whipbelly
 whipbird
 whipcat
@@ -3168,7 +3104,6 @@ whippable
 whipparee
 whipped
 whipper
-whipper's
 whipperginny
 whippers
 whippersnapper
@@ -3181,7 +3116,6 @@ whippier
 whippiest
 whippiness
 whipping
-whipping's
 whippingly
 whippings
 whippletree
@@ -3244,7 +3178,6 @@ whirlingly
 whirlmagee
 whirlpit
 whirlpool
-whirlpool's
 whirlpools
 whirlpuff
 whirls
@@ -3518,18 +3451,12 @@ whizzing
 whizzingly
 whizzle
 who
-who'd
-who'll
-who're
-who's
-who've
 whoa
 whod
 whodunit
 whodunits
 whodunnit
 whoever
-whoever's
 whole
 wholefood
 wholehearted
@@ -3603,7 +3530,6 @@ whopping
 whops
 whorage
 whore
-whore's
 whored
 whoredom
 whoredoms
@@ -3627,7 +3553,6 @@ whorish
 whorishly
 whorishness
 whorl
-whorl's
 whorle
 whorled
 whorlflower
@@ -3679,9 +3604,6 @@ whutter
 whuttering
 whuz
 why
-why'll
-why're
-why's
 whydah
 whydahs
 whyever
@@ -3834,7 +3756,6 @@ wierangle
 wierd
 wiesenboden
 wife
-wife's
 wifecarl
 wifed
 wifedom
@@ -3863,7 +3784,6 @@ wifing
 wifish
 wifock
 wig
-wig's
 wigan
 wigans
 wigdom
@@ -3925,7 +3845,6 @@ wild
 wildbore
 wildcard
 wildcat
-wildcat's
 wildcats
 wildcatted
 wildcatter
@@ -4036,7 +3955,6 @@ willmaking
 willness
 willock
 willow
-willow's
 willowbiter
 willowed
 willower
@@ -4213,7 +4131,6 @@ windlin
 windling
 windlings
 windmill
-windmill's
 windmilled
 windmilling
 windmills
@@ -4221,7 +4138,6 @@ windmilly
 windock
 windore
 window
-window's
 windowed
 windowful
 windowing
@@ -4418,7 +4334,6 @@ winned
 winnel
 winnelstrae
 winner
-winner's
 winners
 winning
 winningly
@@ -4575,7 +4490,6 @@ wirespun
 wirestitched
 wiretail
 wiretap
-wiretap's
 wiretapped
 wiretapper
 wiretappers
@@ -4684,7 +4598,6 @@ wiskinkie
 wiskinky
 wismuth
 wisp
-wisp's
 wisped
 wispier
 wispiest
@@ -4725,7 +4638,6 @@ wistonwish
 wists
 wisure
 wit
-wit's
 witan
 witch
 witchbells
@@ -4783,7 +4695,6 @@ withdraught
 withdraw
 withdrawable
 withdrawal
-withdrawal's
 withdrawals
 withdrawer
 withdrawing
@@ -4955,7 +4866,6 @@ wiving
 wiwi
 wiz
 wizard
-wizard's
 wizardess
 wizardism
 wizardlike
@@ -5075,7 +4985,6 @@ woldsman
 woldy
 woleai
 wolf
-wolf'smilk
 wolfachite
 wolfbane
 wolfberries
@@ -5133,7 +5042,6 @@ wolvers
 wolves
 wolvish
 woman
-woman's
 womanbodies
 womanbody
 womandom
@@ -5181,7 +5089,6 @@ womanship
 womanways
 womanwise
 womb
-womb's
 wombat
 wombats
 wombed
@@ -5193,7 +5100,6 @@ wombside
 wombstone
 womby
 women
-women's
 womenfolk
 womenfolks
 womenkind
@@ -5209,7 +5115,6 @@ wommeras
 womp
 womplit
 won
-won't
 wonder
 wonderberries
 wonderberry
@@ -5305,11 +5210,9 @@ woodchats
 woodchopper
 woodchopping
 woodchuck
-woodchuck's
 woodchucks
 woodcoc
 woodcock
-woodcock's
 woodcockize
 woodcocks
 woodcracker
@@ -5396,7 +5299,6 @@ woodnotes
 woodoo
 woodpeck
 woodpecker
-woodpecker's
 woodpeckers
 woodpenny
 woodpile
@@ -5590,7 +5492,6 @@ worble
 worcester
 worcestershire
 word
-word's
 wordable
 wordably
 wordage
@@ -5663,12 +5564,10 @@ workbags
 workbank
 workbasket
 workbench
-workbench's
 workbenches
 workboat
 workboats
 workbook
-workbook's
 workbooks
 workbox
 workboxes
@@ -5687,7 +5586,6 @@ workful
 workgirl
 workhand
 workhorse
-workhorse's
 workhorses
 workhouse
 workhoused
@@ -5727,7 +5625,6 @@ worksheet
 worksheets
 workship
 workshop
-workshop's
 workshops
 workshy
 worksome
@@ -5751,7 +5648,6 @@ workwomen
 worky
 workyard
 world
-world's
 worldaught
 worldbeater
 worldbeaters
@@ -5934,7 +5830,6 @@ would
 wouldest
 woulding
 wouldn
-wouldn't
 wouldnt
 wouldst
 woulfe
@@ -6014,14 +5909,12 @@ wrangs
 wrannock
 wranny
 wrap
-wrap's
 wraparound
 wraparounds
 wraple
 wrappage
 wrapped
 wrapper
-wrapper's
 wrapperer
 wrappering
 wrappers
@@ -6106,7 +5999,6 @@ wreckings
 wrecks
 wrecky
 wren
-wren's
 wrench
 wrenched
 wrencher
@@ -6198,7 +6090,6 @@ wrinkliest
 wrinkling
 wrinkly
 wrist
-wrist's
 wristband
 wristbands
 wristbone
@@ -6214,12 +6105,10 @@ wristlets
 wristlock
 wrists
 wristwatch
-wristwatch's
 wristwatches
 wristwork
 wristy
 writ
-writ's
 writability
 writable
 writation
@@ -6230,7 +6119,6 @@ writee
 writeoff
 writeoffs
 writer
-writer's
 writeress
 writerling
 writers
@@ -6270,7 +6158,6 @@ wrocht
 wroke
 wroken
 wrong
-wrong'un
 wrongdo
 wrongdoer
 wrongdoers

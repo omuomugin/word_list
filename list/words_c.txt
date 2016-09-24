@@ -1,12 +1,5 @@
 c
-c's
-c/d
-c/f
-c/m
-c/o
 ca
-ca'
-ca'canny
 caaba
 caam
 caama
@@ -14,7 +7,6 @@ caaming
 caapeba
 caatinga
 cab
-cab's
 caba
 cabaa
 cabaan
@@ -56,7 +48,6 @@ cabasa
 cabasset
 cabassou
 cabbage
-cabbage's
 cabbaged
 cabbagehead
 cabbageheaded
@@ -111,10 +102,8 @@ cabildo
 cabildos
 cabilliau
 cabin
-cabin's
 cabined
 cabinet
-cabinet's
 cabineted
 cabineting
 cabinetmake
@@ -236,7 +225,6 @@ cachalote
 cachalots
 cachaza
 cache
-cache's
 cachectic
 cachectical
 cached
@@ -603,7 +591,6 @@ caf
 cafard
 cafardise
 cafe
-cafe's
 cafeneh
 cafenet
 cafes
@@ -849,7 +836,6 @@ calamitous
 calamitously
 calamitousness
 calamity
-calamity's
 calamondin
 calamumi
 calamus
@@ -1034,7 +1020,6 @@ calculational
 calculations
 calculative
 calculator
-calculator's
 calculators
 calculatory
 calculer
@@ -1078,7 +1063,6 @@ calembour
 calenda
 calendal
 calendar
-calendar's
 calendared
 calendarer
 calendarial
@@ -1377,7 +1361,6 @@ caloricity
 calorics
 caloriduct
 calorie
-calorie's
 calories
 calorifacient
 calorific
@@ -1627,7 +1610,6 @@ camden
 came
 cameist
 camel
-camel's
 camelback
 cameleer
 cameleers
@@ -1661,7 +1643,6 @@ cameography
 cameoing
 cameos
 camera
-camera's
 camerae
 cameral
 cameralism
@@ -1900,7 +1881,6 @@ camptonite
 campulitropal
 campulitropous
 campus
-campus's
 campuses
 campusses
 campward
@@ -1928,8 +1908,6 @@ camused
 camuses
 camwood
 can
-can's
-can't
 canaan
 canaanite
 canaanites
@@ -1955,7 +1933,6 @@ canajong
 canakin
 canakins
 canal
-canal's
 canalage
 canalatura
 canalboat
@@ -2007,7 +1984,6 @@ canaries
 canarin
 canarine
 canary
-canary's
 canasta
 canastas
 canaster
@@ -2035,7 +2011,6 @@ cancellarius
 cancellate
 cancellated
 cancellation
-cancellation's
 cancellations
 cancelled
 canceller
@@ -2046,7 +2021,6 @@ cancellus
 cancelment
 cancels
 cancer
-cancer's
 cancerate
 cancerated
 cancerating
@@ -2109,7 +2083,6 @@ candidacies
 candidacy
 candidas
 candidate
-candidate's
 candidated
 candidates
 candidateship
@@ -2164,7 +2137,6 @@ candleshrift
 candlesnuffer
 candlestand
 candlestick
-candlestick's
 candlesticked
 candlesticks
 candlestickward
@@ -2335,14 +2307,12 @@ cannelure
 cannelured
 cannequin
 canner
-canner's
 canneries
 canners
 cannery
 cannet
 cannetille
 cannibal
-cannibal's
 cannibalean
 cannibalic
 cannibalish
@@ -2367,11 +2337,9 @@ canniness
 canning
 cannings
 cannister
-cannister's
 cannisters
 cannoli
 cannon
-cannon's
 cannonade
 cannonaded
 cannonades
@@ -2404,7 +2372,6 @@ cannulating
 cannulation
 canny
 canoe
-canoe's
 canoed
 canoeing
 canoeist
@@ -2415,7 +2382,6 @@ canoes
 canoewood
 canoing
 canon
-canon's
 canoncito
 canones
 canoness
@@ -2597,7 +2563,6 @@ cantline
 cantling
 canto
 canton
-canton's
 cantonal
 cantonalism
 cantoned
@@ -2610,7 +2575,6 @@ cantonments
 cantons
 cantoon
 cantor
-cantor's
 cantoral
 cantoria
 cantorial
@@ -2644,7 +2608,6 @@ canulates
 canulating
 canun
 canvas
-canvas's
 canvasado
 canvasback
 canvasbacks
@@ -2664,7 +2627,6 @@ canvassing
 canvassy
 cany
 canyon
-canyon's
 canyons
 canyonside
 canzo
@@ -2685,11 +2647,9 @@ caoutchin
 caoutchouc
 caoutchoucin
 cap
-cap's
 capa
 capabilities
 capability
-capability's
 capable
 capableness
 capabler
@@ -2714,7 +2674,6 @@ capacities
 capacitive
 capacitively
 capacitor
-capacitor's
 capacitors
 capacity
 capanna
@@ -2828,7 +2787,6 @@ capitaliser
 capitalising
 capitalism
 capitalist
-capitalist's
 capitalistic
 capitalistically
 capitalists
@@ -2865,7 +2823,6 @@ capitelliform
 capitellum
 capitle
 capitol
-capitol's
 capitoline
 capitols
 capitoul
@@ -3099,7 +3056,6 @@ captans
 captate
 captation
 caption
-caption's
 captioned
 captioning
 captionless
@@ -3120,14 +3076,12 @@ captivator
 captivators
 captivatrix
 captive
-captive's
 captived
 captives
 captiving
 captivities
 captivity
 captor
-captor's
 captors
 captress
 capturable
@@ -3158,7 +3112,6 @@ caqueteuses
 caquetoire
 caquetoires
 car
-car's
 carabao
 carabaos
 carabeen
@@ -3276,7 +3229,6 @@ carats
 carauna
 caraunda
 caravan
-caravan's
 caravaned
 caravaneer
 caravaner
@@ -3377,7 +3329,6 @@ carbomethoxy
 carbomethoxyl
 carbomycin
 carbon
-carbon's
 carbona
 carbonaceous
 carbonade
@@ -3521,7 +3472,6 @@ carcased
 carcases
 carcasing
 carcass
-carcass's
 carcassed
 carcasses
 carcassing
@@ -3642,7 +3592,6 @@ cardinalitial
 cardinalitian
 cardinalities
 cardinality
-cardinality's
 cardinally
 cardinals
 cardinalship
@@ -3784,7 +3733,6 @@ careeners
 careening
 careens
 career
-career's
 careered
 careerer
 careerers
@@ -4051,7 +3999,6 @@ carnify
 carnifying
 carnitine
 carnival
-carnival's
 carnivaler
 carnivalesque
 carnivaller
@@ -4087,7 +4034,6 @@ caroche
 caroches
 caroigne
 carol
-carol's
 carole
 carolean
 caroled
@@ -4096,7 +4042,6 @@ carolers
 caroli
 carolin
 carolina
-carolina's
 carolinas
 caroline
 carolines
@@ -4170,7 +4115,6 @@ carpellum
 carpels
 carpent
 carpenter
-carpenter's
 carpentered
 carpentering
 carpenters
@@ -4297,7 +4241,6 @@ carretta
 carri
 carriable
 carriage
-carriage's
 carriageable
 carriageful
 carriageless
@@ -4334,7 +4277,6 @@ carronade
 carroon
 carrosserie
 carrot
-carrot's
 carrotage
 carroter
 carrotier
@@ -4441,7 +4383,6 @@ cartography
 cartomancies
 cartomancy
 carton
-carton's
 cartoned
 cartoner
 cartonful
@@ -4451,7 +4392,6 @@ cartonnier
 cartonniers
 cartons
 cartoon
-cartoon's
 cartooned
 cartooning
 cartoonist
@@ -4463,7 +4403,6 @@ cartouch
 cartouche
 cartouches
 cartridge
-cartridge's
 cartridges
 carts
 cartsale
@@ -4631,7 +4570,6 @@ casemate
 casemated
 casemates
 casement
-casement's
 casemented
 casements
 caseolysis
@@ -4680,7 +4618,6 @@ cashew
 cashews
 cashgirl
 cashier
-cashier's
 cashiered
 cashierer
 cashiering
@@ -4710,11 +4647,9 @@ casiri
 casita
 casitas
 cask
-cask's
 caskanet
 casked
 casket
-casket's
 casketed
 casketing
 casketlike
@@ -4755,7 +4690,6 @@ casse
 casselty
 cassena
 casserole
-casserole's
 casseroled
 casseroles
 casseroling
@@ -4807,7 +4741,6 @@ cassumunar
 cassumuniar
 cassy
 cast
-cast's
 castable
 castagnole
 castalia
@@ -4918,7 +4851,6 @@ casualness
 casuals
 casualties
 casualty
-casualty's
 casuarina
 casuarinaceous
 casuary
@@ -4936,7 +4868,6 @@ casus
 casusistry
 caswellite
 cat
-cat's
 catabaptist
 catabases
 catabasion
@@ -5065,7 +4996,6 @@ catalyse
 catalyses
 catalysis
 catalyst
-catalyst's
 catalysts
 catalyte
 catalytic
@@ -5310,7 +5240,6 @@ categorizers
 categorizes
 categorizing
 category
-category's
 catel
 catelectrode
 catelectrotonic
@@ -5351,7 +5280,6 @@ cateresses
 catering
 cateringly
 caterpillar
-caterpillar's
 caterpillared
 caterpillarlike
 caterpillars
@@ -5407,7 +5335,6 @@ cathects
 cathedra
 cathedrae
 cathedral
-cathedral's
 cathedraled
 cathedralesque
 cathedralic
@@ -5455,7 +5382,6 @@ cathisma
 cathismata
 cathodal
 cathode
-cathode's
 cathodegraph
 cathodes
 cathodic
@@ -5470,7 +5396,6 @@ cathograph
 cathography
 cathole
 catholic
-catholic's
 catholical
 catholically
 catholicalness
@@ -5758,7 +5683,6 @@ causans
 causata
 causate
 causation
-causation's
 causational
 causationism
 causationist
@@ -5784,7 +5708,6 @@ causeur
 causeuse
 causeuses
 causeway
-causeway's
 causewayed
 causewaying
 causewayman
@@ -5897,7 +5820,6 @@ cave
 cavea
 caveae
 caveat
-caveat's
 caveated
 caveatee
 caveating
@@ -5916,7 +5838,6 @@ cavemen
 cavendish
 caver
 cavern
-cavern's
 cavernal
 caverned
 cavernicolous
@@ -5974,7 +5895,6 @@ caviteno
 cavitied
 cavities
 cavity
-cavity's
 caviya
 cavort
 cavorted
@@ -6138,7 +6058,6 @@ ceilers
 ceilidh
 ceilidhe
 ceiling
-ceiling's
 ceilinged
 ceilings
 ceilingward
@@ -6186,7 +6105,6 @@ celebret
 celebrious
 celebrities
 celebrity
-celebrity's
 celebs
 celemin
 celemines
@@ -6266,7 +6184,6 @@ cella
 cellae
 cellager
 cellar
-cellar's
 cellarage
 cellared
 cellarer
@@ -6295,7 +6212,6 @@ cellifugal
 celling
 cellipetal
 cellist
-cellist's
 cellists
 cellmate
 cellmates
@@ -6391,7 +6307,6 @@ cemetary
 cemeterial
 cemeteries
 cemetery
-cemetery's
 cen
 cenacle
 cenacles
@@ -6473,7 +6388,6 @@ censures
 censureship
 censuring
 census
-census's
 censused
 censuses
 censusing
@@ -6517,7 +6431,6 @@ centennially
 centennials
 centennium
 center
-center's
 centerable
 centerboard
 centerboards
@@ -6532,7 +6445,6 @@ centerless
 centerline
 centermost
 centerpiece
-centerpiece's
 centerpieces
 centerpunch
 centers
@@ -6587,7 +6499,6 @@ centinody
 centinormal
 centipedal
 centipede
-centipede's
 centipedes
 centiplume
 centipoise
@@ -6747,7 +6658,6 @@ centurion
 centurions
 centurist
 century
-century's
 ceonocyte
 ceorl
 ceorlish
@@ -6970,7 +6880,6 @@ cercopod
 cercus
 cere
 cereal
-cereal's
 cerealian
 cerealin
 cerealism
@@ -7076,7 +6985,6 @@ ceremonious
 ceremoniously
 ceremoniousness
 ceremony
-ceremony's
 cerenkov
 cereous
 cerer
@@ -7291,7 +7199,6 @@ cess
 cessant
 cessantly
 cessation
-cessation's
 cessations
 cessative
 cessavit
@@ -7397,7 +7304,6 @@ cg
 cgm
 cgs
 ch
-ch'in
 cha
 chaa
 chab
@@ -7568,7 +7474,6 @@ chairmen
 chairmender
 chairmending
 chairperson
-chairperson's
 chairpersons
 chairs
 chairwarmer
@@ -7671,7 +7576,6 @@ chalehs
 chalet
 chalets
 chalice
-chalice's
 chaliced
 chalices
 chalicosis
@@ -7765,7 +7669,6 @@ chamberer
 chamberfellow
 chambering
 chamberlain
-chamberlain's
 chamberlainry
 chamberlains
 chamberlainship
@@ -7867,7 +7770,6 @@ championless
 championlike
 champions
 championship
-championship's
 championships
 champlev
 champleve
@@ -7930,7 +7832,6 @@ chancy
 chandala
 chandam
 chandelier
-chandelier's
 chandeliers
 chandelle
 chandelled
@@ -8003,7 +7904,6 @@ channelizes
 channelizing
 channelled
 channeller
-channeller's
 channellers
 channelling
 channelly
@@ -8039,7 +7939,6 @@ chantey
 chanteyman
 chanteys
 chanticleer
-chanticleer's
 chanticleers
 chantier
 chanties
@@ -8069,7 +7968,6 @@ chaoticness
 chaoua
 chaoush
 chap
-chap's
 chapah
 chapapote
 chaparajos
@@ -8093,7 +7991,6 @@ chapeaus
 chapeaux
 chaped
 chapel
-chapel's
 chapeled
 chapeless
 chapelet
@@ -8128,7 +8025,6 @@ chapiters
 chapitle
 chapitral
 chaplain
-chaplain's
 chaplaincies
 chaplaincy
 chaplainry
@@ -8169,7 +8065,6 @@ chaptalize
 chaptalized
 chaptalizing
 chapter
-chapter's
 chapteral
 chaptered
 chapterful
@@ -8197,7 +8092,6 @@ characinoid
 characins
 charact
 character
-character's
 charactered
 characterful
 characterial
@@ -8213,7 +8107,6 @@ characterising
 characterism
 characterist
 characteristic
-characteristic's
 characteristical
 characteristically
 characteristicalness
@@ -8221,7 +8114,6 @@ characteristicness
 characteristics
 characterizable
 characterization
-characterization's
 characterizations
 characterize
 characterized
@@ -8306,7 +8198,6 @@ charily
 chariness
 charing
 chariot
-chariot's
 charioted
 chariotee
 charioteer
@@ -8331,7 +8222,6 @@ charitably
 charitative
 charities
 charity
-charity's
 charityless
 charivan
 charivari
@@ -8495,7 +8385,6 @@ chasid
 chasing
 chasings
 chasm
-chasm's
 chasma
 chasmal
 chasmed
@@ -8557,7 +8446,6 @@ chatchkas
 chatchke
 chatchkes
 chateau
-chateau's
 chateaubriand
 chateaugray
 chateaus
@@ -8778,7 +8666,6 @@ checkbit
 checkbite
 checkbits
 checkbook
-checkbook's
 checkbooks
 checke
 checked
@@ -8820,7 +8707,6 @@ checkoffs
 checkout
 checkouts
 checkpoint
-checkpoint's
 checkpointed
 checkpointing
 checkpoints
@@ -8841,7 +8727,6 @@ checkstone
 checkstrap
 checkstring
 checksum
-checksum's
 checksummed
 checksumming
 checksums
@@ -8874,7 +8759,6 @@ cheeful
 cheefuller
 cheefullest
 cheek
-cheek's
 cheekbone
 cheekbones
 cheeked
@@ -8936,7 +8820,6 @@ cheeros
 cheers
 cheery
 cheese
-cheese's
 cheeseboard
 cheesebox
 cheeseburger
@@ -8979,7 +8862,6 @@ cheetul
 cheewink
 cheezit
 chef
-chef's
 chefdom
 chefdoms
 chefs
@@ -9137,7 +9019,6 @@ chemisorb
 chemisorption
 chemisorptive
 chemist
-chemist's
 chemistries
 chemistry
 chemists
@@ -9294,7 +9175,6 @@ cheroots
 cherried
 cherries
 cherry
-cherry's
 cherryblossom
 cherrying
 cherrylike
@@ -9308,7 +9188,6 @@ chertiest
 cherts
 cherty
 cherub
-cherub's
 cherubfish
 cherubfishes
 cherubic
@@ -9370,7 +9249,6 @@ chestiest
 chestily
 chestiness
 chestnut
-chestnut's
 chestnuts
 chestnutty
 chests
@@ -9552,7 +9430,6 @@ chichling
 chick
 chickabiddy
 chickadee
-chickadee's
 chickadees
 chickaree
 chickasaw
@@ -9634,7 +9511,6 @@ chiefry
 chiefs
 chiefship
 chieftain
-chieftain's
 chieftaincies
 chieftaincy
 chieftainess
@@ -9728,7 +9604,6 @@ childness
 childproof
 childre
 children
-children's
 childrenite
 childridden
 childship
@@ -9832,7 +9707,6 @@ chimblies
 chimbly
 chimbs
 chime
-chime's
 chimed
 chimer
 chimera
@@ -9856,7 +9730,6 @@ chimlas
 chimley
 chimleys
 chimney
-chimney's
 chimneyed
 chimneyhead
 chimneying
@@ -9873,7 +9746,6 @@ chimpanzee
 chimpanzees
 chimps
 chin
-chin's
 china
 chinaberries
 chinaberry
@@ -10004,7 +9876,6 @@ chionophobia
 chiopin
 chiotilla
 chip
-chip's
 chipboard
 chipchap
 chipchop
@@ -10013,7 +9884,6 @@ chipling
 chipmuck
 chipmucks
 chipmunk
-chipmunk's
 chipmunks
 chipolata
 chippable
@@ -10478,7 +10348,6 @@ chlorophyllous
 chloropia
 chloropicrin
 chloroplast
-chloroplast's
 chloroplastic
 chloroplastid
 chloroplasts
@@ -10537,7 +10406,6 @@ chocard
 chocho
 chochos
 chock
-chock's
 chockablock
 chocked
 chocker
@@ -10549,7 +10417,6 @@ chocks
 chockstone
 choco
 chocolate
-chocolate's
 chocolates
 chocolatey
 chocolatier
@@ -10579,7 +10446,6 @@ choil
 choile
 choiler
 choir
-choir's
 choirboy
 choirboys
 choired
@@ -10934,7 +10800,6 @@ choplogic
 choplogical
 chopped
 chopper
-chopper's
 choppered
 choppers
 choppier
@@ -10963,7 +10828,6 @@ choralist
 chorally
 chorals
 chord
-chord's
 chorda
 chordacentrous
 chordacentrum
@@ -11251,7 +11115,6 @@ christening
 christens
 christhood
 christian
-christian's
 christiania
 christianism
 christianite
@@ -11545,7 +11408,6 @@ chronologists
 chronologize
 chronologizing
 chronology
-chronology's
 chronomancy
 chronomantic
 chronomastix
@@ -11679,7 +11541,6 @@ chubby
 chubs
 chubsucker
 chuck
-chuck's
 chuckawalla
 chucked
 chucker
@@ -11792,7 +11653,6 @@ chung
 chunga
 chungking
 chunk
-chunk's
 chunked
 chunkhead
 chunkier
@@ -11869,7 +11729,6 @@ churchwoman
 churchwomen
 churchy
 churchyard
-churchyard's
 churchyards
 churel
 churidars
@@ -11915,7 +11774,6 @@ chuser
 chusite
 chut
 chute
-chute's
 chuted
 chuter
 chutes
@@ -12124,12 +11982,10 @@ cig
 cigala
 cigale
 cigar
-cigar's
 cigaresque
 cigaret
 cigarets
 cigarette
-cigarette's
 cigarettes
 cigarfish
 cigarillo
@@ -12252,7 +12108,6 @@ cinctured
 cinctures
 cincturing
 cinder
-cinder's
 cindered
 cinderella
 cindering
@@ -12403,7 +12258,6 @@ cioppino
 cioppinos
 cipaye
 cipher
-cipher's
 cipherable
 cipherdom
 ciphered
@@ -12451,7 +12305,6 @@ circovarian
 circs
 circue
 circuit
-circuit's
 circuitable
 circuital
 circuited
@@ -12622,7 +12475,6 @@ circumlitio
 circumlittoral
 circumlocute
 circumlocution
-circumlocution's
 circumlocutional
 circumlocutionary
 circumlocutionist
@@ -12711,7 +12563,6 @@ circumspectness
 circumspheral
 circumsphere
 circumstance
-circumstance's
 circumstanced
 circumstances
 circumstancing
@@ -12765,7 +12616,6 @@ circumvolved
 circumvolving
 circumzenithal
 circus
-circus's
 circuses
 circusy
 circut
@@ -12863,7 +12713,6 @@ cistae
 cisted
 cistercian
 cistern
-cistern's
 cisterna
 cisternae
 cisternal
@@ -12883,11 +12732,9 @@ cistvaen
 cit
 citable
 citadel
-citadel's
 citadels
 cital
 citation
-citation's
 citational
 citations
 citator
@@ -12927,7 +12774,6 @@ citifying
 citigrade
 citing
 citizen
-citizen's
 citizendom
 citizeness
 citizenhood
@@ -13003,7 +12849,6 @@ citternhead
 citterns
 citua
 city
-city's
 citybuster
 citycism
 citydom
@@ -13040,7 +12885,6 @@ civile
 civiler
 civilest
 civilian
-civilian's
 civilianization
 civilianize
 civilians
@@ -13062,7 +12906,6 @@ civility
 civilizable
 civilizade
 civilization
-civilization's
 civilizational
 civilizationally
 civilizations
@@ -13159,7 +13002,6 @@ claik
 claim
 claimable
 claimant
-claimant's
 claimants
 claimed
 claimer
@@ -13196,7 +13038,6 @@ claithes
 claiver
 clake
 clam
-clam's
 clamant
 clamantly
 clamaroo
@@ -13504,11 +13345,9 @@ classlessness
 classman
 classmanship
 classmate
-classmate's
 classmates
 classmen
 classroom
-classroom's
 classrooms
 classwise
 classwork
@@ -13552,7 +13391,6 @@ claughts
 claus
 clausal
 clause
-clause's
 clauses
 clauster
 clausthalite
@@ -13661,7 +13499,6 @@ clawsick
 claxon
 claxons
 clay
-clay's
 claybank
 claybanks
 claybrained
@@ -13697,7 +13534,6 @@ clean
 cleanable
 cleaned
 cleaner
-cleaner's
 cleaners
 cleanest
 cleanhanded
@@ -13729,7 +13565,6 @@ clear
 clearable
 clearage
 clearance
-clearance's
 clearances
 clearcole
 cleared
@@ -13742,7 +13577,6 @@ clearheadedly
 clearheadedness
 clearhearted
 clearing
-clearing's
 clearinghouse
 clearinghouses
 clearings
@@ -13800,7 +13634,6 @@ cleeky
 clef
 clefs
 cleft
-cleft's
 clefted
 clefts
 cleg
@@ -13965,7 +13798,6 @@ cliack
 clianthus
 clich
 cliche
-cliche's
 cliched
 cliches
 click
@@ -13979,7 +13811,6 @@ clicks
 clicky
 cliency
 client
-client's
 clientage
 cliental
 cliented
@@ -13991,7 +13822,6 @@ clientry
 clients
 clientship
 cliff
-cliff's
 cliffed
 cliffhang
 cliffhanger
@@ -14030,7 +13860,6 @@ climata
 climatal
 climatarchic
 climate
-climate's
 climates
 climath
 climatic
@@ -14064,7 +13893,6 @@ climbingfish
 climbingfishes
 climbs
 clime
-clime's
 climes
 climograph
 clin
@@ -14107,7 +13935,6 @@ clingstones
 clingy
 clinia
 clinic
-clinic's
 clinical
 clinically
 clinician
@@ -14175,7 +14002,6 @@ clints
 clinty
 clio
 clip
-clip's
 clipboard
 clipboards
 clipei
@@ -14183,12 +14009,10 @@ clipeus
 clippable
 clipped
 clipper
-clipper's
 clipperman
 clippers
 clippie
 clipping
-clipping's
 clippingly
 clippings
 clips
@@ -14198,7 +14022,6 @@ clipsheets
 clipsome
 clipt
 clique
-clique's
 cliqued
 cliquedom
 cliqueier
@@ -14278,7 +14101,6 @@ cloacinal
 cloacinean
 cloacitis
 cloak
-cloak's
 cloakage
 cloaked
 cloakedly
@@ -14331,7 +14153,6 @@ clockwork
 clockworked
 clockworks
 clod
-clod's
 clodbreaker
 clodded
 clodder
@@ -14365,7 +14186,6 @@ clof
 cloff
 clofibrate
 clog
-clog's
 clogdogdo
 clogged
 clogger
@@ -14393,7 +14213,6 @@ cloisonn
 cloisonne
 cloisonnism
 cloister
-cloister's
 cloisteral
 cloistered
 cloisterer
@@ -14504,7 +14323,6 @@ clostridial
 clostridian
 clostridium
 closure
-closure's
 closured
 closures
 closuring
@@ -14652,7 +14470,6 @@ cloysome
 cloze
 clr
 club
-club's
 clubability
 clubable
 clubbability
@@ -14711,7 +14528,6 @@ clucks
 clucky
 cludder
 clue
-clue's
 clued
 clueing
 clueless
@@ -15249,7 +15065,6 @@ cobbing
 cobble
 cobbled
 cobbler
-cobbler's
 cobblerfish
 cobblerism
 cobblerless
@@ -15305,7 +15120,6 @@ coburgess
 coburgher
 coburghership
 cobweb
-cobweb's
 cobwebbed
 cobwebbery
 cobwebbier
@@ -15602,7 +15416,6 @@ cocksurety
 cockswain
 cocksy
 cocktail
-cocktail's
 cocktailed
 cocktailing
 cocktails
@@ -15638,10 +15451,8 @@ coconspirator
 coconstituent
 cocontractor
 coconut
-coconut's
 coconuts
 cocoon
-cocoon's
 cocooned
 cocooneries
 cocoonery
@@ -15750,7 +15561,6 @@ codetta
 codettas
 codette
 codeword
-codeword's
 codewords
 codex
 codfish
@@ -15774,11 +15584,9 @@ codicology
 codictatorship
 codifiability
 codification
-codification's
 codifications
 codified
 codifier
-codifier's
 codifiers
 codifies
 codify
@@ -15843,7 +15651,6 @@ coeffect
 coeffects
 coefficacy
 coefficient
-coefficient's
 coefficiently
 coefficients
 coeffluent
@@ -16132,7 +15939,6 @@ coferment
 cofermentation
 coff
 coffee
-coffee's
 coffeeberries
 coffeeberry
 coffeebush
@@ -16155,7 +15961,6 @@ coffeetime
 coffeeweed
 coffeewood
 coffer
-coffer's
 cofferdam
 cofferdams
 coffered
@@ -16166,7 +15971,6 @@ cofferlike
 coffers
 cofferwork
 coffin
-coffin's
 coffined
 coffing
 coffining
@@ -16466,7 +16270,6 @@ coinages
 coincide
 coincided
 coincidence
-coincidence's
 coincidences
 coincidency
 coincident
@@ -16752,7 +16555,6 @@ collaborative
 collaboratively
 collaborativeness
 collaborator
-collaborator's
 collaborators
 collada
 colladas
@@ -16818,7 +16620,6 @@ collatress
 collaud
 collaudation
 colleague
-colleague's
 colleagued
 colleagues
 colleagueship
@@ -16838,7 +16639,6 @@ collectible
 collectibles
 collecting
 collection
-collection's
 collectional
 collectioner
 collections
@@ -16861,7 +16661,6 @@ collectivizes
 collectivizing
 collectivum
 collector
-collector's
 collectorate
 collectors
 collectorship
@@ -16871,7 +16670,6 @@ colleen
 colleens
 collegatary
 college
-college's
 colleger
 collegers
 colleges
@@ -16973,7 +16771,6 @@ colliquativeness
 colliquefaction
 collis
 collision
-collision's
 collisional
 collisions
 collisive
@@ -17139,12 +16936,10 @@ colometric
 colometrically
 colometry
 colon
-colon's
 colonaded
 colonalgia
 colonate
 colonel
-colonel's
 colonelcies
 colonelcy
 colonels
@@ -17183,7 +16978,6 @@ coloniser
 colonises
 colonising
 colonist
-colonist's
 colonists
 colonitis
 colonizability
@@ -17208,7 +17002,6 @@ colonoscopy
 colons
 colonus
 colony
-colony's
 colopexia
 colopexotomy
 colopexy
@@ -17394,7 +17187,6 @@ colpus
 cols
 colstaff
 colt
-colt's
 colter
 colters
 colthood
@@ -17452,7 +17244,6 @@ columellate
 columelliform
 columels
 column
-column's
 columna
 columnal
 columnar
@@ -17542,7 +17333,6 @@ combasou
 combat
 combatable
 combatant
-combatant's
 combatants
 combated
 combater
@@ -17574,12 +17364,10 @@ combinant
 combinantive
 combinate
 combination
-combination's
 combinational
 combinations
 combinative
 combinator
-combinator's
 combinatorial
 combinatorially
 combinatoric
@@ -17651,7 +17439,6 @@ comeddle
 comedia
 comedial
 comedian
-comedian's
 comedians
 comediant
 comedic
@@ -17670,7 +17457,6 @@ comedos
 comedown
 comedowns
 comedy
-comedy's
 comelier
 comeliest
 comelily
@@ -17688,7 +17474,6 @@ comestible
 comestibles
 comestion
 comet
-comet's
 cometaria
 cometarium
 cometary
@@ -17739,7 +17524,6 @@ comfrey
 comfreys
 comfy
 comic
-comic's
 comical
 comicality
 comically
@@ -17784,14 +17568,11 @@ comity
 coml
 comm
 comma
-comma's
 commaes
 commaing
 command
-command's
 commandable
 commandant
-commandant's
 commandants
 commandatory
 commanded
@@ -17811,7 +17592,6 @@ commandingness
 commandite
 commandless
 commandment
-commandment's
 commandments
 commando
 commandoes
@@ -17860,7 +17640,6 @@ commence
 commenceable
 commenced
 commencement
-commencement's
 commencements
 commencer
 commences
@@ -17874,7 +17653,6 @@ commendador
 commendam
 commendatary
 commendation
-commendation's
 commendations
 commendator
 commendatories
@@ -17910,14 +17688,12 @@ commentarial
 commentarialism
 commentaries
 commentary
-commentary's
 commentate
 commentated
 commentating
 commentation
 commentative
 commentator
-commentator's
 commentatorial
 commentatorially
 commentators
@@ -18029,7 +17805,6 @@ commissurotomy
 commistion
 commit
 commitment
-commitment's
 commitments
 commits
 committable
@@ -18039,7 +17814,6 @@ committed
 committedly
 committedness
 committee
-committee's
 committeeism
 committeeman
 committeemen
@@ -18076,9 +17850,7 @@ commodiousness
 commoditable
 commodities
 commodity
-commodity's
 commodore
-commodore's
 commodores
 commoigne
 commolition
@@ -18093,7 +17865,6 @@ commonance
 commoned
 commonefaction
 commoner
-commoner's
 commoners
 commonership
 commonest
@@ -18169,7 +17940,6 @@ communicable
 communicableness
 communicably
 communicant
-communicant's
 communicants
 communicate
 communicated
@@ -18183,7 +17953,6 @@ communicative
 communicatively
 communicativeness
 communicator
-communicator's
 communicators
 communicatory
 communing
@@ -18202,7 +17971,6 @@ communised
 communising
 communism
 communist
-communist's
 communisteries
 communistery
 communistic
@@ -18217,7 +17985,6 @@ communities
 communitive
 communitorium
 community
-community's
 communitywide
 communization
 communize
@@ -18282,7 +18049,6 @@ compactions
 compactly
 compactness
 compactor
-compactor's
 compactors
 compacts
 compacture
@@ -18306,7 +18072,6 @@ companias
 companied
 companies
 companion
-companion's
 companionability
 companionable
 companionableness
@@ -18324,7 +18089,6 @@ companionship
 companionway
 companionways
 company
-company's
 companying
 companyless
 compar
@@ -18342,7 +18106,6 @@ comparativeness
 comparatives
 comparativist
 comparator
-comparator's
 comparators
 comparcioner
 compare
@@ -18352,7 +18115,6 @@ comparers
 compares
 comparing
 comparison
-comparison's
 comparisons
 comparition
 comparograph
@@ -18400,7 +18162,6 @@ compaternity
 compathy
 compatibilities
 compatibility
-compatibility's
 compatible
 compatibleness
 compatibles
@@ -18486,14 +18247,12 @@ competible
 competing
 competingly
 competition
-competition's
 competitioner
 competitions
 competitive
 competitively
 competitiveness
 competitor
-competitor's
 competitors
 competitorship
 competitory
@@ -18501,7 +18260,6 @@ competitress
 competitrix
 compilable
 compilation
-compilation's
 compilations
 compilator
 compilatory
@@ -18510,7 +18268,6 @@ compileable
 compiled
 compilement
 compiler
-compiler's
 compilers
 compiles
 compiling
@@ -18537,7 +18294,6 @@ complainingly
 complainingness
 complains
 complaint
-complaint's
 complaintful
 complaintive
 complaintiveness
@@ -18644,7 +18400,6 @@ complication
 complications
 complicative
 complicator
-complicator's
 complicators
 complice
 complices
@@ -18698,7 +18453,6 @@ componed
 componency
 componendo
 component
-component's
 componental
 componented
 componential
@@ -18874,7 +18628,6 @@ comptometer
 comptonite
 comptrol
 comptroller
-comptroller's
 comptrollers
 comptrollership
 compts
@@ -18885,7 +18638,6 @@ compulsatory
 compulse
 compulsed
 compulsion
-compulsion's
 compulsions
 compulsitor
 compulsive
@@ -18915,7 +18667,6 @@ computable
 computably
 computate
 computation
-computation's
 computational
 computationally
 computations
@@ -18925,7 +18676,6 @@ computativeness
 compute
 computed
 computer
-computer's
 computerese
 computerise
 computerite
@@ -19089,13 +18839,11 @@ concents
 concentual
 concentus
 concept
-concept's
 conceptacle
 conceptacular
 conceptaculum
 conceptible
 conception
-conception's
 conceptional
 conceptionist
 conceptions
@@ -19115,7 +18863,6 @@ conceptualistically
 conceptualists
 conceptuality
 conceptualization
-conceptualization's
 conceptualizations
 conceptualize
 conceptualized
@@ -19177,7 +18924,6 @@ concertstck
 concertstuck
 concessible
 concession
-concession's
 concessionaire
 concessionaires
 concessional
@@ -19312,7 +19058,6 @@ concluding
 concludingly
 conclusible
 conclusion
-conclusion's
 conclusional
 conclusionally
 conclusions
@@ -19631,7 +19376,6 @@ conductivity
 conductometer
 conductometric
 conductor
-conductor's
 conductorial
 conductorless
 conductors
@@ -19670,7 +19414,6 @@ condylotomy
 condylura
 condylure
 cone
-cone's
 coned
 coneen
 coneflower
@@ -19754,7 +19497,6 @@ confer
 conferee
 conferees
 conference
-conference's
 conferences
 conferencing
 conferential
@@ -19765,7 +19507,6 @@ conferred
 conferree
 conferrence
 conferrer
-conferrer's
 conferrers
 conferring
 conferruminate
@@ -19791,7 +19532,6 @@ confesses
 confessing
 confessingly
 confession
-confession's
 confessional
 confessionalian
 confessionalism
@@ -19803,7 +19543,6 @@ confessionary
 confessionist
 confessions
 confessor
-confessor's
 confessors
 confessorship
 confessory
@@ -19812,7 +19551,6 @@ confetti
 confetto
 conficient
 confidant
-confidant's
 confidante
 confidantes
 confidants
@@ -19842,7 +19580,6 @@ configurate
 configurated
 configurating
 configuration
-configuration's
 configurational
 configurationally
 configurationism
@@ -19861,7 +19598,6 @@ confinedly
 confinedness
 confineless
 confinement
-confinement's
 confinements
 confiner
 confiners
@@ -19873,7 +19609,6 @@ confirmability
 confirmable
 confirmand
 confirmation
-confirmation's
 confirmational
 confirmations
 confirmative
@@ -20008,7 +19743,6 @@ confrication
 confront
 confrontal
 confrontation
-confrontation's
 confrontational
 confrontationism
 confrontationist
@@ -20196,7 +19930,6 @@ congregative
 congregativeness
 congregator
 congress
-congress's
 congressed
 congresser
 congresses
@@ -20346,7 +20079,6 @@ conjugium
 conjunct
 conjuncted
 conjunction
-conjunction's
 conjunctional
 conjunctionally
 conjunctions
@@ -20422,19 +20154,16 @@ connectibly
 connecticut
 connecting
 connection
-connection's
 connectional
 connectionism
 connectionless
 connections
 connectival
 connective
-connective's
 connectively
 connectives
 connectivity
 connector
-connector's
 connectors
 connects
 conned
@@ -20477,7 +20206,6 @@ connivingly
 connixation
 connoissance
 connoisseur
-connoisseur's
 connoisseurs
 connoisseurship
 connotate
@@ -20542,11 +20270,9 @@ conquering
 conqueringly
 conquerment
 conqueror
-conqueror's
 conquerors
 conquers
 conquest
-conquest's
 conquests
 conquian
 conquians
@@ -20574,7 +20300,6 @@ consarcinate
 consarn
 consarned
 conscience
-conscience's
 conscienceless
 consciencelessly
 consciencelessness
@@ -20654,7 +20379,6 @@ consentively
 consentment
 consents
 consequence
-consequence's
 consequences
 consequency
 consequent
@@ -20674,11 +20398,9 @@ conservancy
 conservant
 conservate
 conservation
-conservation's
 conservational
 conservationism
 conservationist
-conservationist's
 conservationists
 conservations
 conservatism
@@ -20793,7 +20515,6 @@ consolably
 consolan
 consolate
 consolation
-consolation's
 consolations
 consolator
 consolatorily
@@ -20831,7 +20552,6 @@ consonance
 consonances
 consonancy
 consonant
-consonant's
 consonantal
 consonantalize
 consonantalized
@@ -20884,13 +20604,11 @@ conspicuously
 conspicuousness
 conspiracies
 conspiracy
-conspiracy's
 conspirant
 conspiration
 conspirational
 conspirative
 conspirator
-conspirator's
 conspiratorial
 conspiratorially
 conspirators
@@ -20908,7 +20626,6 @@ conspue
 conspurcate
 const
 constable
-constable's
 constablery
 constables
 constableship
@@ -20938,7 +20655,6 @@ constellate
 constellated
 constellating
 constellation
-constellation's
 constellations
 constellatory
 conster
@@ -20953,9 +20669,7 @@ constipating
 constipation
 constituencies
 constituency
-constituency's
 constituent
-constituent's
 constituently
 constituents
 constitute
@@ -20994,7 +20708,6 @@ constrainingly
 constrainment
 constrains
 constraint
-constraint's
 constraints
 constrict
 constricted
@@ -21021,7 +20734,6 @@ constructibility
 constructible
 constructing
 construction
-construction's
 constructional
 constructionally
 constructionism
@@ -21034,7 +20746,6 @@ constructiveness
 constructivism
 constructivist
 constructor
-constructor's
 constructors
 constructorship
 constructs
@@ -21067,13 +20778,11 @@ consuetude
 consuetudinal
 consuetudinary
 consul
-consul's
 consulage
 consular
 consularity
 consulary
 consulate
-consulate's
 consulated
 consulates
 consulating
@@ -21085,12 +20794,10 @@ consulta
 consultable
 consultancy
 consultant
-consultant's
 consultants
 consultantship
 consultary
 consultation
-consultation's
 consultations
 consultative
 consultatively
@@ -21116,7 +20823,6 @@ consumed
 consumedly
 consumeless
 consumer
-consumer's
 consumerism
 consumerist
 consumers
@@ -21142,7 +20848,6 @@ consumpt
 consumpted
 consumptible
 consumption
-consumption's
 consumptional
 consumptions
 consumptive
@@ -21194,7 +20899,6 @@ containership
 containerships
 containing
 containment
-containment's
 containments
 contains
 contakia
@@ -21303,7 +21007,6 @@ contentedness
 contentful
 contenting
 contention
-contention's
 contentional
 contentions
 contentious
@@ -21348,7 +21051,6 @@ contests
 conteur
 contex
 context
-context's
 contextive
 contexts
 contextual
@@ -21371,7 +21073,6 @@ contin
 continence
 continency
 continent
-continent's
 continental
 continentalism
 continentalist
@@ -21384,9 +21085,7 @@ contineu
 contingence
 contingencies
 contingency
-contingency's
 contingent
-contingent's
 contingential
 contingentialness
 contingentiam
@@ -21400,7 +21099,6 @@ continuality
 continually
 continualness
 continuance
-continuance's
 continuances
 continuancy
 continuando
@@ -21410,7 +21108,6 @@ continuate
 continuately
 continuateness
 continuation
-continuation's
 continuations
 continuative
 continuatively
@@ -21466,7 +21163,6 @@ contorts
 contortuplicate
 contos
 contour
-contour's
 contoured
 contouring
 contourne
@@ -21508,7 +21204,6 @@ contractile
 contractility
 contracting
 contraction
-contraction's
 contractional
 contractionist
 contractions
@@ -21517,7 +21212,6 @@ contractively
 contractiveness
 contractly
 contractor
-contractor's
 contractors
 contracts
 contractu
@@ -21538,7 +21232,6 @@ contradictedness
 contradicter
 contradicting
 contradiction
-contradiction's
 contradictional
 contradictions
 contradictious
@@ -21618,7 +21311,6 @@ contraproposal
 contraprops
 contraprovectant
 contraption
-contraption's
 contraptions
 contraptious
 contrapuntal
@@ -21707,7 +21399,6 @@ contributive
 contributively
 contributiveness
 contributor
-contributor's
 contributorial
 contributories
 contributorily
@@ -21722,7 +21413,6 @@ contrition
 contriturate
 contrivable
 contrivance
-contrivance's
 contrivances
 contrivancy
 contrive
@@ -21734,7 +21424,6 @@ contrivers
 contrives
 contriving
 control
-control's
 controled
 controling
 controllability
@@ -21743,7 +21432,6 @@ controllableness
 controllably
 controlled
 controller
-controller's
 controllers
 controllership
 controlless
@@ -21766,7 +21454,6 @@ controversional
 controversionalism
 controversionalist
 controversy
-controversy's
 controvert
 controverted
 controverter
@@ -21811,7 +21498,6 @@ conule
 conumerary
 conumerous
 conundrum
-conundrum's
 conundrumize
 conundrums
 conurbation
@@ -21865,7 +21551,6 @@ convenership
 convenery
 convenes
 convenience
-convenience's
 convenienced
 conveniences
 conveniencies
@@ -21876,7 +21561,6 @@ conveniently
 convenientness
 convening
 convent
-convent's
 convented
 conventical
 conventically
@@ -21886,7 +21570,6 @@ conventicles
 conventicular
 conventing
 convention
-convention's
 conventional
 conventionalisation
 conventionalise
@@ -21934,7 +21617,6 @@ conversancy
 conversant
 conversantly
 conversation
-conversation's
 conversationable
 conversational
 conversationalism
@@ -22007,7 +21689,6 @@ conveyability
 conveyable
 conveyal
 conveyance
-conveyance's
 conveyancer
 conveyances
 conveyancing
@@ -22033,7 +21714,6 @@ convictfishes
 convictible
 convicting
 conviction
-conviction's
 convictional
 convictions
 convictism
@@ -22122,7 +21802,6 @@ convulsibility
 convulsible
 convulsing
 convulsion
-convulsion's
 convulsional
 convulsionaries
 convulsionary
@@ -22182,7 +21861,6 @@ cookeys
 cookhouse
 cookhouses
 cookie
-cookie's
 cookies
 cooking
 cookings
@@ -22210,7 +21888,6 @@ coolants
 cooled
 coolen
 cooler
-cooler's
 coolerman
 coolers
 coolest
@@ -22222,7 +21899,6 @@ coolhouse
 coolibah
 coolidge
 coolie
-coolie's
 coolies
 cooliman
 cooling
@@ -22245,7 +21921,6 @@ coombes
 coombs
 coomy
 coon
-coon's
 cooncan
 cooncans
 cooner
@@ -22285,7 +21960,6 @@ cooperatively
 cooperativeness
 cooperatives
 cooperator
-cooperator's
 cooperators
 coopered
 cooperies
@@ -22317,7 +21991,6 @@ coordination
 coordinations
 coordinative
 coordinator
-coordinator's
 coordinators
 coordinatory
 cooree
@@ -22342,7 +22015,6 @@ cooties
 coots
 cooty
 cop
-cop's
 copa
 copable
 copacetic
@@ -22492,7 +22164,6 @@ coppaelite
 coppas
 copped
 copper
-copper's
 copperah
 copperahs
 copperas
@@ -22664,7 +22335,6 @@ copyreader
 copyreaders
 copyreading
 copyright
-copyright's
 copyrightable
 copyrighted
 copyrighter
@@ -23088,7 +22758,6 @@ cornerman
 cornerpiece
 corners
 cornerstone
-cornerstone's
 cornerstones
 cornerways
 cornerwise
@@ -23113,7 +22782,6 @@ corneum
 cornfactor
 cornfed
 cornfield
-cornfield's
 cornfields
 cornflag
 cornflakes
@@ -23227,7 +22895,6 @@ corollarial
 corollarially
 corollaries
 corollary
-corollary's
 corollas
 corollate
 corollated
@@ -23275,7 +22942,6 @@ coroner
 coroners
 coronership
 coronet
-coronet's
 coroneted
 coronetlike
 coronets
@@ -23313,7 +22979,6 @@ corotation
 corotomy
 coroun
 coroutine
-coroutine's
 coroutines
 corozo
 corozos
@@ -23324,7 +22989,6 @@ corpora
 corporacies
 corporacy
 corporal
-corporal's
 corporalcy
 corporale
 corporales
@@ -23339,7 +23003,6 @@ corporate
 corporately
 corporateness
 corporation
-corporation's
 corporational
 corporationer
 corporationism
@@ -23369,7 +23032,6 @@ corposant
 corps
 corpsbruder
 corpse
-corpse's
 corpselike
 corpselikeness
 corpses
@@ -23472,12 +23134,10 @@ corresp
 correspond
 corresponded
 correspondence
-correspondence's
 correspondences
 correspondencies
 correspondency
 correspondent
-correspondent's
 correspondential
 correspondentially
 correspondently
@@ -23494,7 +23154,6 @@ corrida
 corridas
 corrido
 corridor
-corridor's
 corridored
 corridors
 corrie
@@ -24119,7 +23778,6 @@ coswearer
 cosy
 cosymmedian
 cot
-cot's
 cotabulate
 cotan
 cotangent
@@ -24272,7 +23930,6 @@ cottonmouth
 cottonmouths
 cottonocracy
 cottonopolis
-cottonpickin'
 cottonpicking
 cottons
 cottonseed
@@ -24299,7 +23956,6 @@ cotyla
 cotylar
 cotyle
 cotyledon
-cotyledon's
 cotyledonal
 cotyledonar
 cotyledonary
@@ -24360,7 +24016,6 @@ coulage
 could
 couldest
 couldn
-couldn't
 couldna
 couldnt
 couldron
@@ -24407,11 +24062,9 @@ coumarou
 coumarous
 coumbite
 council
-council's
 councilist
 councillary
 councillor
-councillor's
 councillors
 councillorship
 councilman
@@ -24436,11 +24089,9 @@ counsellable
 counselled
 counselling
 counsellor
-counsellor's
 counsellors
 counsellorship
 counselor
-counselor's
 counselors
 counselorship
 counsels
@@ -24759,7 +24410,6 @@ countermarching
 countermark
 countermarriage
 countermeasure
-countermeasure's
 countermeasures
 countermeet
 countermen
@@ -24806,7 +24456,6 @@ counterparallel
 counterparole
 counterparry
 counterpart
-counterpart's
 counterparts
 counterpassant
 counterpassion
@@ -25087,7 +24736,6 @@ countrified
 countrifiedness
 countrify
 country
-country's
 countryfied
 countryfiedness
 countryfolk
@@ -25104,7 +24752,6 @@ countrywomen
 counts
 countship
 county
-county's
 countys
 countywide
 coup
@@ -25129,7 +24776,6 @@ couplets
 coupling
 couplings
 coupon
-coupon's
 couponed
 couponless
 coupons
@@ -25164,7 +24810,6 @@ courgette
 courida
 courie
 courier
-courier's
 couriers
 couril
 courlan
@@ -25199,16 +24844,13 @@ courtesanship
 courtesied
 courtesies
 courtesy
-courtesy's
 courtesying
 courtezan
 courtezanry
 courtezanship
 courthouse
-courthouse's
 courthouses
 courtier
-courtier's
 courtierism
 courtierly
 courtiers
@@ -25228,7 +24870,6 @@ courtman
 courtnoll
 courtroll
 courtroom
-courtroom's
 courtrooms
 courts
 courtship
@@ -25236,7 +24877,6 @@ courtships
 courtside
 courty
 courtyard
-courtyard's
 courtyards
 courtzilite
 couscous
@@ -25244,7 +24884,6 @@ couscouses
 couscousou
 couseranite
 cousin
-cousin's
 cousinage
 cousiness
 cousinhood
@@ -25317,7 +24956,6 @@ covenable
 covenably
 covenance
 covenant
-covenant's
 covenantal
 covenantally
 covenanted
@@ -25348,7 +24986,6 @@ covering
 coverings
 coverless
 coverlet
-coverlet's
 coverlets
 coverlid
 coverlids
@@ -25423,7 +25060,6 @@ cowbinds
 cowbird
 cowbirds
 cowboy
-cowboy's
 cowboys
 cowbrute
 cowbyre
@@ -25525,8 +25161,6 @@ cowshut
 cowskin
 cowskins
 cowslip
-cowslip'd
-cowslip's
 cowslipped
 cowslips
 cowson
@@ -25606,7 +25240,6 @@ coyo
 coyol
 coyos
 coyote
-coyote's
 coyotes
 coyotillo
 coyotillos
@@ -25663,7 +25296,6 @@ craaled
 craaling
 craals
 crab
-crab's
 crabapple
 crabbed
 crabbedly
@@ -25801,7 +25433,6 @@ craftwork
 craftworker
 crafty
 crag
-crag's
 craggan
 cragged
 craggedly
@@ -25857,7 +25488,6 @@ cramoisie
 cramoisies
 cramoisy
 cramp
-cramp's
 crampbit
 cramped
 crampedness
@@ -25883,7 +25513,6 @@ cran
 cranage
 cranberries
 cranberry
-cranberry's
 crance
 crancelin
 cranch
@@ -25893,7 +25522,6 @@ cranching
 crandall
 crandallite
 crane
-crane's
 cranebill
 craned
 cranelike
@@ -26144,7 +25772,6 @@ craunches
 craunching
 craunchingly
 cravat
-cravat's
 cravats
 cravatted
 cravatting
@@ -26323,7 +25950,6 @@ creativeness
 creativity
 creatophagous
 creator
-creator's
 creatorhood
 creatorrhea
 creators
@@ -26333,7 +25959,6 @@ creatress
 creatrix
 creatural
 creature
-creature's
 creaturehood
 creatureless
 creatureliness
@@ -26386,7 +26011,6 @@ crediting
 creditive
 creditless
 creditor
-creditor's
 creditors
 creditorship
 creditress
@@ -26402,7 +26026,6 @@ credulously
 credulousness
 cree
 creed
-creed's
 creedal
 creedalism
 creedalist
@@ -26416,7 +26039,6 @@ creedmore
 creeds
 creedsman
 creek
-creek's
 creeker
 creekfish
 creekfishes
@@ -26605,7 +26227,6 @@ crescendoed
 crescendoing
 crescendos
 crescent
-crescent's
 crescentade
 crescentader
 crescented
@@ -26706,7 +26327,6 @@ crevassing
 crevet
 crevette
 crevice
-crevice's
 creviced
 crevices
 crevis
@@ -26731,7 +26351,6 @@ crews
 criance
 criant
 crib
-crib's
 cribbage
 cribbages
 cribbed
@@ -26769,7 +26388,6 @@ crick
 cricke
 cricked
 cricket
-cricket's
 cricketed
 cricketer
 cricketers
@@ -26805,7 +26423,6 @@ crile
 crim
 crimble
 crime
-crime's
 crimea
 crimean
 crimeful
@@ -27028,7 +26645,6 @@ crith
 crithmene
 crithomancy
 critic
-critic's
 critical
 criticality
 critically
@@ -27044,7 +26660,6 @@ criticises
 criticising
 criticisingly
 criticism
-criticism's
 criticisms
 criticist
 criticizable
@@ -27250,7 +26865,6 @@ crooningly
 croons
 croose
 crop
-crop's
 crophead
 cropland
 croplands
@@ -27259,7 +26873,6 @@ cropman
 croppa
 cropped
 cropper
-cropper's
 croppers
 croppie
 croppies
@@ -27302,7 +26915,6 @@ crossband
 crossbanded
 crossbanding
 crossbar
-crossbar's
 crossbarred
 crossbarring
 crossbars
@@ -27390,7 +27002,6 @@ crossopt
 crossopterygian
 crossosomataceous
 crossover
-crossover's
 crossovers
 crosspatch
 crosspatches
@@ -27426,7 +27037,6 @@ crosswind
 crosswise
 crosswiseness
 crossword
-crossword's
 crossworder
 crosswords
 crosswort
@@ -27816,12 +27426,10 @@ crusile
 crusilee
 crusily
 crust
-crust's
 crusta
 crustacea
 crustaceal
 crustacean
-crustacean's
 crustaceans
 crustaceological
 crustaceologist
@@ -27853,7 +27461,6 @@ crusts
 crusty
 crut
 crutch
-crutch's
 crutched
 crutcher
 crutches
@@ -27862,7 +27469,6 @@ crutchlike
 cruth
 crutter
 crux
-crux's
 cruxes
 cruzado
 cruzadoes
@@ -28086,7 +27692,6 @@ cryptozygy
 crypts
 cryst
 crystal
-crystal's
 crystaled
 crystaling
 crystalitic
@@ -28223,7 +27828,6 @@ cuartillo
 cuartino
 cuarto
 cub
-cub's
 cuba
 cubage
 cubages
@@ -28339,7 +27943,6 @@ cuckoldry
 cuckolds
 cuckoldy
 cuckoo
-cuckoo's
 cuckooed
 cuckooflower
 cuckooing
@@ -28366,7 +27969,6 @@ cuculliform
 cucullus
 cuculoid
 cucumber
-cucumber's
 cucumbers
 cucumiform
 cucupha
@@ -28400,7 +28002,6 @@ cuddy
 cuddyhole
 cudeigh
 cudgel
-cudgel's
 cudgeled
 cudgeler
 cudgelers
@@ -28430,7 +28031,6 @@ cues
 cuesta
 cuestas
 cuff
-cuff's
 cuffed
 cuffer
 cuffin
@@ -28580,12 +28180,10 @@ culpeo
 culpon
 culpose
 culprit
-culprit's
 culprits
 culrage
 culsdesac
 cult
-cult's
 cultch
 cultches
 cultellation
@@ -28620,7 +28218,6 @@ cultivation
 cultivations
 cultivative
 cultivator
-cultivator's
 cultivators
 cultive
 cultrate
@@ -28829,12 +28426,10 @@ cunyie
 cunzie
 cuorin
 cup
-cup's
 cupay
 cupbearer
 cupbearers
 cupboard
-cupboard's
 cupboards
 cupcake
 cupcakes
@@ -29051,7 +28646,6 @@ curettes
 curetting
 curf
 curfew
-curfew's
 curfewed
 curfewing
 curfews
@@ -29091,7 +28685,6 @@ curiosa
 curiosi
 curiosities
 curiosity
-curiosity's
 curioso
 curiosos
 curious
@@ -29164,7 +28757,6 @@ currance
 currane
 currans
 currant
-currant's
 currants
 currantworm
 curratow
@@ -29173,7 +28765,6 @@ currawong
 curred
 currencies
 currency
-currency's
 current
 currently
 currentness
@@ -29189,7 +28780,6 @@ curricular
 curricularization
 curricularize
 curriculum
-curriculum's
 curriculums
 currie
 curried
@@ -29238,7 +28828,6 @@ cursively
 cursiveness
 cursives
 cursor
-cursor's
 cursorary
 cursores
 cursorial
@@ -29297,7 +28886,6 @@ curtseys
 curtsied
 curtsies
 curtsy
-curtsy's
 curtsying
 curua
 curuba
@@ -29412,7 +29000,6 @@ cusinero
 cusk
 cusks
 cusp
-cusp's
 cuspal
 cusparia
 cusparidine
@@ -29457,7 +29044,6 @@ custodia
 custodial
 custodiam
 custodian
-custodian's
 custodians
 custodianship
 custodier
@@ -29480,7 +29066,6 @@ customhouses
 customing
 customizable
 customization
-customization's
 customizations
 customize
 customized
@@ -29498,7 +29083,6 @@ custroun
 custumal
 custumals
 cut
-cut's
 cutability
 cutaneal
 cutaneous
@@ -29606,7 +29190,6 @@ cuttail
 cuttanee
 cutted
 cutter
-cutter's
 cutterhead
 cutterman
 cutters
@@ -29912,7 +29495,6 @@ cycloheximide
 cyclohexyl
 cyclohexylamine
 cycloid
-cycloid's
 cycloidal
 cycloidally
 cycloidean
@@ -29931,7 +29513,6 @@ cyclometry
 cyclomyarian
 cyclonal
 cyclone
-cyclone's
 cyclones
 cyclonic
 cyclonical
@@ -30039,7 +29620,6 @@ cyke
 cyl
 cylices
 cylinder
-cylinder's
 cylindered
 cylinderer
 cylindering
@@ -30096,7 +29676,6 @@ cymatium
 cymba
 cymbaeform
 cymbal
-cymbal's
 cymbaled
 cymbaleer
 cymbaler

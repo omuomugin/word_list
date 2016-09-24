@@ -1,7 +1,4 @@
 a
-a'
-a's
-a/c
 a1
 aa
 aaa
@@ -186,14 +183,12 @@ abbesses
 abbest
 abbevillian
 abbey
-abbey's
 abbeys
 abbeystead
 abbeystede
 abboccato
 abbogada
 abbot
-abbot's
 abbotcies
 abbotcy
 abbotnullius
@@ -243,7 +238,6 @@ abditive
 abditory
 abdom
 abdomen
-abdomen's
 abdomens
 abdomina
 abdominal
@@ -277,10 +271,8 @@ abduct
 abducted
 abducting
 abduction
-abduction's
 abductions
 abductor
-abductor's
 abductores
 abductors
 abducts
@@ -415,7 +407,6 @@ abiliment
 abilitable
 abilities
 ability
-ability's
 abilla
 abilo
 abime
@@ -588,7 +579,6 @@ aboardage
 abococket
 abodah
 abode
-abode's
 aboded
 abodement
 abodes
@@ -614,7 +604,6 @@ abolishers
 abolishes
 abolishing
 abolishment
-abolishment's
 abolishments
 abolition
 abolitionary
@@ -664,7 +653,6 @@ aboriginally
 aboriginals
 aboriginary
 aborigine
-aborigine's
 aborigines
 aborning
 aborsement
@@ -679,7 +667,6 @@ abortifacient
 abortin
 aborting
 abortion
-abortion's
 abortional
 abortionist
 abortionists
@@ -747,7 +734,6 @@ abrash
 abrasing
 abrasiometer
 abrasion
-abrasion's
 abrasions
 abrasive
 abrasively
@@ -848,7 +834,6 @@ abscisins
 abscision
 absciss
 abscissa
-abscissa's
 abscissae
 abscissas
 abscisse
@@ -873,13 +858,11 @@ abseiled
 abseiling
 abseils
 absence
-absence's
 absences
 absent
 absentation
 absented
 absentee
-absentee's
 absenteeism
 absentees
 absenteeship
@@ -980,7 +963,6 @@ absorptance
 absorptiometer
 absorptiometric
 absorption
-absorption's
 absorptional
 absorptions
 absorptive
@@ -1031,7 +1013,6 @@ abstracters
 abstractest
 abstracting
 abstraction
-abstraction's
 abstractional
 abstractionism
 abstractionist
@@ -1044,7 +1025,6 @@ abstractiveness
 abstractly
 abstractness
 abstractor
-abstractor's
 abstractors
 abstracts
 abstrahent
@@ -1072,7 +1052,6 @@ absurdism
 absurdist
 absurdities
 absurdity
-absurdity's
 absurdly
 absurdness
 absurds
@@ -1139,7 +1118,6 @@ abuttal
 abuttals
 abutted
 abutter
-abutter's
 abutters
 abutting
 abuzz
@@ -1159,7 +1137,6 @@ abysmal
 abysmally
 abysms
 abyss
-abyss's
 abyssa
 abyssal
 abysses
@@ -1208,7 +1185,6 @@ academize
 academized
 academizing
 academy
-academy's
 acadia
 acadialite
 acadian
@@ -1375,7 +1351,6 @@ accelerators
 acceleratory
 accelerograph
 accelerometer
-accelerometer's
 accelerometers
 accend
 accendibility
@@ -1407,7 +1382,6 @@ acceptable
 acceptableness
 acceptably
 acceptance
-acceptance's
 acceptances
 acceptancies
 acceptancy
@@ -1430,7 +1404,6 @@ acceptingness
 acception
 acceptive
 acceptor
-acceptor's
 acceptors
 acceptress
 accepts
@@ -1453,7 +1426,6 @@ accessibleness
 accessibly
 accessing
 accession
-accession's
 accessional
 accessioned
 accessioner
@@ -1464,7 +1436,6 @@ accessive
 accessively
 accessless
 accessor
-accessor's
 accessorial
 accessories
 accessorii
@@ -1477,7 +1448,6 @@ accessorized
 accessorizing
 accessors
 accessory
-accessory's
 acciaccatura
 acciaccaturas
 acciaccature
@@ -1592,11 +1562,9 @@ accompanied
 accompanier
 accompanies
 accompaniment
-accompaniment's
 accompanimental
 accompaniments
 accompanist
-accompanist's
 accompanists
 accompany
 accompanying
@@ -1617,7 +1585,6 @@ accomplishers
 accomplishes
 accomplishing
 accomplishment
-accomplishment's
 accomplishments
 accomplisht
 accompt
@@ -1637,7 +1604,6 @@ accorders
 according
 accordingly
 accordion
-accordion's
 accordionist
 accordionists
 accordions
@@ -1664,7 +1630,6 @@ accountableness
 accountably
 accountancy
 accountant
-accountant's
 accountants
 accountantship
 accounted
@@ -1718,7 +1683,6 @@ accreted
 accretes
 accreting
 accretion
-accretion's
 accretionary
 accretions
 accretive
@@ -1773,7 +1737,6 @@ accumulative
 accumulatively
 accumulativeness
 accumulator
-accumulator's
 accumulators
 accupy
 accur
@@ -1798,7 +1761,6 @@ accusals
 accusant
 accusants
 accusation
-accusation's
 accusations
 accusatival
 accusative
@@ -1831,7 +1793,6 @@ accustomized
 accustomizing
 accustoms
 ace
-ace's
 aceacenaphthene
 aceanthrene
 aceanthrenequinone
@@ -2167,7 +2128,6 @@ achievable
 achieve
 achieved
 achievement
-achievement's
 achievements
 achiever
 achievers
@@ -2429,7 +2389,6 @@ acknowledgers
 acknowledges
 acknowledging
 acknowledgment
-acknowledgment's
 acknowledgments
 acknown
 ackton
@@ -2518,7 +2477,6 @@ acor
 acorea
 acoria
 acorn
-acorn's
 acorned
 acorns
 acorus
@@ -2555,7 +2513,6 @@ acoustoelectric
 acpt
 acquaint
 acquaintance
-acquaintance's
 acquaintances
 acquaintanceship
 acquaintanceships
@@ -2598,7 +2555,6 @@ acquisita
 acquisite
 acquisited
 acquisition
-acquisition's
 acquisitional
 acquisitions
 acquisitive
@@ -2635,7 +2591,6 @@ acraturesis
 acrawl
 acraze
 acre
-acre's
 acreable
 acreage
 acreages
@@ -2702,7 +2657,6 @@ acroatic
 acrobacies
 acrobacy
 acrobat
-acrobat's
 acrobatholithic
 acrobatic
 acrobatical
@@ -2805,7 +2759,6 @@ acronychally
 acronychous
 acronyctous
 acronym
-acronym's
 acronymic
 acronymically
 acronymize
@@ -3020,7 +2973,6 @@ actins
 actinula
 actinulae
 action
-action's
 actionability
 actionable
 actionably
@@ -3043,7 +2995,6 @@ activating
 activation
 activations
 activator
-activator's
 activators
 active
 actively
@@ -3053,13 +3004,11 @@ activin
 activism
 activisms
 activist
-activist's
 activistic
 activists
 activital
 activities
 activity
-activity's
 activize
 activized
 activizing
@@ -3067,14 +3016,12 @@ actless
 actomyosin
 acton
 actor
-actor's
 actorish
 actors
 actorship
 actory
 actos
 actress
-actress's
 actresses
 actressy
 acts
@@ -3109,7 +3056,6 @@ actuates
 actuating
 actuation
 actuator
-actuator's
 actuators
 actuose
 acture
@@ -3263,7 +3209,6 @@ adaptable
 adaptableness
 adaptably
 adaptation
-adaptation's
 adaptational
 adaptationally
 adaptations
@@ -3340,7 +3285,6 @@ addicted
 addictedness
 addicting
 addiction
-addiction's
 addictions
 addictive
 addictively
@@ -3357,7 +3301,6 @@ additament
 additamentary
 additiment
 addition
-addition's
 additional
 additionally
 additionary
@@ -3365,7 +3308,6 @@ additionist
 additions
 addititious
 additive
-additive's
 additively
 additives
 additivity
@@ -3401,7 +3343,6 @@ addressability
 addressable
 addressed
 addressee
-addressee's
 addressees
 addresser
 addressers
@@ -3627,7 +3568,6 @@ adherency
 adherend
 adherends
 adherent
-adherent's
 adherently
 adherents
 adherer
@@ -3640,7 +3580,6 @@ adhesion
 adhesional
 adhesions
 adhesive
-adhesive's
 adhesively
 adhesivemeter
 adhesiveness
@@ -3766,7 +3705,6 @@ adjectitious
 adjectival
 adjectivally
 adjective
-adjective's
 adjectively
 adjectives
 adjectivism
@@ -3805,7 +3743,6 @@ adjudicated
 adjudicates
 adjudicating
 adjudication
-adjudication's
 adjudications
 adjudicative
 adjudicator
@@ -3815,7 +3752,6 @@ adjudicature
 adjugate
 adjument
 adjunct
-adjunct's
 adjunction
 adjunctive
 adjunctively
@@ -3844,11 +3780,9 @@ adjusters
 adjusting
 adjustive
 adjustment
-adjustment's
 adjustmental
 adjustments
 adjustor
-adjustor's
 adjustores
 adjustoring
 adjustors
@@ -3919,14 +3853,12 @@ administrated
 administrates
 administrating
 administration
-administration's
 administrational
 administrationist
 administrations
 administrative
 administratively
 administrator
-administrator's
 administrators
 administratorship
 administratress
@@ -3938,7 +3870,6 @@ admirable
 admirableness
 admirably
 admiral
-admiral's
 admirals
 admiralship
 admiralships
@@ -3965,7 +3896,6 @@ admissible
 admissibleness
 admissibly
 admission
-admission's
 admissions
 admissive
 admissively
@@ -3999,10 +3929,8 @@ admonishes
 admonishing
 admonishingly
 admonishment
-admonishment's
 admonishments
 admonition
-admonition's
 admonitioner
 admonitionist
 admonitions
@@ -4049,7 +3977,6 @@ adolesced
 adolescence
 adolescency
 adolescent
-adolescent's
 adolescently
 adolescents
 adolescing
@@ -4088,7 +4015,6 @@ adoptianism
 adoptianist
 adopting
 adoption
-adoption's
 adoptional
 adoptionism
 adoptionist
@@ -4122,7 +4048,6 @@ adorners
 adorning
 adorningly
 adornment
-adornment's
 adornments
 adorno
 adornos
@@ -4264,7 +4189,6 @@ adulatress
 adulce
 adullamite
 adult
-adult's
 adulter
 adulterant
 adulterants
@@ -4278,7 +4202,6 @@ adulteration
 adulterator
 adulterators
 adulterer
-adulterer's
 adulterers
 adulteress
 adulteresses
@@ -4328,7 +4251,6 @@ advanceable
 advanced
 advancedness
 advancement
-advancement's
 advancements
 advancer
 advancers
@@ -4394,7 +4316,6 @@ adventurous
 adventurously
 adventurousness
 adverb
-adverb's
 adverbial
 adverbiality
 adverbialize
@@ -4410,7 +4331,6 @@ adversaries
 adversariness
 adversarious
 adversary
-adversary's
 adversative
 adversatively
 adverse
@@ -4437,7 +4357,6 @@ advertise
 advertised
 advertisee
 advertisement
-advertisement's
 advertisements
 advertiser
 advertisers
@@ -4465,7 +4384,6 @@ advised
 advisedly
 advisedness
 advisee
-advisee's
 advisees
 advisement
 advisements
@@ -4478,7 +4396,6 @@ advisive
 advisiveness
 adviso
 advisor
-advisor's
 advisories
 advisorily
 advisors
@@ -4658,7 +4575,6 @@ aerators
 aerenchyma
 aerenterectasia
 aerial
-aerial's
 aerialist
 aerialists
 aeriality
@@ -4938,7 +4854,6 @@ aesthesodic
 aesthete
 aesthetes
 aesthetic
-aesthetic's
 aesthetical
 aesthetically
 aesthetician
@@ -5022,7 +4937,6 @@ affableness
 affably
 affabrous
 affair
-affair's
 affaire
 affaires
 affairs
@@ -5034,7 +4948,6 @@ affectability
 affectable
 affectate
 affectation
-affectation's
 affectationist
 affectations
 affected
@@ -5047,7 +4960,6 @@ affectible
 affecting
 affectingly
 affection
-affection's
 affectional
 affectionally
 affectionate
@@ -5095,7 +5007,6 @@ afficionado
 affidare
 affidation
 affidavit
-affidavit's
 affidavits
 affidavy
 affied
@@ -5123,14 +5034,12 @@ affinities
 affinition
 affinitive
 affinity
-affinity's
 affirm
 affirmable
 affirmably
 affirmance
 affirmant
 affirmation
-affirmation's
 affirmations
 affirmative
 affirmatively
@@ -5170,7 +5079,6 @@ afflicter
 afflicting
 afflictingly
 affliction
-affliction's
 afflictionless
 afflictions
 afflictive
@@ -5443,7 +5351,6 @@ aftermilk
 aftermost
 afternight
 afternoon
-afternoon's
 afternoons
 afternose
 afternote
@@ -5676,10 +5583,8 @@ agelong
 agen
 agencies
 agency
-agency's
 agend
 agenda
-agenda's
 agendaless
 agendas
 agendum
@@ -5699,7 +5604,6 @@ agenizing
 agennesis
 agennetic
 agent
-agent's
 agentess
 agential
 agenting
@@ -5820,7 +5724,6 @@ aggressed
 aggresses
 aggressing
 aggression
-aggression's
 aggressionist
 aggressions
 aggressive
@@ -5892,7 +5795,6 @@ agitations
 agitative
 agitato
 agitator
-agitator's
 agitatorial
 agitators
 agitatrix
@@ -5978,7 +5880,6 @@ agnosia
 agnosias
 agnosis
 agnostic
-agnostic's
 agnostical
 agnostically
 agnosticism
@@ -6097,7 +5998,6 @@ agreed
 agreeing
 agreeingly
 agreement
-agreement's
 agreements
 agreer
 agreers
@@ -6367,7 +6267,6 @@ ailette
 ailing
 aillt
 ailment
-ailment's
 ailments
 ails
 ailsyte
@@ -6397,7 +6296,6 @@ aimlessness
 aims
 aimworthiness
 ain
-ain't
 ainaleh
 aine
 ainee
@@ -6474,7 +6372,6 @@ airest
 airfare
 airfares
 airfield
-airfield's
 airfields
 airflow
 airflows
@@ -6505,7 +6402,6 @@ airless
 airlessly
 airlessness
 airlift
-airlift's
 airlifted
 airlifting
 airlifts
@@ -6517,7 +6413,6 @@ airliners
 airlines
 airling
 airlock
-airlock's
 airlocks
 airmail
 airmailed
@@ -6539,7 +6434,6 @@ airpark
 airparks
 airphobia
 airplane
-airplane's
 airplaned
 airplaner
 airplanes
@@ -6549,7 +6443,6 @@ airplay
 airplays
 airplot
 airport
-airport's
 airports
 airpost
 airposts
@@ -6566,7 +6459,6 @@ airshed
 airsheds
 airsheet
 airship
-airship's
 airships
 airsick
 airsickness
@@ -6577,7 +6469,6 @@ airspeed
 airspeeds
 airstream
 airstrip
-airstrip's
 airstrips
 airt
 airted
@@ -6599,7 +6490,6 @@ airwash
 airwave
 airwaves
 airway
-airway's
 airwaybill
 airwayman
 airways
@@ -7135,13 +7025,11 @@ alcogel
 alcogene
 alcohate
 alcohol
-alcohol's
 alcoholate
 alcoholature
 alcoholdom
 alcoholemia
 alcoholic
-alcoholic's
 alcoholically
 alcoholicity
 alcoholics
@@ -7176,7 +7064,6 @@ alcornoco
 alcornoque
 alcosol
 alcove
-alcove's
 alcoved
 alcoves
 alcovinometer
@@ -7215,7 +7102,6 @@ alderfly
 alderliefest
 alderling
 alderman
-alderman's
 aldermanate
 aldermancy
 aldermaness
@@ -7466,7 +7352,6 @@ algate
 algates
 algazel
 algebra
-algebra's
 algebraic
 algebraical
 algebraically
@@ -7556,7 +7441,6 @@ algorisms
 algorist
 algoristic
 algorithm
-algorithm's
 algorithmic
 algorithmically
 algorithms
@@ -7586,7 +7470,6 @@ aliases
 aliasing
 alibangbang
 alibi
-alibi's
 alibied
 alibies
 alibiing
@@ -7607,7 +7490,6 @@ alidade
 alidades
 alidads
 alien
-alien's
 alienabilities
 alienability
 alienable
@@ -7787,7 +7669,6 @@ alkalescence
 alkalescency
 alkalescent
 alkali
-alkali's
 alkalic
 alkalies
 alkaliferous
@@ -7834,7 +7715,6 @@ alkalizer
 alkalizes
 alkalizing
 alkaloid
-alkaloid's
 alkaloidal
 alkaloids
 alkalometry
@@ -7902,9 +7782,6 @@ alkyls
 alkyne
 alkynes
 all
-all'antica
-all'italiana
-all'ottava
 allabuta
 allachesthesia
 allactite
@@ -7913,7 +7790,6 @@ allagite
 allagophyllous
 allagostemonous
 allah
-allah's
 allalinite
 allamonti
 allamoth
@@ -7954,7 +7830,6 @@ allectory
 allegata
 allegate
 allegation
-allegation's
 allegations
 allegator
 allegatum
@@ -7968,7 +7843,6 @@ allegers
 alleges
 allegheny
 allegiance
-allegiance's
 allegiances
 allegiancy
 allegiant
@@ -7996,13 +7870,10 @@ allegorized
 allegorizer
 allegorizing
 allegory
-allegory's
 allegresse
 allegretto
-allegretto's
 allegrettos
 allegro
-allegro's
 allegros
 allele
 alleles
@@ -8049,7 +7920,6 @@ allergist
 allergists
 allergology
 allergy
-allergy's
 allerion
 allesthesia
 allethrin
@@ -8069,12 +7939,10 @@ alleviator
 alleviators
 alleviatory
 alley
-alley's
 alleyed
 alleyite
 alleys
 alleyway
-alleyway's
 alleyways
 allez
 allgood
@@ -8087,7 +7955,6 @@ alliably
 alliaceous
 alliage
 alliance
-alliance's
 allianced
 alliancer
 alliances
@@ -8109,7 +7976,6 @@ alligating
 alligation
 alligations
 alligator
-alligator's
 alligatored
 alligatorfish
 alligatorfishes
@@ -8125,7 +7991,6 @@ alliterated
 alliterates
 alliterating
 alliteration
-alliteration's
 alliterational
 alliterationist
 alliterations
@@ -8158,7 +8023,6 @@ allocating
 allocation
 allocations
 allocator
-allocator's
 allocators
 allocatur
 allocheiria
@@ -8326,7 +8190,6 @@ allothimorphic
 allothogenic
 allothogenous
 allotment
-allotment's
 allotments
 allotransplant
 allotransplantation
@@ -8371,7 +8234,6 @@ allowable
 allowableness
 allowably
 allowance
-allowance's
 allowanced
 allowances
 allowancing
@@ -8391,7 +8253,6 @@ alloxuric
 alloxy
 alloxyproteic
 alloy
-alloy's
 alloyage
 alloyed
 alloying
@@ -8425,7 +8286,6 @@ alluring
 alluringly
 alluringness
 allusion
-allusion's
 allusions
 allusive
 allusively
@@ -8476,7 +8336,6 @@ almahs
 almain
 almaine
 almanac
-almanac's
 almanacs
 almander
 almandine
@@ -8517,7 +8376,6 @@ almoin
 almon
 almonage
 almond
-almond's
 almondlike
 almonds
 almondy
@@ -8669,7 +8527,6 @@ alpestrian
 alpestrine
 alpha
 alphabet
-alphabet's
 alphabetarian
 alphabetary
 alphabeted
@@ -8769,7 +8626,6 @@ altair
 altaite
 altaltissimo
 altar
-altar's
 altarage
 altared
 altarist
@@ -8788,7 +8644,6 @@ alterant
 alterants
 alterate
 alteration
-alteration's
 alterations
 alterative
 alteratively
@@ -8796,7 +8651,6 @@ altercate
 altercated
 altercating
 altercation
-altercation's
 altercations
 altercative
 altered
@@ -8833,7 +8687,6 @@ alternatives
 alternativity
 alternativo
 alternator
-alternator's
 alternators
 alterne
 alternifoliate
@@ -8889,7 +8742,6 @@ altitudinal
 altitudinarian
 altitudinous
 alto
-alto's
 altocumulus
 altogether
 altogetherness
@@ -8969,7 +8821,6 @@ alumish
 alumite
 alumium
 alumna
-alumna's
 alumnae
 alumnal
 alumni
@@ -9077,7 +8928,6 @@ amalekite
 amalett
 amalg
 amalgam
-amalgam's
 amalgamable
 amalgamate
 amalgamated
@@ -9171,7 +9021,6 @@ amate
 amated
 amaterialistic
 amateur
-amateur's
 amateurish
 amateurishly
 amateurishness
@@ -9214,7 +9063,6 @@ amazia
 amazing
 amazingly
 amazon
-amazon's
 amazonian
 amazonite
 amazons
@@ -9242,7 +9090,6 @@ ambas
 ambash
 ambassade
 ambassador
-ambassador's
 ambassadorial
 ambassadorially
 ambassadors
@@ -9299,7 +9146,6 @@ ambigenous
 ambigu
 ambiguities
 ambiguity
-ambiguity's
 ambiguous
 ambiguously
 ambiguousness
@@ -9327,7 +9173,6 @@ ambitendencies
 ambitendency
 ambitendent
 ambition
-ambition's
 ambitioned
 ambitioning
 ambitionist
@@ -9422,7 +9267,6 @@ ambulacral
 ambulacriform
 ambulacrum
 ambulance
-ambulance's
 ambulanced
 ambulancer
 ambulances
@@ -9542,7 +9386,6 @@ amender
 amenders
 amending
 amendment
-amendment's
 amendments
 amends
 amene
@@ -9583,9 +9426,7 @@ amerciable
 amerciament
 amercing
 america
-america's
 american
-american's
 americana
 americanism
 americanisms
@@ -9941,7 +9782,6 @@ ammos
 ammotherapy
 ammu
 ammunition
-amn't
 amnemonic
 amnesia
 amnesiac
@@ -9983,7 +9823,6 @@ amobarbital
 amober
 amobyr
 amoeba
-amoeba's
 amoebae
 amoebaea
 amoebaean
@@ -10130,7 +9969,6 @@ amperes
 amperometer
 amperometric
 ampersand
-ampersand's
 ampersands
 ampery
 amphanthia
@@ -10151,7 +9989,6 @@ amphibalus
 amphibia
 amphibial
 amphibian
-amphibian's
 amphibians
 amphibichnite
 amphibiety
@@ -10318,7 +10155,6 @@ amphithalami
 amphithalamus
 amphithalmi
 amphitheater
-amphitheater's
 amphitheatered
 amphitheaters
 amphitheatral
@@ -10418,14 +10254,12 @@ amplifies
 amplify
 amplifying
 amplitude
-amplitude's
 amplitudes
 amplitudinous
 amply
 ampollosity
 ampongue
 ampoule
-ampoule's
 ampoules
 amps
 ampul
@@ -10503,7 +10337,6 @@ amused
 amusedly
 amusee
 amusement
-amusement's
 amusements
 amuser
 amusers
@@ -10637,15 +10470,12 @@ amyxorrhea
 amyxorrhoea
 amzel
 an
-an'a
-an't
 ana
 anabaena
 anabaenas
 anabantid
 anabaptism
 anabaptist
-anabaptist's
 anabaptists
 anabaptize
 anabaptized
@@ -10709,7 +10539,6 @@ anachronic
 anachronical
 anachronically
 anachronism
-anachronism's
 anachronismatical
 anachronisms
 anachronist
@@ -10849,7 +10678,6 @@ anagogics
 anagogies
 anagogy
 anagram
-anagram's
 anagrammatic
 anagrammatical
 anagrammatically
@@ -10950,10 +10778,8 @@ analogously
 analogousness
 analogs
 analogue
-analogue's
 analogues
 analogy
-analogy's
 analphabet
 analphabete
 analphabetic
@@ -10972,7 +10798,6 @@ analyses
 analysing
 analysis
 analyst
-analyst's
 analysts
 analyt
 analytic
@@ -11119,7 +10944,6 @@ anarchically
 anarchies
 anarchism
 anarchist
-anarchist's
 anarchistic
 anarchists
 anarchize
@@ -11278,7 +11102,6 @@ anba
 anbury
 anc
 ancestor
-ancestor's
 ancestorial
 ancestorially
 ancestors
@@ -11301,7 +11124,6 @@ anchoic
 anchor
 anchorable
 anchorage
-anchorage's
 anchorages
 anchorate
 anchored
@@ -11403,7 +11225,6 @@ ancylostome
 ancylostomiasis
 ancyroid
 and
-and/or
 anda
 andabata
 andabatarian
@@ -11555,7 +11376,6 @@ anecdotalism
 anecdotalist
 anecdotally
 anecdote
-anecdote's
 anecdotes
 anecdotic
 anecdotical
@@ -11600,7 +11420,6 @@ anemologic
 anemological
 anemology
 anemometer
-anemometer's
 anemometers
 anemometric
 anemometrical
@@ -11669,7 +11488,6 @@ anesthesiology
 anesthesiometer
 anesthesis
 anesthetic
-anesthetic's
 anesthetically
 anesthetics
 anesthetist
@@ -11736,7 +11554,6 @@ angekkok
 angekok
 angekut
 angel
-angel's
 angelate
 angeldom
 angeleen
@@ -12183,7 +12000,6 @@ animadverter
 animadverting
 animadverts
 animal
-animal's
 animala
 animalcula
 animalculae
@@ -12245,7 +12061,6 @@ animative
 animato
 animatograph
 animator
-animator's
 animators
 anime
 animes
@@ -12272,7 +12087,6 @@ animous
 animus
 animuses
 anion
-anion's
 anionic
 anionically
 anionics
@@ -12403,7 +12217,6 @@ ankerites
 ankh
 ankhs
 ankle
-ankle's
 anklebone
 anklebones
 anklejack
@@ -12552,7 +12365,6 @@ anniversaries
 anniversarily
 anniversariness
 anniversary
-anniversary's
 anniverse
 anno
 annodated
@@ -12582,7 +12394,6 @@ announce
 announceable
 announced
 announcement
-announcement's
 announcements
 announcer
 announcers
@@ -12590,7 +12401,6 @@ announces
 announcing
 annoy
 annoyance
-annoyance's
 annoyancer
 annoyances
 annoyed
@@ -12646,7 +12456,6 @@ annuller
 annulli
 annulling
 annulment
-annulment's
 annulments
 annuloid
 annuloida
@@ -12683,7 +12492,6 @@ anococcygeal
 anodal
 anodally
 anode
-anode's
 anodendron
 anodes
 anodic
@@ -12749,7 +12557,6 @@ anomalously
 anomalousness
 anomalure
 anomaly
-anomaly's
 anomer
 anomia
 anomic
@@ -12865,7 +12672,6 @@ anospinal
 anostosis
 anoterite
 another
-another's
 anotherguess
 anotherkins
 anotia
@@ -12932,7 +12738,6 @@ answerless
 answerlessly
 answers
 ant
-ant's
 anta
 antacid
 antacids
@@ -12949,7 +12754,6 @@ antagonising
 antagonism
 antagonisms
 antagonist
-antagonist's
 antagonistic
 antagonistical
 antagonistically
@@ -13011,7 +12815,6 @@ anteal
 anteambulate
 anteambulation
 anteater
-anteater's
 anteaters
 antebaptismal
 antebath
@@ -13032,7 +12835,6 @@ anteceded
 antecedence
 antecedency
 antecedent
-antecedent's
 antecedental
 antecedently
 antecedents
@@ -13097,7 +12899,6 @@ antelation
 antelegal
 antelocation
 antelope
-antelope's
 antelopes
 antelopian
 antelopine
@@ -13124,7 +12925,6 @@ antenati
 antenatus
 antenave
 antenna
-antenna's
 antennae
 antennal
 antennariid
@@ -13264,7 +13064,6 @@ anthelix
 anthelminthic
 anthelmintic
 anthem
-anthem's
 anthema
 anthemas
 anthemata
@@ -13489,7 +13288,6 @@ anthropological
 anthropologically
 anthropologies
 anthropologist
-anthropologist's
 anthropologists
 anthropology
 anthropomancy
@@ -13717,7 +13515,6 @@ antibug
 antiburgher
 antibusing
 antic
-antic's
 antica
 anticachectic
 antical
@@ -14030,7 +13827,6 @@ antidotal
 antidotally
 antidotary
 antidote
-antidote's
 antidoted
 antidotes
 antidotical
@@ -14196,7 +13992,6 @@ antigambling
 antiganting
 antigay
 antigen
-antigen's
 antigene
 antigenes
 antigenic
@@ -14768,7 +14563,6 @@ antipodagric
 antipodagron
 antipodal
 antipode
-antipode's
 antipodean
 antipodeans
 antipodes
@@ -14869,7 +14663,6 @@ antipyryl
 antiq
 antiqua
 antiquarian
-antiquarian's
 antiquarianism
 antiquarianize
 antiquarianly
@@ -14886,7 +14679,6 @@ antiquates
 antiquating
 antiquation
 antique
-antique's
 antiqued
 antiquely
 antiqueness
@@ -15217,7 +15009,6 @@ antitonic
 antitorpedo
 antitoxic
 antitoxin
-antitoxin's
 antitoxine
 antitoxins
 antitrade
@@ -15418,7 +15209,6 @@ anusvara
 anutraminosa
 anvasser
 anvil
-anvil's
 anviled
 anviling
 anvilled
@@ -15437,7 +15227,6 @@ anxiousness
 any
 anybodies
 anybody
-anybody'd
 anybodyd
 anyhow
 anymore
@@ -15544,7 +15333,6 @@ apartado
 apartheid
 aparthrosis
 apartment
-apartment's
 apartmental
 apartments
 apartness
@@ -15694,7 +15482,6 @@ aphetize
 aphicidal
 aphicide
 aphid
-aphid's
 aphides
 aphidian
 aphidians
@@ -15735,7 +15522,6 @@ aphoriser
 aphorises
 aphorising
 aphorism
-aphorism's
 aphorismatic
 aphorismer
 aphorismic
@@ -16073,7 +15859,6 @@ apologised
 apologiser
 apologising
 apologist
-apologist's
 apologists
 apologize
 apologized
@@ -16085,7 +15870,6 @@ apologs
 apologue
 apologues
 apology
-apology's
 apolousis
 apolune
 apolunes
@@ -16237,7 +16021,6 @@ apostil
 apostille
 apostils
 apostle
-apostle's
 apostlehood
 apostles
 apostleship
@@ -16376,7 +16159,6 @@ apparentements
 apparently
 apparentness
 apparition
-apparition's
 apparitional
 apparitions
 apparitor
@@ -16430,7 +16212,6 @@ appellability
 appellable
 appellancy
 appellant
-appellant's
 appellants
 appellate
 appellation
@@ -16449,7 +16230,6 @@ appels
 appenage
 append
 appendage
-appendage's
 appendaged
 appendages
 appendalgia
@@ -16486,7 +16266,6 @@ appendiculated
 appending
 appenditious
 appendix
-appendix's
 appendixed
 appendixes
 appendixing
@@ -16536,7 +16315,6 @@ appetising
 appetisse
 appetit
 appetite
-appetite's
 appetites
 appetition
 appetitional
@@ -16569,7 +16347,6 @@ applauses
 applausive
 applausively
 apple
-apple's
 appleberry
 appleblossom
 applecart
@@ -16594,7 +16371,6 @@ appliable
 appliableness
 appliably
 appliance
-appliance's
 appliances
 appliant
 applicabilities
@@ -16604,16 +16380,13 @@ applicableness
 applicably
 applicancy
 applicant
-applicant's
 applicants
 applicate
 application
-application's
 applications
 applicative
 applicatively
 applicator
-applicator's
 applicatorily
 applicators
 applicatory
@@ -16644,7 +16417,6 @@ appointable
 appointe
 appointed
 appointee
-appointee's
 appointees
 appointer
 appointers
@@ -16652,7 +16424,6 @@ appointing
 appointive
 appointively
 appointment
-appointment's
 appointments
 appointor
 appoints
@@ -16688,7 +16459,6 @@ appositively
 apppetible
 appraisable
 appraisal
-appraisal's
 appraisals
 appraise
 appraised
@@ -16731,7 +16501,6 @@ apprehensibility
 apprehensible
 apprehensibly
 apprehension
-apprehension's
 apprehensions
 apprehensive
 apprehensively
@@ -16810,14 +16579,12 @@ appropriations
 appropriative
 appropriativeness
 appropriator
-appropriator's
 appropriators
 approvability
 approvable
 approvableness
 approvably
 approval
-approval's
 approvals
 approvance
 approve
@@ -16870,7 +16637,6 @@ apricate
 aprication
 aprickle
 apricot
-apricot's
 apricots
 april
 apriori
@@ -16883,7 +16649,6 @@ apritif
 aproctia
 aproctous
 apron
-apron's
 aproned
 aproneer
 apronful
@@ -17036,7 +16801,6 @@ aquavalent
 aquavit
 aquavits
 aqueduct
-aqueduct's
 aqueducts
 aqueity
 aquench
@@ -17084,10 +16848,8 @@ aquosity
 aquotization
 aquotize
 ar
-ar'n't
 ara
 arab
-arab's
 araba
 araban
 arabana
@@ -17142,7 +16904,6 @@ arachne
 arachnean
 arachnephobia
 arachnid
-arachnid's
 arachnidan
 arachnidial
 arachnidism
@@ -17254,7 +17015,6 @@ arbalos
 arber
 arbinose
 arbiter
-arbiter's
 arbiters
 arbith
 arbitrable
@@ -17281,7 +17041,6 @@ arbitrationist
 arbitrations
 arbitrative
 arbitrator
-arbitrator's
 arbitrators
 arbitratorship
 arbitratrix
@@ -17293,7 +17052,6 @@ arbitry
 arblast
 arboloco
 arbor
-arbor's
 arboraceous
 arboral
 arborary
@@ -17368,7 +17126,6 @@ arc
 arca
 arcabucero
 arcade
-arcade's
 arcaded
 arcades
 arcadia
@@ -17419,7 +17176,6 @@ archaeologic
 archaeological
 archaeologically
 archaeologist
-archaeologist's
 archaeologists
 archaeology
 archaeomagnetism
@@ -17452,7 +17208,6 @@ archaizer
 archaizes
 archaizing
 archangel
-archangel's
 archangelic
 archangelical
 archangels
@@ -17728,7 +17483,6 @@ archisymbolical
 archisynagogue
 archit
 architect
-architect's
 architective
 architectonic
 architectonically
@@ -17739,7 +17493,6 @@ architectural
 architecturalist
 architecturally
 architecture
-architecture's
 architectures
 architecturesque
 architecure
@@ -17992,7 +17745,6 @@ ardure
 ardurous
 are
 area
-area's
 areach
 aread
 aready
@@ -18031,9 +17783,7 @@ aregeneratory
 areic
 areito
 aren
-aren't
 arena
-arena's
 arenaceous
 arenae
 arenaria
@@ -18240,7 +17990,6 @@ argufying
 arguing
 arguitively
 argument
-argument's
 argumenta
 argumental
 argumentation
@@ -18369,7 +18118,6 @@ aristo
 aristocracies
 aristocracy
 aristocrat
-aristocrat's
 aristocratic
 aristocratical
 aristocratically
@@ -18463,7 +18211,6 @@ armageddon
 armagnac
 armagnacs
 armament
-armament's
 armamentaria
 armamentarium
 armamentary
@@ -18484,7 +18231,6 @@ armband
 armbands
 armbone
 armchair
-armchair's
 armchaired
 armchairs
 armed
@@ -18585,7 +18331,6 @@ armozine
 armpad
 armpiece
 armpit
-armpit's
 armpits
 armplate
 armrack
@@ -18600,7 +18345,6 @@ armstrong
 armure
 armures
 army
-army's
 armyworm
 armyworms
 arn
@@ -18685,7 +18429,6 @@ arpeggiando
 arpeggiated
 arpeggiation
 arpeggio
-arpeggio's
 arpeggioed
 arpeggios
 arpen
@@ -18717,7 +18460,6 @@ arraigned
 arraigner
 arraigning
 arraignment
-arraignment's
 arraignments
 arraigns
 arrame
@@ -18726,7 +18468,6 @@ arrange
 arrangeable
 arranged
 arrangement
-arrangement's
 arrangements
 arranger
 arrangers
@@ -18783,7 +18524,6 @@ arrestingly
 arrestive
 arrestment
 arrestor
-arrestor's
 arrestors
 arrests
 arret
@@ -18831,7 +18571,6 @@ arrisways
 arriswise
 arrivage
 arrival
-arrival's
 arrivals
 arrivance
 arrive
@@ -18877,7 +18616,6 @@ arrow
 arrowbush
 arrowed
 arrowhead
-arrowhead's
 arrowheaded
 arrowheads
 arrowing
@@ -18912,7 +18650,6 @@ arsedine
 arsefoot
 arsehole
 arsenal
-arsenal's
 arsenals
 arsenate
 arsenates
@@ -19006,7 +18743,6 @@ arsyl
 arsylene
 arsyversy
 art
-art's
 artaba
 artabe
 artal
@@ -19064,7 +18800,6 @@ arteriographic
 arteriography
 arteriolar
 arteriole
-arteriole's
 arterioles
 arteriolith
 arteriology
@@ -19102,7 +18837,6 @@ arterioversion
 arterioverter
 arteritis
 artery
-artery's
 arterying
 artesian
 artesonado
@@ -19183,7 +18917,6 @@ arthroplasty
 arthropleura
 arthropleure
 arthropod
-arthropod's
 arthropodal
 arthropodan
 arthropodous
@@ -19222,10 +18955,8 @@ arthurian
 artiad
 artic
 artichoke
-artichoke's
 artichokes
 article
-article's
 articled
 articles
 articling
@@ -19259,7 +18990,6 @@ articulus
 artier
 artiest
 artifact
-artifact's
 artifactitious
 artifacts
 artifactual
@@ -19295,13 +19025,11 @@ artiodactyl
 artiodactylous
 artiphyllous
 artisan
-artisan's
 artisanal
 artisanry
 artisans
 artisanship
 artist
-artist's
 artistdom
 artiste
 artistes
@@ -19506,7 +19234,6 @@ ascescent
 asceses
 ascesis
 ascetic
-ascetic's
 ascetical
 ascetically
 asceticism
@@ -19711,7 +19438,6 @@ ashstone
 ashthroat
 ashtoreth
 ashtray
-ashtray's
 ashtrays
 ashur
 ashvamedha
@@ -19821,7 +19547,6 @@ aspartokinase
 aspartyl
 aspca
 aspect
-aspect's
 aspectable
 aspectant
 aspection
@@ -19876,7 +19601,6 @@ aspersers
 asperses
 aspersing
 aspersion
-aspersion's
 aspersions
 aspersive
 aspersively
@@ -19938,7 +19662,6 @@ aspidomancy
 aspidospermine
 aspiquee
 aspirant
-aspirant's
 aspirants
 aspirata
 aspiratae
@@ -19947,7 +19670,6 @@ aspirated
 aspirates
 aspirating
 aspiration
-aspiration's
 aspirations
 aspirator
 aspirators
@@ -19991,7 +19713,6 @@ asquirm
 asrama
 asramas
 ass
-ass's
 assacu
 assafetida
 assafoetida
@@ -20006,7 +19727,6 @@ assailability
 assailable
 assailableness
 assailant
-assailant's
 assailants
 assailed
 assailer
@@ -20026,7 +19746,6 @@ assarion
 assart
 assary
 assassin
-assassin's
 assassinate
 assassinated
 assassinates
@@ -20077,7 +19796,6 @@ asself
 assembl
 assemblable
 assemblage
-assemblage's
 assemblages
 assemblagist
 assemblance
@@ -20091,7 +19809,6 @@ assembles
 assemblies
 assembling
 assembly
-assembly's
 assemblyman
 assemblymen
 assemblywoman
@@ -20127,7 +19844,6 @@ assertible
 asserting
 assertingly
 assertion
-assertion's
 assertional
 assertions
 assertive
@@ -20159,7 +19875,6 @@ assessing
 assession
 assessionary
 assessment
-assessment's
 assessments
 assessor
 assessorial
@@ -20167,7 +19882,6 @@ assessors
 assessorship
 assessory
 asset
-asset's
 asseth
 assets
 assever
@@ -20216,14 +19930,12 @@ assignations
 assignats
 assigned
 assignee
-assignee's
 assignees
 assigneeship
 assigner
 assigners
 assigning
 assignment
-assignment's
 assignments
 assignor
 assignors
@@ -20256,7 +19968,6 @@ assist
 assistance
 assistances
 assistant
-assistant's
 assistanted
 assistants
 assistantship
@@ -20307,7 +20018,6 @@ associatively
 associativeness
 associativity
 associator
-associator's
 associators
 associatory
 associe
@@ -20339,7 +20049,6 @@ assorters
 assorting
 assortive
 assortment
-assortment's
 assortments
 assorts
 assot
@@ -20374,7 +20083,6 @@ assummon
 assumpsit
 assumpt
 assumption
-assumption's
 assumptions
 assumptious
 assumptiousness
@@ -20383,7 +20091,6 @@ assumptively
 assumptiveness
 assurable
 assurance
-assurance's
 assurances
 assurant
 assurate
@@ -20446,7 +20153,6 @@ astel
 astelic
 astely
 aster
-aster's
 asteraceous
 astereognosis
 asteria
@@ -20461,7 +20167,6 @@ asterion
 asteriscus
 asteriscuses
 asterisk
-asterisk's
 asterisked
 asterisking
 asteriskless
@@ -20476,7 +20181,6 @@ astern
 asternal
 asternia
 asteroid
-asteroid's
 asteroidal
 asteroidean
 asteroids
@@ -20707,7 +20411,6 @@ astrometrical
 astrometry
 astron
 astronaut
-astronaut's
 astronautic
 astronautical
 astronautically
@@ -20716,7 +20419,6 @@ astronauts
 astronavigation
 astronavigator
 astronomer
-astronomer's
 astronomers
 astronomic
 astronomical
@@ -20799,7 +20501,6 @@ asymmetry
 asymptomatic
 asymptomatically
 asymptote
-asymptote's
 asymptotes
 asymptotic
 asymptotical
@@ -20955,7 +20656,6 @@ athecate
 atheism
 atheisms
 atheist
-atheist's
 atheistic
 atheistical
 atheistically
@@ -21016,7 +20716,6 @@ athing
 athink
 athirst
 athlete
-athlete's
 athletehood
 athletes
 athletic
@@ -21125,7 +20824,6 @@ atmometry
 atmophile
 atmos
 atmosphere
-atmosphere's
 atmosphered
 atmosphereful
 atmosphereless
@@ -21146,10 +20844,8 @@ atoke
 atokous
 atole
 atoll
-atoll's
 atolls
 atom
-atom's
 atomatic
 atomechanics
 atomerg
@@ -21283,7 +20979,6 @@ atrociously
 atrociousness
 atrocities
 atrocity
-atrocity's
 atrocoeruleus
 atrolactic
 atropaceous
@@ -21338,7 +21033,6 @@ attaches
 attacheship
 attaching
 attachment
-attachment's
 attachments
 attack
 attackable
@@ -21367,7 +21061,6 @@ attainer
 attainers
 attaining
 attainment
-attainment's
 attainments
 attainor
 attains
@@ -21413,16 +21106,13 @@ attemptless
 attempts
 attend
 attendance
-attendance's
 attendances
 attendancy
 attendant
-attendant's
 attendantly
 attendants
 attended
 attendee
-attendee's
 attendees
 attender
 attenders
@@ -21436,7 +21126,6 @@ attent
 attentat
 attentate
 attention
-attention's
 attentional
 attentionality
 attentions
@@ -21454,7 +21143,6 @@ attenuation
 attenuations
 attenuative
 attenuator
-attenuator's
 attenuators
 atter
 attercop
@@ -21483,7 +21171,6 @@ attestor
 attestors
 attests
 attic
-attic's
 attice
 atticism
 atticisms
@@ -21509,7 +21196,6 @@ attirer
 attires
 attiring
 attitude
-attitude's
 attitudes
 attitudinal
 attitudinarian
@@ -21533,7 +21219,6 @@ attorn
 attornare
 attorned
 attorney
-attorney's
 attorneydom
 attorneyism
 attorneys
@@ -21558,7 +21243,6 @@ attractile
 attracting
 attractingly
 attraction
-attraction's
 attractionally
 attractions
 attractive
@@ -21566,7 +21250,6 @@ attractively
 attractiveness
 attractivity
 attractor
-attractor's
 attractors
 attracts
 attrahent
@@ -21664,7 +21347,6 @@ auction
 auctionary
 auctioned
 auctioneer
-auctioneer's
 auctioneers
 auctioning
 auctions
@@ -21690,7 +21372,6 @@ audibleness
 audibles
 audibly
 audience
-audience's
 audiencer
 audiences
 audiencia
@@ -21705,12 +21386,10 @@ audio
 audioemission
 audiogenic
 audiogram
-audiogram's
 audiograms
 audiological
 audiologies
 audiologist
-audiologist's
 audiologists
 audiology
 audiometer
@@ -21735,14 +21414,12 @@ auditable
 audited
 auditing
 audition
-audition's
 auditioned
 auditioning
 auditions
 auditive
 auditives
 auditor
-auditor's
 auditoria
 auditorial
 auditorially
@@ -21775,7 +21452,6 @@ augen
 augend
 augends
 auger
-auger's
 augerer
 augers
 auget
@@ -21882,7 +21558,6 @@ aumrie
 auncel
 aune
 aunt
-aunt's
 aunter
 aunters
 aunthood
@@ -21902,7 +21577,6 @@ auntship
 aunty
 aupaka
 aura
-aura's
 aurae
 aural
 aurally
@@ -22183,7 +21857,6 @@ authigenetic
 authigenic
 authigenous
 author
-author's
 authorcraft
 authored
 authoress
@@ -22209,10 +21882,8 @@ authoritatively
 authoritativeness
 authorities
 authority
-authority's
 authorizable
 authorization
-authorization's
 authorizations
 authorize
 authorized
@@ -22231,7 +21902,6 @@ autisms
 autist
 autistic
 auto
-auto's
 autoabstract
 autoactivation
 autoactive
@@ -22266,7 +21936,6 @@ autobiographically
 autobiographies
 autobiographist
 autobiography
-autobiography's
 autobiology
 autoblast
 autoboat
@@ -22353,7 +22022,6 @@ autocosm
 autocracies
 autocracy
 autocrat
-autocrat's
 autocratic
 autocratical
 autocratically
@@ -22599,7 +22267,6 @@ autometamorphosis
 autometric
 autometry
 automobile
-automobile's
 automobiled
 automobiles
 automobiling
@@ -22620,7 +22287,6 @@ automower
 autompne
 automysophobia
 autonavigator
-autonavigator's
 autonavigators
 autonegation
 autonephrectomy
@@ -22670,7 +22336,6 @@ autophytically
 autophytograph
 autophytography
 autopilot
-autopilot's
 autopilots
 autopista
 autoplagiarism
@@ -22874,7 +22539,6 @@ autozooid
 autre
 autrefois
 autumn
-autumn's
 autumnal
 autumnally
 autumnian
@@ -23032,7 +22696,6 @@ aventure
 aventurin
 aventurine
 avenue
-avenue's
 avenues
 aveny
 aver
@@ -23070,7 +22733,6 @@ averse
 aversely
 averseness
 aversion
-aversion's
 aversions
 aversive
 avert
@@ -23115,7 +22777,6 @@ aviation
 aviational
 aviations
 aviator
-aviator's
 aviatorial
 aviatoriality
 aviators
@@ -23191,7 +22852,6 @@ avocados
 avocat
 avocate
 avocation
-avocation's
 avocational
 avocationally
 avocations
@@ -23392,7 +23052,6 @@ awkwardish
 awkwardly
 awkwardness
 awl
-awl's
 awless
 awlessness
 awls
@@ -23405,7 +23064,6 @@ awn
 awned
 awner
 awning
-awning's
 awninged
 awnings
 awnless
@@ -23485,12 +23143,10 @@ axiologies
 axiologist
 axiology
 axiom
-axiom's
 axiomatic
 axiomatical
 axiomatically
 axiomatization
-axiomatization's
 axiomatizations
 axiomatize
 axiomatized
@@ -23509,7 +23165,6 @@ axisymmetry
 axite
 axites
 axle
-axle's
 axled
 axles
 axlesmith
@@ -23530,14 +23185,12 @@ axoid
 axoidean
 axolemma
 axolotl
-axolotl's
 axolotls
 axolysis
 axometer
 axometric
 axometry
 axon
-axon's
 axonal
 axone
 axonemal
@@ -23617,7 +23270,6 @@ azadrachta
 azafran
 azafrin
 azalea
-azalea's
 azaleamum
 azaleas
 azan
@@ -23647,7 +23299,6 @@ azimine
 azimino
 aziminobenzene
 azimuth
-azimuth's
 azimuthal
 azimuthally
 azimuths

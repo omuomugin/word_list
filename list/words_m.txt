@@ -1,8 +1,5 @@
 m
-m's
-m/s
 ma
-ma'am
 maad
 maam
 maamselle
@@ -150,7 +147,6 @@ machination
 machinations
 machinator
 machine
-machine's
 machineable
 machined
 machineful
@@ -248,7 +244,6 @@ macrencephalous
 macrencephaly
 macrli
 macro
-macro's
 macroaggregate
 macroaggregated
 macroanalysis
@@ -368,7 +363,6 @@ macromethod
 macromole
 macromolecular
 macromolecule
-macromolecule's
 macromolecules
 macromyelon
 macromyelonal
@@ -673,7 +667,6 @@ magasin
 magazinable
 magazinage
 magazine
-magazine's
 magazined
 magazinelet
 magaziner
@@ -703,7 +696,6 @@ magging
 maggiore
 maggle
 maggot
-maggot's
 maggotiness
 maggotpie
 maggotry
@@ -719,7 +711,6 @@ magicalize
 magically
 magicdom
 magician
-magician's
 magicians
 magicianship
 magicked
@@ -752,7 +743,6 @@ magistrally
 magistrand
 magistrant
 magistrate
-magistrate's
 magistrates
 magistrateship
 magistratic
@@ -812,7 +802,6 @@ magnetised
 magnetiser
 magnetising
 magnetism
-magnetism's
 magnetisms
 magnetist
 magnetite
@@ -925,7 +914,6 @@ magnipotent
 magnirostrate
 magnisonant
 magnitude
-magnitude's
 magnitudes
 magnitudinous
 magnochromite
@@ -1078,7 +1066,6 @@ mailable
 mailbag
 mailbags
 mailbox
-mailbox's
 mailboxes
 mailcatcher
 mailclad
@@ -1122,7 +1109,6 @@ mainbrace
 maine
 mainferre
 mainframe
-mainframe's
 mainframes
 mainland
 mainlander
@@ -1177,7 +1163,6 @@ maintainment
 maintainor
 maintains
 maintenance
-maintenance's
 maintenances
 maintenon
 maintien
@@ -1229,7 +1214,6 @@ majesticness
 majesties
 majestious
 majesty
-majesty's
 majestyship
 majeure
 majidieh
@@ -1254,7 +1238,6 @@ majoritarian
 majoritarianism
 majorities
 majority
-majority's
 majorize
 majors
 majorship
@@ -1380,7 +1363,6 @@ maladroitly
 maladroitness
 maladventure
 malady
-malady's
 malaga
 malagash
 malagasy
@@ -1501,7 +1483,6 @@ maldocchio
 maldonite
 malduck
 male
-male's
 maleability
 malease
 maleate
@@ -1521,7 +1502,6 @@ malee
 malefaction
 malefactions
 malefactor
-malefactor's
 malefactors
 malefactory
 malefactress
@@ -1705,7 +1685,6 @@ malleolar
 malleoli
 malleolus
 mallet
-mallet's
 malleted
 malleting
 mallets
@@ -1881,10 +1860,8 @@ mamluk
 mamluks
 mamlutdar
 mamma
-mamma's
 mammae
 mammal
-mammal's
 mammalgia
 mammalia
 mammalian
@@ -1983,7 +1960,6 @@ mamsell
 mamushi
 mamzer
 man
-man's
 mana
 manace
 manacing
@@ -2001,11 +1977,9 @@ managed
 managee
 manageless
 management
-management's
 managemental
 managements
 manager
-manager's
 managerdom
 manageress
 managerial
@@ -2187,7 +2161,6 @@ mandyas
 mandyases
 mandyi
 mane
-mane's
 maned
 manege
 maneges
@@ -2261,7 +2234,6 @@ mangelin
 mangels
 mangelwurzel
 manger
-manger's
 mangerite
 mangers
 mangery
@@ -2323,7 +2295,6 @@ mani
 mania
 maniable
 maniac
-maniac's
 maniacal
 maniacally
 maniacs
@@ -2358,7 +2329,6 @@ manifesta
 manifestable
 manifestant
 manifestation
-manifestation's
 manifestational
 manifestationist
 manifestations
@@ -2378,7 +2348,6 @@ manifestos
 manifests
 manificum
 manifold
-manifold's
 manifolded
 manifolder
 manifolding
@@ -2423,7 +2392,6 @@ manipulations
 manipulative
 manipulatively
 manipulator
-manipulator's
 manipulators
 manipulatory
 manis
@@ -2451,7 +2419,6 @@ mankiller
 mankilling
 mankin
 mankind
-mankind's
 mankindly
 manks
 manky
@@ -2542,7 +2509,6 @@ manoeuvring
 manograph
 manoir
 manometer
-manometer's
 manometers
 manometric
 manometrical
@@ -2551,7 +2517,6 @@ manometries
 manometry
 manomin
 manor
-manor's
 manorial
 manorialism
 manorialize
@@ -2584,7 +2549,6 @@ manservant
 manses
 manship
 mansion
-mansion's
 mansional
 mansionary
 mansioned
@@ -2622,7 +2586,6 @@ manteaux
 manteel
 mantegar
 mantel
-mantel's
 mantelet
 mantelets
 manteline
@@ -2650,11 +2613,9 @@ mantis
 mantises
 mantispid
 mantissa
-mantissa's
 mantissas
 mantistic
 mantle
-mantle's
 mantled
 mantlepiece
 mantlepieces
@@ -2683,7 +2644,6 @@ mantuan
 mantuas
 manty
 manual
-manual's
 manualii
 manualism
 manualist
@@ -2724,7 +2684,6 @@ manufactural
 manufacture
 manufactured
 manufacturer
-manufacturer's
 manufacturers
 manufactures
 manufacturess
@@ -2760,7 +2719,6 @@ manurially
 manuring
 manus
 manuscript
-manuscript's
 manuscriptal
 manuscription
 manuscripts
@@ -2802,14 +2760,12 @@ maori
 maoris
 maormor
 map
-map's
 mapach
 mapache
 mapau
 maphrian
 mapland
 maple
-maple's
 maplebush
 mapleface
 maplelike
@@ -2825,7 +2781,6 @@ mappen
 mapper
 mappers
 mapping
-mapping's
 mappings
 mappist
 mappy
@@ -2984,7 +2939,6 @@ marcs
 mardi
 mardy
 mare
-mare's
 mareblob
 marechal
 marechale
@@ -3030,7 +2984,6 @@ margenting
 margents
 marges
 margin
-margin's
 marginability
 marginal
 marginalia
@@ -3176,7 +3129,6 @@ marketing
 marketings
 marketman
 marketplace
-marketplace's
 marketplaces
 markets
 marketstead
@@ -3330,7 +3282,6 @@ marrer
 marrers
 marriable
 marriage
-marriage's
 marriageability
 marriageable
 marriageableness
@@ -3375,7 +3326,6 @@ marseille
 marseilles
 marses
 marsh
-marsh's
 marshal
 marshalate
 marshalcies
@@ -3503,7 +3453,6 @@ martrix
 marts
 martyniaceous
 martyr
-martyr's
 martyrdom
 martyrdoms
 martyred
@@ -3676,12 +3625,10 @@ masks
 maslin
 masochism
 masochist
-masochist's
 masochistic
 masochistically
 masochists
 mason
-mason's
 masoned
 masoner
 masonic
@@ -3793,7 +3740,6 @@ mastectomies
 mastectomy
 masted
 master
-master's
 masterable
 masterate
 masterdom
@@ -3822,7 +3768,6 @@ masterminding
 masterminds
 masterous
 masterpiece
-masterpiece's
 masterpieces
 masterproof
 masters
@@ -3948,7 +3893,6 @@ masu
 masurium
 masuriums
 mat
-mat's
 matachin
 matachina
 matachinas
@@ -4011,7 +3955,6 @@ matchstick
 matchwood
 matchy
 mate
-mate's
 mated
 mategriffon
 matehood
@@ -4099,7 +4042,6 @@ mathematical
 mathematically
 mathematicals
 mathematician
-mathematician's
 mathematicians
 mathematicize
 mathematics
@@ -4271,7 +4213,6 @@ mattoir
 mattrass
 mattrasses
 mattress
-mattress's
 mattresses
 matts
 mattulla
@@ -4455,7 +4396,6 @@ maxillopremaxillary
 maxilloturbinal
 maxillozygomatic
 maxim
-maxim's
 maxima
 maximal
 maximalist
@@ -4528,12 +4468,10 @@ mayhemming
 mayhems
 maying
 mayings
-mayn't
 maynt
 mayo
 mayonnaise
 mayor
-mayor's
 mayoral
 mayorality
 mayoralties
@@ -4574,7 +4512,6 @@ mazdaism
 mazdoor
 mazdur
 maze
-maze's
 mazed
 mazedly
 mazedness
@@ -4639,7 +4576,6 @@ meacon
 mead
 meader
 meadow
-meadow's
 meadowbur
 meadowed
 meadower
@@ -4668,7 +4604,6 @@ meagreness
 meak
 meaking
 meal
-meal's
 mealable
 mealberry
 mealed
@@ -4722,7 +4657,6 @@ meanest
 meanie
 meanies
 meaning
-meaning's
 meaningful
 meaningfully
 meaningfulness
@@ -4775,7 +4709,6 @@ measurelessly
 measurelessness
 measurely
 measurement
-measurement's
 measurements
 measurer
 measurers
@@ -4783,7 +4716,6 @@ measures
 measuring
 measuringworm
 meat
-meat's
 meatal
 meatball
 meatballs
@@ -4831,7 +4763,6 @@ mechanal
 mechanality
 mechanalize
 mechanic
-mechanic's
 mechanical
 mechanicalism
 mechanicalist
@@ -4847,7 +4778,6 @@ mechanicointellectual
 mechanicotherapy
 mechanics
 mechanism
-mechanism's
 mechanismic
 mechanisms
 mechanist
@@ -4856,7 +4786,6 @@ mechanistically
 mechanists
 mechanizable
 mechanization
-mechanization's
 mechanizations
 mechanize
 mechanized
@@ -4917,7 +4846,6 @@ medaillon
 medaka
 medakas
 medal
-medal's
 medaled
 medalet
 medaling
@@ -4930,7 +4858,6 @@ medallic
 medallically
 medalling
 medallion
-medallion's
 medallioned
 medallioning
 medallionist
@@ -4972,7 +4899,6 @@ medialkaline
 medially
 medials
 median
-median's
 medianic
 medianimic
 medianimity
@@ -5023,7 +4949,6 @@ mediatrices
 mediatrix
 mediatrixes
 medic
-medic's
 medica
 medicable
 medicably
@@ -5061,7 +4986,6 @@ medicinally
 medicinalness
 medicinary
 medicine
-medicine's
 medicined
 medicinelike
 medicinemonger
@@ -5174,7 +5098,6 @@ mediterraneous
 medithorax
 meditullium
 medium
-medium's
 mediumism
 mediumistic
 mediumization
@@ -5850,7 +5773,6 @@ melodizing
 melodractically
 melodram
 melodrama
-melodrama's
 melodramas
 melodramatic
 melodramatical
@@ -5866,7 +5788,6 @@ melodramatization
 melodramatize
 melodrame
 melody
-melody's
 melodying
 melodyless
 meloe
@@ -5885,7 +5806,6 @@ melomania
 melomaniac
 melomanic
 melon
-melon's
 meloncus
 melongena
 melongrower
@@ -5940,12 +5860,10 @@ melungeon
 melvie
 mem
 member
-member's
 membered
 memberless
 members
 membership
-membership's
 memberships
 membracid
 membracine
@@ -5991,7 +5909,6 @@ meminna
 memnon
 memnonian
 memo
-memo's
 memoir
 memoire
 memoirism
@@ -6044,7 +5961,6 @@ memorizers
 memorizes
 memorizing
 memory
-memory's
 memoryless
 memorylessness
 memos
@@ -6054,7 +5970,6 @@ mems
 memsahib
 memsahibs
 men
-men's
 menaccanite
 menaccanitic
 menace
@@ -6356,14 +6271,12 @@ mentonniere
 mentonnieres
 mentoposterior
 mentor
-mentor's
 mentorial
 mentorism
 mentors
 mentorship
 mentum
 menu
-menu's
 menuiserie
 menuiseries
 menuisier
@@ -6423,7 +6336,6 @@ mercenaries
 mercenarily
 mercenariness
 mercenary
-mercenary's
 mercer
 merceress
 merceries
@@ -6451,7 +6363,6 @@ merchandrise
 merchandry
 merchandy
 merchant
-merchant's
 merchantability
 merchantable
 merchantableness
@@ -7182,7 +7093,6 @@ mesquites
 mesquits
 mess
 message
-message's
 messaged
 messageer
 messagery
@@ -7197,7 +7107,6 @@ messed
 messeigneurs
 messelite
 messenger
-messenger's
 messengers
 messengership
 messer
@@ -7395,7 +7304,6 @@ metairie
 metakinesis
 metakinetic
 metal
-metal's
 metalammonium
 metalanguage
 metalaw
@@ -7595,7 +7503,6 @@ metaphonical
 metaphonize
 metaphony
 metaphor
-metaphor's
 metaphoric
 metaphorical
 metaphorically
@@ -7830,7 +7737,6 @@ metenteronic
 meteogram
 meteograph
 meteor
-meteor's
 meteorgraph
 meteoric
 meteorical
@@ -7940,7 +7846,6 @@ methionine
 metho
 methobromide
 method
-method's
 methodaster
 methodeutic
 methodic
@@ -7954,7 +7859,6 @@ methodiser
 methodising
 methodism
 methodist
-methodist's
 methodistic
 methodists
 methodization
@@ -7970,7 +7874,6 @@ methodologies
 methodologist
 methodologists
 methodology
-methodology's
 methods
 methol
 methomania
@@ -8105,7 +8008,6 @@ metretes
 metreza
 metria
 metric
-metric's
 metrical
 metrically
 metricate
@@ -8580,7 +8482,6 @@ microcolorimetry
 microcolumnar
 microcombustion
 microcomputer
-microcomputer's
 microcomputers
 microconidial
 microconidium
@@ -8684,7 +8585,6 @@ microfiches
 microfilaria
 microfilarial
 microfilm
-microfilm's
 microfilmable
 microfilmed
 microfilmer
@@ -8761,7 +8661,6 @@ microimage
 microinch
 microinjection
 microinstruction
-microinstruction's
 microinstructions
 microjoule
 microjump
@@ -8964,10 +8863,8 @@ microprocedure
 microprocedures
 microprocessing
 microprocessor
-microprocessor's
 microprocessors
 microprogram
-microprogram's
 microprogrammable
 microprogrammed
 microprogrammer
@@ -9011,7 +8908,6 @@ microsclerous
 microsclerum
 microscopal
 microscope
-microscope's
 microscopes
 microscopial
 microscopic
@@ -9025,7 +8921,6 @@ microscopopy
 microscopy
 microsec
 microsecond
-microsecond's
 microseconds
 microsection
 microsegment
@@ -9300,7 +9195,6 @@ midparentage
 midparental
 midpit
 midpoint
-midpoint's
 midpoints
 midrange
 midranges
@@ -9408,7 +9302,6 @@ mightily
 mightiness
 mightless
 mightly
-mightn't
 mightnt
 mights
 mighty
@@ -9515,7 +9408,6 @@ mildness
 mildnesses
 mildred
 mile
-mile's
 mileage
 mileages
 mileometer
@@ -9529,7 +9421,6 @@ milesima
 milesimo
 milesimos
 milestone
-milestone's
 milestones
 mileway
 milfoil
@@ -9613,7 +9504,6 @@ milking
 milkless
 milklike
 milkmaid
-milkmaid's
 milkmaids
 milkman
 milkmen
@@ -9791,7 +9681,6 @@ milliohm
 milliohms
 million
 millionaire
-millionaire's
 millionairedom
 millionaires
 millionairess
@@ -9811,7 +9700,6 @@ millionth
 millionths
 milliped
 millipede
-millipede's
 millipedes
 millipeds
 milliphot
@@ -9854,7 +9742,6 @@ mills
 millsite
 millstock
 millstone
-millstone's
 millstones
 millstream
 millstreams
@@ -10061,7 +9948,6 @@ mineragraphic
 mineragraphy
 mineraiogic
 mineral
-mineral's
 mineralise
 mineralised
 mineralising
@@ -10132,7 +10018,6 @@ miniating
 miniator
 miniatous
 miniature
-miniature's
 miniatured
 miniatureness
 miniatures
@@ -10158,7 +10043,6 @@ minicamera
 minicar
 minicars
 minicomputer
-minicomputer's
 minicomputers
 minidisk
 minidisks
@@ -10205,7 +10089,6 @@ minimism
 minimistic
 minimitude
 minimization
-minimization's
 minimizations
 minimize
 minimized
@@ -10243,7 +10126,6 @@ miniskirts
 ministate
 ministates
 minister
-minister's
 ministered
 ministeriable
 ministerial
@@ -10269,7 +10151,6 @@ ministrer
 ministress
 ministries
 ministry
-ministry's
 ministryship
 minisub
 minitant
@@ -10280,7 +10161,6 @@ miniver
 minivers
 minivet
 mink
-mink's
 minkery
 minkfish
 minkfishes
@@ -10291,7 +10171,6 @@ minnesinger
 minnesingers
 minnesong
 minnesota
-minnesota's
 minnesotan
 minnesotans
 minnie
@@ -10299,7 +10178,6 @@ minniebush
 minnies
 minning
 minnow
-minnow's
 minnows
 minny
 mino
@@ -10307,7 +10185,6 @@ minoan
 minoize
 minometer
 minor
-minor's
 minora
 minorage
 minorate
@@ -10320,7 +10197,6 @@ minoring
 minorite
 minorities
 minority
-minority's
 minors
 minorship
 minos
@@ -10333,7 +10209,6 @@ minster
 minsters
 minsteryard
 minstrel
-minstrel's
 minstreless
 minstrels
 minstrelship
@@ -10429,7 +10304,6 @@ miracidia
 miracidial
 miracidium
 miracle
-miracle's
 miracled
 miraclemonger
 miraclemongering
@@ -10801,7 +10675,6 @@ miscalculated
 miscalculates
 miscalculating
 miscalculation
-miscalculation's
 miscalculations
 miscalculator
 miscall
@@ -10939,7 +10812,6 @@ misconceiver
 misconceives
 misconceiving
 misconception
-misconception's
 misconceptions
 misconclusion
 miscondition
@@ -11209,7 +11081,6 @@ miserliness
 miserly
 misers
 misery
-misery's
 mises
 misesteem
 misesteemed
@@ -11268,7 +11139,6 @@ misfired
 misfires
 misfiring
 misfit
-misfit's
 misfits
 misfitted
 misfitting
@@ -11287,7 +11157,6 @@ misforms
 misfortunate
 misfortunately
 misfortune
-misfortune's
 misfortuned
 misfortuner
 misfortunes
@@ -11361,7 +11230,6 @@ mishandles
 mishandling
 mishanter
 mishap
-mishap's
 mishappen
 mishaps
 mishara
@@ -11900,7 +11768,6 @@ misreports
 misreposed
 misrepresent
 misrepresentation
-misrepresentation's
 misrepresentations
 misrepresentative
 misrepresented
@@ -11982,7 +11849,6 @@ missible
 missies
 missificate
 missile
-missile's
 missileer
 missileman
 missilemen
@@ -12000,7 +11866,6 @@ missional
 missionaries
 missionarize
 missionary
-missionary's
 missionaryship
 missioned
 missioner
@@ -12272,7 +12137,6 @@ misunderstandable
 misunderstander
 misunderstanders
 misunderstanding
-misunderstanding's
 misunderstandingly
 misunderstandings
 misunderstands
@@ -12341,7 +12205,6 @@ miszone
 miszoned
 miszoning
 mit
-mit's
 mitapsis
 mitch
 mitchboard
@@ -12429,7 +12292,6 @@ mitt
 mittatur
 mittelhand
 mitten
-mitten's
 mittened
 mittenlike
 mittens
@@ -12479,7 +12341,6 @@ mixtilinear
 mixtilion
 mixtion
 mixture
-mixture's
 mixtures
 mixup
 mixups
@@ -12527,7 +12388,6 @@ mnem
 mneme
 mnemic
 mnemonic
-mnemonic's
 mnemonical
 mnemonicalist
 mnemonically
@@ -12564,14 +12424,12 @@ moanless
 moans
 moas
 moat
-moat's
 moated
 moathill
 moating
 moatlike
 moats
 mob
-mob's
 mobable
 mobbable
 mobbed
@@ -12633,7 +12491,6 @@ mobsters
 moc
 moca
 moccasin
-moccasin's
 moccasins
 moccenigo
 mocha
@@ -12681,13 +12538,11 @@ modalist
 modalistic
 modalities
 modality
-modality's
 modalize
 modally
 modder
 mode
 model
-model's
 modeled
 modeler
 modelers
@@ -12828,11 +12683,9 @@ modulation
 modulations
 modulative
 modulator
-modulator's
 modulators
 modulatory
 module
-module's
 modules
 modulet
 moduli
@@ -13050,7 +12903,6 @@ molecularist
 molecularity
 molecularly
 molecule
-molecule's
 molecules
 molehead
 moleheap
@@ -13221,7 +13073,6 @@ mombin
 momble
 mome
 moment
-moment's
 momenta
 momental
 momentally
@@ -13349,7 +13200,6 @@ monarchomachic
 monarchomachist
 monarchs
 monarchy
-monarchy's
 monarda
 monardas
 monarthritis
@@ -13362,7 +13212,6 @@ monasterial
 monasterially
 monasteries
 monastery
-monastery's
 monastic
 monastical
 monastically
@@ -13391,7 +13240,6 @@ monchiquite
 mondain
 mondaine
 monday
-monday's
 mondays
 monde
 mondego
@@ -13577,7 +13425,6 @@ monitory
 monitress
 monitrix
 monk
-monk's
 monkbird
 monkcraft
 monkdom
@@ -13877,7 +13724,6 @@ monogonoporic
 monogonoporous
 monogony
 monogram
-monogram's
 monogramed
 monograming
 monogramm
@@ -13888,7 +13734,6 @@ monogrammic
 monogramming
 monograms
 monograph
-monograph's
 monographed
 monographer
 monographers
@@ -14116,7 +13961,6 @@ monopolizing
 monopoloid
 monopolous
 monopoly
-monopoly's
 monopolylogist
 monopolylogue
 monopotassium
@@ -14347,7 +14191,6 @@ monsoonishly
 monsoons
 monspermy
 monster
-monster's
 monsterhood
 monsterlike
 monsters
@@ -14377,7 +14220,6 @@ montagnard
 montagne
 montague
 montana
-montana's
 montanan
 montanans
 montanas
@@ -14410,7 +14252,6 @@ montgolfiers
 montgomery
 montgomeryshire
 month
-month's
 monthlies
 monthlong
 monthly
@@ -14448,7 +14289,6 @@ montroydite
 monture
 montuvio
 monument
-monument's
 monumental
 monumentalise
 monumentalised
@@ -14484,7 +14324,6 @@ mooches
 mooching
 moochulka
 mood
-mood's
 mooder
 moodier
 moodiest
@@ -15122,7 +14961,6 @@ mors
 morsal
 morse
 morsel
-morsel's
 morseled
 morseling
 morselization
@@ -15165,7 +15003,6 @@ mortcloth
 mortem
 mortersheen
 mortgage
-mortgage's
 mortgageable
 mortgaged
 mortgagee
@@ -15233,7 +15070,6 @@ morw
 morwong
 mos
 mosaic
-mosaic's
 mosaical
 mosaically
 mosaicism
@@ -15294,7 +15130,6 @@ mosquitoproof
 mosquitos
 mosquittoey
 moss
-moss's
 mossback
 mossbacked
 mossbacks
@@ -15345,7 +15180,6 @@ motatory
 mote
 moted
 motel
-motel's
 moteless
 motels
 moter
@@ -15362,7 +15196,6 @@ mothballing
 mothballs
 mothed
 mother
-mother's
 motherboard
 mothercraft
 motherdom
@@ -15404,7 +15237,6 @@ moths
 mothworm
 mothy
 motif
-motif's
 motific
 motifs
 motile
@@ -15481,11 +15313,9 @@ motorcab
 motorcade
 motorcades
 motorcar
-motorcar's
 motorcars
 motorcoach
 motorcycle
-motorcycle's
 motorcycled
 motorcycler
 motorcycles
@@ -15507,7 +15337,6 @@ motorises
 motorising
 motorism
 motorist
-motorist's
 motorists
 motorium
 motorization
@@ -15641,7 +15470,6 @@ mount
 mountable
 mountably
 mountain
-mountain's
 mountained
 mountaineer
 mountaineered
@@ -15822,14 +15650,12 @@ moveless
 movelessly
 movelessness
 movement
-movement's
 movements
 movent
 mover
 movers
 moves
 movie
-movie's
 moviedom
 moviedoms
 moviegoer
@@ -16180,13 +16006,11 @@ muezzin
 muezzins
 mufasal
 muff
-muff's
 muffed
 muffer
 muffet
 muffetee
 muffin
-muffin's
 muffineer
 muffing
 muffins
@@ -16208,7 +16032,6 @@ mufti
 muftis
 mufty
 mug
-mug's
 muga
 mugearite
 mugful
@@ -16294,7 +16117,6 @@ mulattos
 mulattress
 mulberries
 mulberry
-mulberry's
 mulch
 mulched
 mulcher
@@ -16312,7 +16134,6 @@ mulcts
 mulctuary
 mulder
 mule
-mule's
 muleback
 muled
 mulefoot
@@ -16670,7 +16491,6 @@ multiplan
 multiplane
 multiplated
 multiple
-multiple's
 multiplepoinding
 multiples
 multiplet
@@ -16681,14 +16501,12 @@ multiplexers
 multiplexes
 multiplexing
 multiplexor
-multiplexor's
 multiplexors
 multipliable
 multipliableness
 multiplicability
 multiplicable
 multiplicand
-multiplicand's
 multiplicands
 multiplicate
 multiplication
@@ -16718,7 +16536,6 @@ multipresent
 multiprocess
 multiprocessing
 multiprocessor
-multiprocessor's
 multiprocessors
 multiprogram
 multiprogrammed
@@ -16820,7 +16637,6 @@ multituberculism
 multituberculy
 multitubular
 multitude
-multitude's
 multitudes
 multitudinal
 multitudinary
@@ -16917,7 +16733,6 @@ mummifying
 mumming
 mumms
 mummy
-mummy's
 mummydom
 mummyhood
 mummying
@@ -16997,7 +16812,6 @@ municipalism
 municipalist
 municipalities
 municipality
-municipality's
 municipalization
 municipalize
 municipalized
@@ -17323,7 +17137,6 @@ muset
 musette
 musettes
 museum
-museum's
 museumize
 museums
 mush
@@ -17425,7 +17238,6 @@ muskegs
 muskellunge
 muskellunges
 musket
-musket's
 musketade
 musketeer
 musketeers
@@ -17457,7 +17269,6 @@ muskone
 muskox
 muskoxen
 muskrat
-muskrat's
 muskrats
 muskroot
 musks
@@ -17494,7 +17305,6 @@ mussal
 mussalchee
 mussed
 mussel
-mussel's
 musselcracker
 musseled
 musseler
@@ -17557,7 +17367,6 @@ mustify
 mustily
 mustiness
 musting
-mustn't
 mustnt
 musts
 mustulent
@@ -17655,7 +17464,6 @@ mutinous
 mutinously
 mutinousness
 mutiny
-mutiny's
 mutinying
 mutism
 mutisms
@@ -17739,7 +17547,6 @@ muzziest
 muzzily
 muzziness
 muzzle
-muzzle's
 muzzled
 muzzleloader
 muzzleloading
@@ -18346,10 +18153,8 @@ mysteriously
 mysteriousness
 mysterize
 mystery
-mystery's
 mystes
 mystic
-mystic's
 mystical
 mysticality
 mystically
@@ -18444,7 +18249,6 @@ mythologizer
 mythologizing
 mythologue
 mythology
-mythology's
 mythomania
 mythomaniac
 mythometer

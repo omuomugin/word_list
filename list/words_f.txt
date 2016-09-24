@@ -1,5 +1,4 @@
 f
-f's
 fa
 faade
 faailk
@@ -24,7 +23,6 @@ fabliau
 fabliaux
 fabling
 fabric
-fabric's
 fabricable
 fabricant
 fabricate
@@ -130,7 +128,6 @@ facilitative
 facilitator
 facilities
 facility
-facility's
 facily
 facing
 facingly
@@ -152,7 +149,6 @@ faconde
 faconne
 facsim
 facsimile
-facsimile's
 facsimiled
 facsimileing
 facsimiles
@@ -160,7 +156,6 @@ facsimiling
 facsimilist
 facsimilize
 fact
-fact's
 factable
 factabling
 factfinder
@@ -169,7 +164,6 @@ factice
 facticide
 facticity
 faction
-faction's
 factional
 factionalism
 factionalist
@@ -209,7 +203,6 @@ factories
 factoring
 factorist
 factorization
-factorization's
 factorizations
 factorize
 factorized
@@ -217,7 +210,6 @@ factorizing
 factors
 factorship
 factory
-factory's
 factorylike
 factoryship
 factotum
@@ -247,7 +239,6 @@ facultied
 faculties
 facultize
 faculty
-faculty's
 facund
 facundity
 facy
@@ -382,7 +373,6 @@ fails
 failsafe
 failsoft
 failure
-failure's
 failures
 fain
 fainaigue
@@ -461,7 +451,6 @@ fairwater
 fairway
 fairways
 fairy
-fairy's
 fairydom
 fairyfloss
 fairyfolk
@@ -578,7 +567,6 @@ fallacious
 fallaciously
 fallaciousness
 fallacy
-fallacy's
 fallage
 fallal
 fallalery
@@ -629,7 +617,6 @@ falsehearted
 falseheartedly
 falseheartedness
 falsehood
-falsehood's
 falsehoods
 falsely
 falsen
@@ -725,10 +712,8 @@ familistic
 familistical
 famille
 family
-family's
 familyish
 famine
-famine's
 famines
 faming
 famish
@@ -748,14 +733,12 @@ famuli
 famulli
 famulus
 fan
-fan's
 fana
 fanakalo
 fanal
 fanaloka
 fanam
 fanatic
-fanatic's
 fanatical
 fanatically
 fanaticalness
@@ -775,7 +758,6 @@ fanciable
 fancical
 fancied
 fancier
-fancier's
 fanciers
 fancies
 fanciest
@@ -817,7 +799,6 @@ fanfold
 fanfolds
 fanfoot
 fang
-fang's
 fanga
 fangas
 fanged
@@ -911,7 +892,6 @@ fantastico
 fantastry
 fantasts
 fantasy
-fantasy's
 fantasying
 fanteague
 fantee
@@ -980,7 +960,6 @@ farasula
 faraway
 farawayness
 farce
-farce's
 farced
 farcelike
 farcemeat
@@ -1088,7 +1067,6 @@ farmhand
 farmhands
 farmhold
 farmhouse
-farmhouse's
 farmhouses
 farmhousey
 farming
@@ -1107,7 +1085,6 @@ farmtown
 farmwife
 farmy
 farmyard
-farmyard's
 farmyards
 farmyardy
 farnesol
@@ -1336,7 +1313,6 @@ fatalistically
 fatalists
 fatalities
 fatality
-fatality's
 fatalize
 fatally
 fatalness
@@ -1362,7 +1338,6 @@ fatheadedness
 fatheads
 fathearted
 father
-father's
 fathercraft
 fathered
 fatherhood
@@ -1741,7 +1716,6 @@ feastly
 feastraw
 feasts
 feat
-feat's
 feateous
 feater
 featest
@@ -1844,7 +1818,6 @@ febris
 febronian
 februaries
 february
-february's
 februation
 fec
 fecal
@@ -2138,7 +2111,6 @@ felloe
 felloes
 fellon
 fellow
-fellow's
 fellowcraft
 fellowed
 fellowess
@@ -2152,7 +2124,6 @@ fellowmen
 fellowred
 fellows
 fellowship
-fellowship's
 fellowshiped
 fellowshiping
 fellowshipped
@@ -2219,7 +2190,6 @@ felwort
 felworts
 fem
 female
-female's
 femalely
 femaleness
 females
@@ -2282,7 +2252,6 @@ femororotulian
 femorotibial
 fempty
 femur
-femur's
 femurs
 fen
 fenagle
@@ -2458,7 +2427,6 @@ fermental
 fermentarian
 fermentate
 fermentation
-fermentation's
 fermentations
 fermentative
 fermentatively
@@ -2486,7 +2454,6 @@ fermium
 fermiums
 fermorite
 fern
-fern's
 fernambuck
 fernandinite
 fernbird
@@ -2719,7 +2686,6 @@ fervidity
 fervidly
 fervidness
 fervor
-fervor's
 fervorless
 fervorlessness
 fervorous
@@ -2765,7 +2731,6 @@ festine
 festing
 festino
 festival
-festival's
 festivalgoer
 festivally
 festivals
@@ -2898,7 +2863,6 @@ feuar
 feuars
 feucht
 feud
-feud's
 feudal
 feudalisation
 feudalise
@@ -3037,7 +3001,6 @@ fibbery
 fibbing
 fibdom
 fiber
-fiber's
 fiberboard
 fibered
 fiberfill
@@ -3244,7 +3207,6 @@ fictile
 fictileness
 fictility
 fiction
-fiction's
 fictional
 fictionalization
 fictionalize
@@ -3474,7 +3436,6 @@ fifty
 fiftyfold
 fiftypenny
 fig
-fig's
 figaro
 figary
 figbird
@@ -3578,7 +3539,6 @@ filagreeing
 filagrees
 filagreing
 filament
-filament's
 filamentar
 filamentary
 filamented
@@ -3623,7 +3583,6 @@ filches
 filching
 filchingly
 file
-file's
 filea
 fileable
 filecard
@@ -3638,7 +3597,6 @@ filemark
 filemarks
 filemot
 filename
-filename's
 filenames
 filer
 filers
@@ -3816,7 +3774,6 @@ filosus
 fils
 filt
 filter
-filter's
 filterability
 filterable
 filterableness
@@ -3870,7 +3827,6 @@ fimetarious
 fimetic
 fimicolous
 fin
-fin's
 finable
 finableness
 finagle
@@ -3905,7 +3861,6 @@ financial
 financialist
 financially
 financier
-financier's
 financiere
 financiered
 financiering
@@ -4130,7 +4085,6 @@ firca
 fire
 fireable
 firearm
-firearm's
 firearmed
 firearms
 fireback
@@ -4194,7 +4148,6 @@ fireflies
 fireflirt
 fireflower
 firefly
-firefly's
 fireguard
 firehall
 firehalls
@@ -4216,7 +4169,6 @@ firepans
 firepink
 firepinks
 fireplace
-fireplace's
 fireplaces
 fireplough
 fireplow
@@ -4564,7 +4516,6 @@ fitted
 fittedness
 fitten
 fitter
-fitter's
 fitters
 fittest
 fittier
@@ -4622,7 +4573,6 @@ fixers
 fixes
 fixgig
 fixidity
-fixin's
 fixing
 fixings
 fixion
@@ -4631,7 +4581,6 @@ fixity
 fixive
 fixt
 fixture
-fixture's
 fixtureless
 fixtures
 fixup
@@ -4710,7 +4659,6 @@ flacourtiaceous
 flaff
 flaffer
 flag
-flag's
 flagarie
 flagboat
 flagella
@@ -4940,7 +4888,6 @@ flankwise
 flanky
 flanned
 flannel
-flannel's
 flannelboard
 flannelbush
 flanneled
@@ -4961,7 +4908,6 @@ flanning
 flanque
 flans
 flap
-flap's
 flapcake
 flapdock
 flapdoodle
@@ -5028,7 +4974,6 @@ flashings
 flashlamp
 flashlamps
 flashlight
-flashlight's
 flashlights
 flashlike
 flashly
@@ -5280,7 +5225,6 @@ flchette
 fld
 fldxt
 flea
-flea's
 fleabag
 fleabags
 fleabane
@@ -5345,12 +5289,10 @@ fledgier
 fledgiest
 fledging
 fledgling
-fledgling's
 fledglings
 fledgy
 flee
 fleece
-fleece's
 fleeceable
 fleeced
 fleeceflower
@@ -5556,7 +5498,6 @@ fliffus
 fligged
 fligger
 flight
-flight's
 flighted
 flighter
 flightful
@@ -5598,7 +5539,6 @@ flinders
 flindosa
 flindosy
 fling
-fling's
 flingdust
 flinger
 flingers
@@ -5879,7 +5819,6 @@ floozie
 floozies
 floozy
 flop
-flop's
 floperoo
 flophouse
 flophouses
@@ -6564,7 +6503,6 @@ flycatcher
 flycatchers
 flyeater
 flyer
-flyer's
 flyers
 flyflap
 flyflapper
@@ -6621,8 +6559,6 @@ fn
 fname
 fnese
 fo
-fo'c's'le
-fo'c'sle
 foal
 foaled
 foalfoot
@@ -6696,7 +6632,6 @@ fodge
 fodgel
 fodient
 foe
-foe's
 foederal
 foederati
 foederatus
@@ -6731,7 +6666,6 @@ foetus
 foetuses
 fofarraw
 fog
-fog's
 fogas
 fogbank
 fogbound
@@ -6896,7 +6830,6 @@ foliously
 folium
 foliums
 folk
-folk's
 folkboat
 folkcraft
 folkfree
@@ -7029,7 +6962,6 @@ fonnish
 fono
 fons
 font
-font's
 fontal
 fontally
 fontanel
@@ -7050,7 +6982,6 @@ fonts
 foo
 foobar
 food
-food's
 fooder
 foodful
 foodless
@@ -7058,7 +6989,6 @@ foodlessness
 foods
 foodservices
 foodstuff
-foodstuff's
 foodstuffs
 foody
 foofaraw
@@ -7107,7 +7037,6 @@ footage
 footages
 footback
 football
-football's
 footballer
 footballist
 footballs
@@ -7189,7 +7118,6 @@ footmarks
 footmen
 footmenfootpad
 footnote
-footnote's
 footnoted
 footnotes
 footnoting
@@ -7205,7 +7133,6 @@ footplate
 footpound
 footpounds
 footprint
-footprint's
 footprints
 footrace
 footraces
@@ -7315,7 +7242,6 @@ foraramina
 forasmuch
 forastero
 foray
-foray's
 forayed
 forayer
 forayers
@@ -7331,7 +7257,6 @@ forbathe
 forbbore
 forbborne
 forbear
-forbear's
 forbearable
 forbearance
 forbearances
@@ -7383,7 +7308,6 @@ forcaria
 forcarve
 forcat
 force
-force's
 forceable
 forced
 forcedly
@@ -7467,7 +7391,6 @@ foreanswer
 foreappoint
 foreappointment
 forearm
-forearm's
 forearmed
 forearming
 forearms
@@ -7615,7 +7538,6 @@ foredune
 foreface
 forefaces
 forefather
-forefather's
 forefatherly
 forefathers
 forefault
@@ -7635,7 +7557,6 @@ forefield
 forefigure
 forefin
 forefinger
-forefinger's
 forefingers
 forefit
 foreflank
@@ -7683,7 +7604,6 @@ forehard
 forehatch
 forehatchway
 forehead
-forehead's
 foreheaded
 foreheads
 forehear
@@ -8195,7 +8115,6 @@ forger
 forgeries
 forgers
 forgery
-forgery's
 forges
 forget
 forgetable
@@ -8338,7 +8257,6 @@ formalised
 formaliser
 formalising
 formalism
-formalism's
 formalisms
 formalist
 formalistic
@@ -8349,7 +8267,6 @@ formalities
 formality
 formalizable
 formalization
-formalization's
 formalizations
 formalize
 formalized
@@ -8372,7 +8289,6 @@ formated
 formates
 formating
 formation
-formation's
 formational
 formations
 formative
@@ -8381,7 +8297,6 @@ formativeness
 formats
 formatted
 formatter
-formatter's
 formatters
 formatting
 formature
@@ -8455,7 +8370,6 @@ formous
 formoxime
 forms
 formula
-formula's
 formulable
 formulae
 formulaic
@@ -8484,7 +8398,6 @@ formulating
 formulation
 formulations
 formulator
-formulator's
 formulators
 formulatory
 formule
@@ -8598,7 +8511,6 @@ forswornness
 forsythia
 forsythias
 fort
-fort's
 fortake
 fortalice
 fortaxed
@@ -8676,7 +8588,6 @@ fortranh
 fortravail
 fortread
 fortress
-fortress's
 fortressed
 fortresses
 fortressing
@@ -8694,7 +8605,6 @@ fortunately
 fortunateness
 fortunation
 fortune
-fortune's
 fortuned
 fortunel
 fortuneless
@@ -8715,7 +8625,6 @@ fortyfold
 fortyish
 fortypenny
 forum
-forum's
 forumize
 forums
 forvay
@@ -8892,7 +8801,6 @@ foun
 founce
 found
 foundation
-foundation's
 foundational
 foundationally
 foundationary
@@ -8916,14 +8824,11 @@ foundress
 foundries
 foundrous
 foundry
-foundry's
 foundryman
 foundrymen
 founds
 fount
-fount's
 fountain
-fountain's
 fountained
 fountaineer
 fountainhead
@@ -9043,7 +8948,6 @@ fowlpox
 fowlpoxes
 fowls
 fox
-fox's
 foxbane
 foxberries
 foxberry
@@ -9126,7 +9030,6 @@ fractals
 fracted
 fractile
 fraction
-fraction's
 fractional
 fractionalism
 fractionalization
@@ -9214,7 +9117,6 @@ fragmentizing
 fragments
 fragor
 fragrance
-fragrance's
 fragrances
 fragrancies
 fragrancy
@@ -9269,7 +9171,6 @@ frames
 frameshift
 framesmith
 framework
-framework's
 frameworks
 framing
 frammit
@@ -9279,11 +9180,9 @@ franc
 franca
 francas
 france
-france's
 frances
 franchisal
 franchise
-franchise's
 franchised
 franchisee
 franchisees
@@ -9414,7 +9313,6 @@ fraternising
 fraternism
 fraternities
 fraternity
-fraternity's
 fraternization
 fraternize
 fraternized
@@ -9433,7 +9331,6 @@ fratry
 frats
 frau
 fraud
-fraud's
 frauder
 fraudful
 fraudfully
@@ -9484,7 +9381,6 @@ frazzles
 frazzling
 frden
 freak
-freak's
 freakdom
 freaked
 freakery
@@ -9546,7 +9442,6 @@ freed
 freedman
 freedmen
 freedom
-freedom's
 freedoms
 freedoot
 freedstool
@@ -9815,7 +9710,6 @@ friableness
 friand
 friandise
 friar
-friar's
 friarbird
 friarhood
 friaries
@@ -9858,7 +9752,6 @@ fricatrice
 frickle
 fricti
 friction
-friction's
 frictionable
 frictional
 frictionally
@@ -9871,7 +9764,6 @@ frictionlessness
 frictionproof
 frictions
 friday
-friday's
 fridays
 fridge
 fridges
@@ -9882,7 +9774,6 @@ friedelite
 friedman
 friedrichsdor
 friend
-friend's
 friended
 friending
 friendless
@@ -9897,7 +9788,6 @@ friendliwise
 friendly
 friends
 friendship
-friendship's
 friendships
 frier
 friers
@@ -9906,7 +9796,6 @@ friese
 frieseite
 friesian
 frieze
-frieze's
 friezed
 friezer
 friezes
@@ -9915,7 +9804,6 @@ friezy
 frig
 frigage
 frigate
-frigate's
 frigates
 frigatoon
 frigefact
@@ -9977,7 +9865,6 @@ frijolito
 frike
 frilal
 frill
-frill's
 frillback
 frilled
 friller
@@ -10147,7 +10034,6 @@ frizzly
 frizzy
 fro
 frock
-frock's
 frocked
 frocking
 frockless
@@ -10158,7 +10044,6 @@ froe
 froeman
 froes
 frog
-frog's
 frogbit
 frogeater
 frogeye
@@ -10271,7 +10156,6 @@ frontenis
 fronter
 frontes
 frontier
-frontier's
 frontierless
 frontierlike
 frontierman
@@ -10505,7 +10389,6 @@ frugiferousness
 frugivorous
 frugs
 fruit
-fruit's
 fruitade
 fruitage
 fruitages
@@ -10755,7 +10638,6 @@ fugitated
 fugitating
 fugitation
 fugitive
-fugitive's
 fugitively
 fugitiveness
 fugitives
@@ -11035,7 +10917,6 @@ funambuloes
 funariaceous
 funbre
 function
-function's
 functional
 functionalism
 functionalist
@@ -11062,7 +10943,6 @@ functionlessness
 functionnaire
 functions
 functor
-functor's
 functorial
 functors
 functus
@@ -11107,7 +10987,6 @@ funebrial
 funebrious
 funebrous
 funeral
-funeral's
 funeralize
 funerally
 funerals
@@ -11228,7 +11107,6 @@ funs
 funster
 funt
 fur
-fur's
 furacana
 furacious
 furaciousness
@@ -11348,7 +11226,6 @@ furmint
 furmities
 furmity
 furnace
-furnace's
 furnaced
 furnacelike
 furnaceman
@@ -11440,7 +11317,6 @@ furunculosis
 furunculous
 furunculus
 fury
-fury's
 furyl
 furze
 furzechat
@@ -11606,7 +11482,6 @@ futural
 futurama
 futuramic
 future
-future's
 futureless
 futurely
 futureness

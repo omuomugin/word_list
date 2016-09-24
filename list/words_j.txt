@@ -1,11 +1,7 @@
 j
-j'adoube
-j'ouvert
-j's
 ja
 jaap
 jab
-jab's
 jabalina
 jabbed
 jabber
@@ -458,7 +454,6 @@ janisaries
 janisary
 janissary
 janitor
-janitor's
 janitorial
 janitors
 janitorship
@@ -482,7 +477,6 @@ janty
 janua
 januaries
 january
-january's
 janus
 jaob
 jap
@@ -527,7 +521,6 @@ japygoid
 jaquette
 jaquima
 jar
-jar's
 jara
 jarabe
 jaragua
@@ -690,7 +683,6 @@ jaundices
 jaundicing
 jauner
 jaunt
-jaunt's
 jaunted
 jauntie
 jauntier
@@ -713,7 +705,6 @@ javanine
 javas
 javel
 javelin
-javelin's
 javelina
 javelinas
 javeline
@@ -724,7 +715,6 @@ javelins
 javelot
 javer
 jaw
-jaw's
 jawab
 jawan
 jawans
@@ -813,7 +803,6 @@ jealousness
 jealousy
 jeames
 jean
-jean's
 jeanne
 jeannette
 jeans
@@ -835,13 +824,11 @@ jeed
 jeeing
 jeel
 jeep
-jeep's
 jeepers
 jeepney
 jeepneys
 jeeps
 jeer
-jeer's
 jeered
 jeerer
 jeerers
@@ -917,7 +904,6 @@ jello
 jelloid
 jells
 jelly
-jelly's
 jellybean
 jellybeans
 jellydom
@@ -1052,7 +1038,6 @@ jerrycan
 jerrycans
 jerryism
 jersey
-jersey's
 jerseyed
 jerseyite
 jerseyites
@@ -1104,7 +1089,6 @@ jesuitry
 jesuits
 jesus
 jet
-jet's
 jetavator
 jetbead
 jetbeads
@@ -1186,7 +1170,6 @@ jewishness
 jewism
 jewry
 jews
-jews'harp
 jezail
 jezails
 jezebel
@@ -1240,7 +1223,6 @@ jiffle
 jiffs
 jiffy
 jig
-jig's
 jigaboo
 jigaboos
 jigamaree
@@ -1458,7 +1440,6 @@ joan
 joannes
 joaquinite
 job
-job's
 jobade
 jobarbe
 jobation
@@ -1614,7 +1595,6 @@ joiningly
 joinings
 joins
 joint
-joint's
 jointage
 jointed
 jointedly
@@ -1829,7 +1809,6 @@ jouncy
 jour
 journ
 journal
-journal's
 journalary
 journaled
 journalese
@@ -1840,7 +1819,6 @@ journalish
 journalising
 journalism
 journalist
-journalist's
 journalistic
 journalistically
 journalists
@@ -1916,7 +1894,6 @@ jows
 jowser
 jowter
 joy
-joy's
 joyance
 joyances
 joyancy
@@ -2050,7 +2027,6 @@ judgmatic
 judgmatical
 judgmatically
 judgment
-judgment's
 judgmental
 judgments
 judgmetic
@@ -2102,7 +2078,6 @@ juffer
 jufti
 jufts
 jug
-jug's
 juga
 jugal
 jugale
@@ -2153,7 +2128,6 @@ jugulum
 jugum
 jugums
 juice
-juice's
 juiced
 juiceful
 juicehead
@@ -2210,7 +2184,6 @@ julolidine
 julolin
 juloline
 july
-july's
 julyflower
 jumada
 jumart
@@ -2278,7 +2251,6 @@ juncoes
 juncos
 juncous
 junction
-junction's
 junctional
 junctions
 junctive
@@ -2286,7 +2258,6 @@ junctly
 junctor
 junctural
 juncture
-juncture's
 junctures
 juncus
 jundie
@@ -2303,7 +2274,6 @@ junefish
 jungermanniaceous
 jungian
 jungle
-jungle's
 jungled
 junglegym
 jungles
@@ -2316,7 +2286,6 @@ jungliest
 jungly
 juniata
 junior
-junior's
 juniorate
 juniority
 juniors
@@ -2402,7 +2371,6 @@ juring
 juris
 jurisconsult
 jurisdiction
-jurisdiction's
 jurisdictional
 jurisdictionalism
 jurisdictionally
@@ -2421,11 +2389,9 @@ juristical
 juristically
 jurists
 juror
-juror's
 jurors
 jurupaite
 jury
-jury's
 juryless
 juryman
 jurymen
@@ -2452,7 +2418,6 @@ juster
 justers
 justest
 justice
-justice's
 justiced
 justicehood
 justiceless
@@ -2489,7 +2454,6 @@ justificatory
 justified
 justifiedly
 justifier
-justifier's
 justifiers
 justifies
 justify
@@ -2531,7 +2495,6 @@ juvenate
 juvenescence
 juvenescent
 juvenile
-juvenile's
 juvenilely
 juvenileness
 juveniles

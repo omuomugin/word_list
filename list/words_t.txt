@@ -1,9 +1,5 @@
 t
-t'
-t'other
-t's
 ta
-ta'en
 taa
 taal
 taar
@@ -55,7 +51,6 @@ tabered
 tabering
 taberna
 tabernacle
-tabernacle's
 tabernacled
 tabernacler
 tabernacles
@@ -87,7 +82,6 @@ tablas
 tablature
 table
 tableau
-tableau's
 tableaus
 tableaux
 tablecloth
@@ -117,14 +111,11 @@ tabler
 tables
 tablesful
 tablespoon
-tablespoon's
 tablespoonful
-tablespoonful's
 tablespoonfuls
 tablespoons
 tablespoonsful
 tablet
-tablet's
 tabletary
 tableted
 tableting
@@ -144,7 +135,6 @@ tabloid
 tabloids
 tabog
 taboo
-taboo's
 tabooed
 tabooing
 tabooism
@@ -208,7 +198,6 @@ tabulating
 tabulation
 tabulations
 tabulator
-tabulator's
 tabulators
 tabulatory
 tabule
@@ -255,7 +244,6 @@ tachists
 tachogram
 tachograph
 tachometer
-tachometer's
 tachometers
 tachometric
 tachometry
@@ -344,7 +332,6 @@ tackiness
 tacking
 tackingly
 tackle
-tackle's
 tackled
 tackleless
 tackleman
@@ -471,7 +458,6 @@ tafinagh
 taft
 tafwiz
 tag
-tag's
 tagalog
 tagalogs
 tagalong
@@ -761,7 +747,6 @@ talcum
 talcums
 tald
 tale
-tale's
 talebearer
 talebearers
 talebearing
@@ -908,7 +893,6 @@ tallowy
 tallwood
 tally
 tallyho
-tallyho'd
 tallyhoed
 tallyhoing
 tallyhos
@@ -1163,7 +1147,6 @@ tangences
 tangencies
 tangency
 tangent
-tangent's
 tangental
 tangentally
 tangential
@@ -1294,7 +1277,6 @@ tannate
 tannates
 tanned
 tanner
-tanner's
 tanneries
 tanners
 tannery
@@ -1382,7 +1364,6 @@ tantrik
 tantrism
 tantrist
 tantrum
-tantrum's
 tantrums
 tantum
 tanwood
@@ -1407,7 +1388,6 @@ taos
 taotai
 taoyin
 tap
-tap's
 tapa
 tapacolo
 tapaculo
@@ -1463,7 +1443,6 @@ tapestried
 tapestries
 tapestring
 tapestry
-tapestry's
 tapestrying
 tapestrylike
 tapet
@@ -1527,7 +1506,6 @@ tappaul
 tapped
 tappen
 tapper
-tapper's
 tapperer
 tappers
 tappet
@@ -1541,7 +1519,6 @@ tappoon
 taproom
 taprooms
 taproot
-taproot's
 taprooted
 taproots
 taps
@@ -1674,7 +1651,6 @@ tarhood
 tari
 tarie
 tariff
-tariff's
 tariffable
 tariffed
 tariffication
@@ -1961,7 +1937,6 @@ tassal
 tassard
 tasse
 tassel
-tassel's
 tasseled
 tasseler
 tasselet
@@ -2195,7 +2170,6 @@ tautologizing
 tautologous
 tautologously
 tautology
-tautology's
 tautomer
 tautomeral
 tautomeric
@@ -2237,7 +2211,6 @@ tave
 tavell
 taver
 tavern
-tavern's
 taverna
 taverner
 taverners
@@ -2337,7 +2310,6 @@ taxiarch
 taxiauto
 taxibus
 taxicab
-taxicab's
 taxicabs
 taxicorn
 taxidermal
@@ -2391,7 +2363,6 @@ taxons
 taxor
 taxpaid
 taxpayer
-taxpayer's
 taxpayers
 taxpaying
 taxus
@@ -2461,7 +2432,6 @@ teachably
 teache
 teached
 teacher
-teacher's
 teacherage
 teacherdom
 teacheress
@@ -2617,9 +2587,7 @@ teasingly
 teasle
 teasler
 teaspoon
-teaspoon's
 teaspoonful
-teaspoonful's
 teaspoonfuls
 teaspoons
 teaspoonsful
@@ -2678,13 +2646,11 @@ technicalism
 technicalist
 technicalities
 technicality
-technicality's
 technicalization
 technicalize
 technically
 technicalness
 technician
-technician's
 technicians
 technicism
 technicist
@@ -2696,7 +2662,6 @@ technicon
 technics
 techniphone
 technique
-technique's
 techniquer
 techniques
 technism
@@ -2721,7 +2686,6 @@ technological
 technologically
 technologies
 technologist
-technologist's
 technologists
 technologize
 technologue
@@ -3042,7 +3006,6 @@ telegonous
 telegony
 telegraf
 telegram
-telegram's
 telegrammatic
 telegramme
 telegrammed
@@ -3269,7 +3232,6 @@ teletopometer
 teletranscription
 teletube
 teletype
-teletype's
 teletyped
 teletyper
 teletypes
@@ -3305,7 +3267,6 @@ televisionally
 televisionary
 televisions
 televisor
-televisor's
 televisors
 televisual
 televocal
@@ -3500,7 +3461,6 @@ temperately
 temperateness
 temperative
 temperature
-temperature's
 temperatures
 tempered
 temperedly
@@ -3535,11 +3495,9 @@ templarlikeness
 templars
 templary
 template
-template's
 templater
 templates
 temple
-temple's
 templed
 templeful
 templeless
@@ -3616,7 +3574,6 @@ temptability
 temptable
 temptableness
 temptation
-temptation's
 temptational
 temptationless
 temptations
@@ -3672,7 +3629,6 @@ tenalgia
 tenancies
 tenancy
 tenant
-tenant's
 tenantable
 tenantableness
 tenanted
@@ -3811,7 +3767,6 @@ tenebrously
 tenebrousness
 tenectomy
 tenement
-tenement's
 tenemental
 tenementary
 tenemented
@@ -3905,7 +3860,6 @@ tenophyte
 tenoplastic
 tenoplasty
 tenor
-tenor's
 tenore
 tenorino
 tenorist
@@ -4307,7 +4261,6 @@ terminable
 terminableness
 terminably
 terminal
-terminal's
 terminalis
 terminalization
 terminalized
@@ -4324,7 +4277,6 @@ terminations
 terminative
 terminatively
 terminator
-terminator's
 terminators
 terminatory
 termine
@@ -4439,7 +4391,6 @@ terraefilial
 terraefilian
 terrage
 terrain
-terrain's
 terrains
 terral
 terramara
@@ -4506,7 +4457,6 @@ terricolist
 terricolous
 terrie
 terrier
-terrier's
 terrierlike
 terriers
 terries
@@ -4549,11 +4499,9 @@ territorian
 territoried
 territories
 territory
-territory's
 territs
 terron
 terror
-terror's
 terrorful
 terrorific
 terrorisation
@@ -4563,7 +4511,6 @@ terroriser
 terrorising
 terrorism
 terrorist
-terrorist's
 terroristic
 terroristical
 terrorists
@@ -4684,7 +4631,6 @@ testacies
 testacy
 testae
 testament
-testament's
 testamenta
 testamental
 testamentally
@@ -4725,7 +4671,6 @@ testicardinate
 testicardine
 testicardines
 testicle
-testicle's
 testicles
 testicond
 testicular
@@ -4758,7 +4703,6 @@ testimonials
 testimonies
 testimonium
 testimony
-testimony's
 testiness
 testing
 testingly
@@ -5249,16 +5193,13 @@ texas
 texases
 texguino
 text
-text's
 textarian
 textbook
-textbook's
 textbookish
 textbookless
 textbooks
 textiferous
 textile
-textile's
 textiles
 textilist
 textless
@@ -5478,9 +5419,6 @@ tharginyah
 tharm
 tharms
 that
-that'd
-that'll
-that's
 thataway
 thatch
 thatched
@@ -5549,7 +5487,6 @@ thearchy
 theasum
 theat
 theater
-theater's
 theatercraft
 theatergoer
 theatergoers
@@ -5645,7 +5582,6 @@ theet
 theetsee
 theezan
 theft
-theft's
 theftbote
 theftdom
 theftless
@@ -5710,7 +5646,6 @@ thematical
 thematically
 thematist
 theme
-theme's
 themed
 themeless
 themelet
@@ -5913,7 +5848,6 @@ theorbist
 theorbo
 theorbos
 theorem
-theorem's
 theorematic
 theorematical
 theorematically
@@ -5947,10 +5881,8 @@ theorises
 theorising
 theorism
 theorist
-theorist's
 theorists
 theorization
-theorization's
 theorizations
 theorize
 theorized
@@ -5961,7 +5893,6 @@ theorizies
 theorizing
 theorum
 theory
-theory's
 theoryless
 theorymonger
 theos
@@ -6008,18 +5939,13 @@ theraphosoid
 therapia
 therapies
 therapist
-therapist's
 therapists
 therapsid
 theraputant
 therapy
-therapy's
 theravada
 therblig
 there
-there'd
-there'll
-there's
 thereabout
 thereabouts
 thereabove
@@ -6244,7 +6170,6 @@ thermomagnetism
 thermometamorphic
 thermometamorphism
 thermometer
-thermometer's
 thermometerize
 thermometers
 thermometric
@@ -6317,7 +6242,6 @@ thermospheric
 thermostability
 thermostable
 thermostat
-thermostat's
 thermostated
 thermostatic
 thermostatically
@@ -6429,10 +6353,6 @@ thewness
 thews
 thewy
 they
-they'd
-they'll
-they're
-they've
 theyaou
 theyd
 theyll
@@ -6484,7 +6404,6 @@ thickens
 thicker
 thickest
 thicket
-thicket's
 thicketed
 thicketful
 thickets
@@ -6562,7 +6481,6 @@ thills
 thilly
 thimber
 thimble
-thimble's
 thimbleberries
 thimbleberry
 thimbled
@@ -6818,7 +6736,6 @@ thirtyish
 thirtypenny
 thirtytwomo
 this
-this'll
 thisbe
 thishow
 thislike
@@ -6854,7 +6771,6 @@ thixotropic
 thixotropy
 thlipsis
 tho
-tho'
 thob
 thocht
 thof
@@ -6969,7 +6885,6 @@ thorites
 thorium
 thoriums
 thorn
-thorn's
 thornback
 thornbill
 thornbush
@@ -7004,7 +6919,6 @@ thoroughbreds
 thorougher
 thoroughest
 thoroughfare
-thoroughfare's
 thoroughfarer
 thoroughfares
 thoroughfaresome
@@ -7039,7 +6953,6 @@ thou
 thoued
 though
 thought
-thought's
 thoughted
 thoughten
 thoughtfree
@@ -7176,7 +7089,6 @@ threatproof
 threats
 threave
 three
-three's
 threedimensionality
 threefold
 threefolded
@@ -7229,7 +7141,6 @@ threshes
 threshing
 threshingtime
 threshold
-threshold's
 thresholds
 threstle
 threw
@@ -7292,7 +7203,6 @@ thriving
 thrivingly
 thrivingness
 thro
-thro'
 throat
 throatal
 throatband
@@ -7368,7 +7278,6 @@ thrombotic
 thrombus
 thronal
 throne
-throne's
 throned
 thronedom
 throneless
@@ -7377,7 +7286,6 @@ thronelike
 thrones
 throneward
 throng
-throng's
 thronged
 thronger
 throngful
@@ -7487,7 +7395,6 @@ thudding
 thuddingly
 thuds
 thug
-thug's
 thugdom
 thugged
 thuggee
@@ -7566,7 +7473,6 @@ thunderbearing
 thunderbird
 thunderblast
 thunderbolt
-thunderbolt's
 thunderbolts
 thunderbox
 thunderburst
@@ -7607,7 +7513,6 @@ thundersquall
 thunderstick
 thunderstone
 thunderstorm
-thunderstorm's
 thunderstorms
 thunderstricken
 thunderstrike
@@ -7643,7 +7548,6 @@ thurm
 thurmus
 thurrock
 thursday
-thursday's
 thursdays
 thurse
 thurst
@@ -7936,7 +7840,6 @@ ticken
 ticker
 tickers
 ticket
-ticket's
 ticketed
 ticketer
 ticketing
@@ -8138,7 +8041,6 @@ tigelle
 tigellum
 tigellus
 tiger
-tiger's
 tigerbird
 tigereye
 tigereyes
@@ -8433,7 +8335,6 @@ timestamp
 timestamps
 timet
 timetable
-timetable's
 timetables
 timetaker
 timetaking
@@ -8480,7 +8381,6 @@ timpanum
 timpanums
 timwhisky
 tin
-tin's
 tinage
 tinaja
 tinamine
@@ -8708,7 +8608,6 @@ tinworks
 tiny
 tinzenite
 tip
-tip's
 tipburn
 tipcart
 tipcarts
@@ -8734,7 +8633,6 @@ tippable
 tipped
 tippee
 tipper
-tipper's
 tippers
 tippet
 tippets
@@ -8863,7 +8761,6 @@ tisic
 tissu
 tissual
 tissue
-tissue's
 tissued
 tissueless
 tissuelike
@@ -9095,7 +8992,6 @@ tnt
 to
 toa
 toad
-toad's
 toadback
 toadeat
 toadeater
@@ -9225,7 +9121,6 @@ tocsins
 tocusso
 tod
 today
-today'll
 todayish
 todayll
 todays
@@ -9251,7 +9146,6 @@ todlowrie
 tods
 tody
 toe
-toe's
 toea
 toeboard
 toecap
@@ -9348,7 +9242,6 @@ toiler
 toilers
 toiles
 toilet
-toilet's
 toileted
 toileting
 toiletries
@@ -9391,7 +9284,6 @@ tokays
 toke
 toked
 token
-token's
 tokened
 tokening
 tokenism
@@ -9550,7 +9442,6 @@ tolypeutine
 tolzey
 tom
 tomahawk
-tomahawk's
 tomahawked
 tomahawker
 tomahawking
@@ -9566,7 +9457,6 @@ tomatillos
 tomato
 tomatoes
 tomb
-tomb's
 tombac
 tomback
 tombacks
@@ -9662,7 +9552,6 @@ tomtate
 tomtit
 tomtits
 ton
-ton's
 tonada
 tonal
 tonalamatl
@@ -9747,7 +9636,6 @@ tonguing
 tonguings
 tonguy
 tonic
-tonic's
 tonical
 tonically
 tonicities
@@ -9917,7 +9805,6 @@ toothaching
 toothachy
 toothbill
 toothbrush
-toothbrush's
 toothbrushes
 toothbrushing
 toothbrushy
@@ -9944,7 +9831,6 @@ toothlike
 toothpaste
 toothpastes
 toothpick
-toothpick's
 toothpicks
 toothplate
 toothpowder
@@ -10054,7 +9940,6 @@ topiarist
 topiarius
 topiary
 topic
-topic's
 topical
 topicalities
 topicality
@@ -10216,7 +10101,6 @@ torbernite
 torc
 torcel
 torch
-torch's
 torchbearer
 torchbearers
 torchbearing
@@ -10388,7 +10272,6 @@ torrefy
 torrefying
 torrens
 torrent
-torrent's
 torrentful
 torrentfulness
 torrential
@@ -10472,7 +10355,6 @@ tortiously
 tortis
 tortive
 tortoise
-tortoise's
 tortoiselike
 tortoises
 tortoiseshell
@@ -10527,7 +10409,6 @@ torulosis
 torulous
 torulus
 torus
-torus's
 toruses
 torve
 torvid
@@ -10600,7 +10481,6 @@ totalitarians
 totalities
 totalitizer
 totality
-totality's
 totalization
 totalizator
 totalizators
@@ -10769,7 +10649,6 @@ tourings
 tourism
 tourisms
 tourist
-tourist's
 touristdom
 touristic
 touristical
@@ -10791,7 +10670,6 @@ tourmente
 tourn
 tournai
 tournament
-tournament's
 tournamental
 tournaments
 tournant
@@ -10916,7 +10794,6 @@ towmonds
 towmont
 towmonts
 town
-town's
 towned
 townee
 townees
@@ -10956,7 +10833,6 @@ townsendi
 townsfellow
 townsfolk
 township
-township's
 townships
 townside
 townsite
@@ -11329,7 +11205,6 @@ trackway
 trackwork
 traclia
 tract
-tract's
 tractabilities
 tractability
 tractable
@@ -11356,7 +11231,6 @@ tractitian
 tractive
 tractlet
 tractor
-tractor's
 tractoration
 tractorism
 tractorist
@@ -11378,7 +11252,6 @@ traded
 tradeful
 tradeless
 trademark
-trademark's
 trademarks
 trademaster
 tradename
@@ -11404,7 +11277,6 @@ tradiment
 trading
 tradite
 tradition
-tradition's
 traditional
 traditionalism
 traditionalist
@@ -11453,7 +11325,6 @@ traductionist
 traductive
 trady
 traffic
-traffic's
 trafficability
 trafficable
 trafficableness
@@ -11461,7 +11332,6 @@ trafficator
 traffick
 trafficked
 trafficker
-trafficker's
 traffickers
 trafficking
 trafficks
@@ -11489,7 +11359,6 @@ tragedist
 tragedization
 tragedize
 tragedy
-tragedy's
 tragelaph
 tragelaphine
 tragi
@@ -11582,7 +11451,6 @@ trainboy
 traineau
 trained
 trainee
-trainee's
 trainees
 traineeship
 trainel
@@ -11614,12 +11482,10 @@ traipses
 traipsing
 traist
 trait
-trait's
 traiteur
 traiteurs
 traitless
 traitor
-traitor's
 traitoress
 traitorhood
 traitorism
@@ -11645,7 +11511,6 @@ trajection
 trajectitious
 trajectories
 trajectory
-trajectory's
 trajects
 trajet
 tralatician
@@ -11737,7 +11602,6 @@ tramwaymen
 tramways
 tramyard
 trance
-trance's
 tranced
 trancedly
 tranceful
@@ -11789,14 +11653,12 @@ tranquillo
 tranquilly
 tranquilness
 trans
-trans'mute
 transaccidentation
 transact
 transacted
 transacting
 transactinide
 transaction
-transaction's
 transactional
 transactionally
 transactioneer
@@ -11891,10 +11753,8 @@ transcribers
 transcribes
 transcribing
 transcript
-transcript's
 transcriptase
 transcription
-transcription's
 transcriptional
 transcriptionally
 transcriptions
@@ -11962,13 +11822,11 @@ transfeature
 transfeatured
 transfeaturing
 transfer
-transfer's
 transferability
 transferable
 transferableness
 transferably
 transferal
-transferal's
 transferals
 transferase
 transferee
@@ -11984,7 +11842,6 @@ transferral
 transferrals
 transferred
 transferrer
-transferrer's
 transferrers
 transferribility
 transferring
@@ -12021,7 +11878,6 @@ transformability
 transformable
 transformance
 transformation
-transformation's
 transformational
 transformationalist
 transformationist
@@ -12066,7 +11922,6 @@ transgressible
 transgressing
 transgressingly
 transgression
-transgression's
 transgressional
 transgressions
 transgressive
@@ -12111,7 +11966,6 @@ transire
 transischiac
 transisthmian
 transistor
-transistor's
 transistorization
 transistorize
 transistorized
@@ -12163,7 +12017,6 @@ translationally
 translations
 translative
 translator
-translator's
 translatorese
 translatorial
 translators
@@ -12237,7 +12090,6 @@ transmigratory
 transmissibility
 transmissible
 transmission
-transmission's
 transmissional
 transmissionist
 transmissions
@@ -12259,7 +12111,6 @@ transmittancy
 transmittant
 transmitted
 transmitter
-transmitter's
 transmitters
 transmittible
 transmitting
@@ -12325,7 +12176,6 @@ transpanamic
 transparence
 transparencies
 transparency
-transparency's
 transparent
 transparentize
 transparently
@@ -12563,7 +12413,6 @@ tranter
 trantlum
 tranvia
 trap
-trap's
 trapaceous
 trapan
 trapanned
@@ -12597,7 +12446,6 @@ trapezohedral
 trapezohedron
 trapezohedrons
 trapezoid
-trapezoid's
 trapezoidal
 trapezoidiform
 trapezoids
@@ -12623,7 +12471,6 @@ trappable
 trappean
 trapped
 trapper
-trapper's
 trapperlike
 trappers
 trappier
@@ -12738,7 +12585,6 @@ travels
 traveltime
 traversable
 traversal
-traversal's
 traversals
 traversary
 traverse
@@ -12759,7 +12605,6 @@ travestier
 travesties
 travestiment
 travesty
-travesty's
 travestying
 travis
 traviss
@@ -12782,7 +12627,6 @@ trawling
 trawlnet
 trawls
 tray
-tray's
 trayful
 trayfuls
 traylike
@@ -12796,7 +12640,6 @@ treacherous
 treacherously
 treacherousness
 treachery
-treachery's
 treachousness
 treacle
 treacleberries
@@ -12853,7 +12696,6 @@ treasuries
 treasuring
 treasurous
 treasury
-treasury's
 treasuryship
 treat
 treatabilities
@@ -12868,16 +12710,13 @@ treaters
 treaties
 treating
 treatise
-treatise's
 treatiser
 treatises
 treatment
-treatment's
 treatments
 treator
 treats
 treaty
-treaty's
 treatyist
 treatyite
 treatyless
@@ -12910,7 +12749,6 @@ tredefowel
 tredille
 tredrille
 tree
-tree's
 treebeard
 treebine
 treed
@@ -12943,7 +12781,6 @@ treeship
 treespeeler
 treetise
 treetop
-treetop's
 treetops
 treeward
 treewards
@@ -12973,7 +12810,6 @@ treille
 treitour
 treitre
 trek
-trek's
 trekboer
 trekked
 trekker
@@ -13033,7 +12869,6 @@ tremolos
 tremoloso
 tremophobia
 tremor
-tremor's
 tremorless
 tremorlessly
 tremors
@@ -13150,7 +12985,6 @@ trespasses
 trespassing
 trespassory
 tress
-tress's
 tressed
 tressel
 tressels
@@ -13236,7 +13070,6 @@ triakisoctahedron
 triakistetrahedral
 triakistetrahedron
 trial
-trial's
 trialate
 trialism
 trialist
@@ -13258,7 +13091,6 @@ triandria
 triandrian
 triandrous
 triangle
-triangle's
 triangled
 triangler
 triangles
@@ -13339,7 +13171,6 @@ tribasicity
 tribasilar
 tribble
 tribe
-tribe's
 tribeless
 tribelet
 tribelike
@@ -13393,12 +13224,10 @@ tribulations
 tribuloid
 tribuna
 tribunal
-tribunal's
 tribunals
 tribunary
 tribunate
 tribune
-tribune's
 tribunes
 tribuneship
 tribunicial
@@ -13413,7 +13242,6 @@ tributarily
 tributariness
 tributary
 tribute
-tribute's
 tributed
 tributer
 tributes
@@ -14231,7 +14059,6 @@ trink
 trinkerman
 trinkermen
 trinket
-trinket's
 trinketed
 trinketer
 trinketing
@@ -14318,7 +14145,6 @@ trioxymethylene
 triozonid
 triozonide
 trip
-trip's
 tripack
 tripacks
 tripal
@@ -14401,7 +14227,6 @@ tripleness
 tripler
 triples
 triplet
-triplet's
 tripletail
 tripletree
 triplets
@@ -14968,14 +14793,12 @@ troland
 trolands
 trolatitious
 troll
-troll's
 trolldom
 trolled
 trolleite
 troller
 trollers
 trolley
-trolley's
 trolleybus
 trolleyed
 trolleyer
@@ -15149,13 +14972,11 @@ trophotropism
 trophozoite
 trophozooid
 trophy
-trophy's
 trophying
 trophyless
 trophywort
 tropia
 tropic
-tropic's
 tropical
 tropicalih
 tropicalisation
@@ -15248,7 +15069,6 @@ troubled
 troubledly
 troubledness
 troublemaker
-troublemaker's
 troublemakers
 troublemaking
 troublement
@@ -15346,7 +15166,6 @@ trowable
 trowane
 trowed
 trowel
-trowel's
 trowelbeak
 troweled
 troweler
@@ -15376,7 +15195,6 @@ truancies
 truancy
 truandise
 truant
-truant's
 truantcy
 truanted
 truanting
@@ -15484,7 +15302,6 @@ trugmallion
 truing
 truish
 truism
-truism's
 truismatic
 truisms
 truistic
@@ -15542,7 +15359,6 @@ truncately
 truncates
 truncating
 truncation
-truncation's
 truncations
 truncator
 truncatorotund
@@ -15568,7 +15384,6 @@ trundleshot
 trundletail
 trundling
 trunk
-trunk's
 trunkback
 trunked
 trunkfish
@@ -15612,7 +15427,6 @@ trustbuster
 trustbusting
 trusted
 trustee
-trustee's
 trusteed
 trusteeing
 trusteeism
@@ -15825,7 +15639,6 @@ tuatera
 tuateras
 tuath
 tub
-tub's
 tuba
 tubae
 tubage
@@ -16099,7 +15912,6 @@ tuebor
 tuedian
 tueiron
 tuesday
-tuesday's
 tuesdays
 tufa
 tufaceous
@@ -16114,7 +15926,6 @@ tuffing
 tuffoon
 tuffs
 tuft
-tuft's
 tuftaffeta
 tufted
 tufter
@@ -16184,7 +15995,6 @@ tule
 tules
 tuliac
 tulip
-tulip's
 tulipant
 tulipflower
 tulipi
@@ -16296,7 +16106,6 @@ tumulose
 tumulosity
 tumulous
 tumult
-tumult's
 tumulter
 tumults
 tumultuaries
@@ -16376,7 +16185,6 @@ tungus
 tungusic
 tunhoof
 tunic
-tunic's
 tunica
 tunicae
 tunicary
@@ -16456,7 +16264,6 @@ tupian
 tupik
 tupiks
 tuple
-tuple's
 tuples
 tupman
 tupmen
@@ -16484,7 +16291,6 @@ turanite
 turanose
 turb
 turban
-turban's
 turbaned
 turbanesque
 turbanette
@@ -16647,7 +16453,6 @@ turk
 turken
 turkess
 turkey
-turkey's
 turkeyback
 turkeyberry
 turkeybush
@@ -16678,7 +16483,6 @@ turmerol
 turmet
 turmit
 turmoil
-turmoil's
 turmoiled
 turmoiler
 turmoiling
@@ -16724,7 +16528,6 @@ turning
 turningness
 turnings
 turnip
-turnip's
 turniplike
 turnips
 turnipweed
@@ -16803,7 +16606,6 @@ turr
 turrel
 turrell
 turret
-turret's
 turreted
 turrethead
 turreting
@@ -16831,7 +16633,6 @@ turrum
 turse
 tursio
 turtle
-turtle's
 turtleback
 turtlebloom
 turtled
@@ -16956,7 +16757,6 @@ tutoress
 tutoresses
 tutorhood
 tutorial
-tutorial's
 tutorially
 tutorials
 tutoriate
@@ -17187,7 +16987,6 @@ twifoil
 twifold
 twifoldly
 twig
-twig's
 twigful
 twigged
 twiggen
@@ -17204,7 +17003,6 @@ twigs
 twigsome
 twigwithy
 twilight
-twilight's
 twilightless
 twilightlike
 twilights
@@ -17219,7 +17017,6 @@ twills
 twilly
 twilt
 twin
-twin's
 twinable
 twinberries
 twinberry
@@ -17362,7 +17159,6 @@ twixtbrain
 twizzened
 twizzle
 two
-two's
 twodecker
 twoes
 twofer
@@ -17496,7 +17292,6 @@ typable
 typal
 typarchical
 type
-type's
 typeable
 typebar
 typebars
@@ -17530,7 +17325,6 @@ typesetting
 typesof
 typewrite
 typewriter
-typewriter's
 typewriters
 typewrites
 typewriting
@@ -17625,7 +17419,6 @@ typikon
 typikons
 typing
 typist
-typist's
 typists
 typo
 typobar
@@ -17709,7 +17502,6 @@ tyrannously
 tyrannousness
 tyranny
 tyrant
-tyrant's
 tyrantcraft
 tyrantlike
 tyrants

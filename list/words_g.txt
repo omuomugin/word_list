@@ -1,5 +1,4 @@
 g
-g's
 ga
 gaatch
 gab
@@ -101,7 +100,6 @@ gadfly
 gadge
 gadger
 gadget
-gadget's
 gadgeteer
 gadgeteers
 gadgetries
@@ -359,7 +357,6 @@ galaxes
 galaxian
 galaxies
 galaxy
-galaxy's
 galban
 galbanum
 galbanums
@@ -488,7 +485,6 @@ galleta
 galletas
 galleting
 galley
-galley's
 galleylike
 galleyman
 galleypot
@@ -569,7 +565,6 @@ galloflavin
 galloflavine
 galloglass
 gallon
-gallon's
 gallonage
 galloner
 gallons
@@ -957,7 +952,6 @@ ganefs
 ganev
 ganevs
 gang
-gang's
 ganga
 gangan
 gangava
@@ -1039,7 +1033,6 @@ gangsa
 gangshag
 gangsman
 gangster
-gangster's
 gangsterism
 gangsters
 gangtide
@@ -1117,7 +1110,6 @@ gaoling
 gaoloring
 gaols
 gap
-gap's
 gapa
 gape
 gaped
@@ -1165,7 +1157,6 @@ garavance
 garawi
 garb
 garbage
-garbage's
 garbages
 garbanzo
 garbanzos
@@ -1296,7 +1287,6 @@ garlicwort
 garlion
 garlopa
 garment
-garment's
 garmented
 garmenting
 garmentless
@@ -1407,7 +1397,6 @@ garsil
 garston
 garten
 garter
-garter's
 gartered
 gartering
 garterless
@@ -1425,7 +1414,6 @@ garvie
 garvock
 gary
 gas
-gas's
 gasalier
 gasaliers
 gasbag
@@ -1453,7 +1441,6 @@ gaseousness
 gases
 gasfiring
 gash
-gash's
 gashed
 gasher
 gashes
@@ -1825,7 +1812,6 @@ gatetender
 gateward
 gatewards
 gateway
-gateway's
 gatewaying
 gatewayman
 gatewaymen
@@ -2230,7 +2216,6 @@ geitonogamy
 gekkonid
 gekkonoid
 gel
-gel's
 gelable
 gelada
 geladas
@@ -2339,7 +2324,6 @@ gelsemiums
 gelt
 gelts
 gem
-gem's
 gemara
 gematria
 gematrical
@@ -2461,14 +2445,12 @@ gendarmerie
 gendarmery
 gendarmes
 gender
-gender's
 gendered
 genderer
 gendering
 genderless
 genders
 gene
-gene's
 geneal
 genealogic
 genealogical
@@ -2513,7 +2495,6 @@ generalissima
 generalissimo
 generalissimos
 generalist
-generalist's
 generalistic
 generalists
 generaliter
@@ -2521,7 +2502,6 @@ generalities
 generality
 generalizable
 generalization
-generalization's
 generalizations
 generalize
 generalizeable
@@ -2551,7 +2531,6 @@ generative
 generatively
 generativeness
 generator
-generator's
 generators
 generatrices
 generatrix
@@ -2565,7 +2544,6 @@ generification
 generis
 generosities
 generosity
-generosity's
 generous
 generously
 generousness
@@ -2672,7 +2650,6 @@ genitourinary
 geniture
 genitures
 genius
-genius's
 geniuses
 genizah
 genizero
@@ -2704,7 +2681,6 @@ genotypicity
 genouillere
 genovino
 genre
-genre's
 genres
 genro
 genros
@@ -2950,7 +2926,6 @@ geologise
 geologised
 geologising
 geologist
-geologist's
 geologists
 geologize
 geologized
@@ -3175,11 +3150,9 @@ gerip
 gerkin
 gerland
 germ
-germ's
 germain
 germal
 german
-german's
 germander
 germane
 germanely
@@ -3410,7 +3383,6 @@ getspace
 gettable
 gettableness
 getter
-getter's
 gettered
 gettering
 getters
@@ -3578,7 +3550,6 @@ giallolino
 giambeux
 giansar
 giant
-giant's
 giantesque
 giantess
 giantesses
@@ -3859,7 +3830,6 @@ gilia
 giliak
 gilim
 gill
-gill's
 gillar
 gillaroo
 gillbird
@@ -3942,7 +3912,6 @@ gimmer
 gimmeringly
 gimmerpet
 gimmick
-gimmick's
 gimmicked
 gimmickery
 gimmicking
@@ -3959,7 +3928,6 @@ gimping
 gimps
 gimpy
 gin
-gin's
 ginep
 ginete
 ging
@@ -4082,7 +4050,6 @@ gipsiologist
 gipsire
 gipsology
 gipsy
-gipsy's
 gipsydom
 gipsyesque
 gipsyfy
@@ -4096,7 +4063,6 @@ gipsyry
 gipsyweed
 gipsywort
 giraffe
-giraffe's
 giraffes
 giraffesque
 giraffine
@@ -4112,7 +4078,6 @@ girba
 gird
 girded
 girder
-girder's
 girderage
 girdering
 girderless
@@ -4134,7 +4099,6 @@ gire
 girja
 girkin
 girl
-girl's
 girland
 girlchild
 girleen
@@ -4295,7 +4259,6 @@ glaciates
 glaciating
 glaciation
 glacier
-glacier's
 glaciered
 glacieret
 glacierist
@@ -4443,7 +4406,6 @@ glances
 glancing
 glancingly
 gland
-gland's
 glandaceous
 glandarious
 glander
@@ -4668,7 +4630,6 @@ gleir
 gleit
 gleization
 glen
-glen's
 glendale
 glendover
 glene
@@ -4816,7 +4777,6 @@ globally
 globate
 globated
 globe
-globe's
 globed
 globefish
 globefishes
@@ -4986,7 +4946,6 @@ glossaries
 glossarist
 glossarize
 glossary
-glossary's
 glossas
 glossate
 glossator
@@ -5518,7 +5477,6 @@ gnashing
 gnashingly
 gnast
 gnat
-gnat's
 gnatcatcher
 gnateater
 gnatflower
@@ -5646,7 +5604,6 @@ goadsman
 goadster
 goaf
 goal
-goal's
 goalage
 goaled
 goalee
@@ -5670,12 +5627,10 @@ goanna
 goar
 goas
 goat
-goat's
 goatbeard
 goatbrush
 goatbush
 goatee
-goatee's
 goateed
 goatees
 goatfish
@@ -5739,12 +5694,10 @@ gobiiform
 gobioid
 gobioids
 goblet
-goblet's
 gobleted
 gobletful
 goblets
 goblin
-goblin's
 gobline
 goblinesque
 goblinish
@@ -5768,7 +5721,6 @@ gobylike
 gocart
 goclenian
 god
-god's
 godawful
 godchild
 godchildren
@@ -5789,7 +5741,6 @@ goddaughter
 goddaughters
 godded
 goddess
-goddess's
 goddesses
 goddesshood
 goddessship
@@ -5829,7 +5780,6 @@ godmaker
 godmaking
 godmamma
 godmother
-godmother's
 godmotherhood
 godmothers
 godmothership
@@ -6154,7 +6104,6 @@ gonfalons
 gonfanon
 gonfanons
 gong
-gong's
 gonged
 gonging
 gonglike
@@ -6335,7 +6284,6 @@ goodwilly
 goodwily
 goodwives
 goody
-goody's
 goodyear
 goodyish
 goodyism
@@ -6534,7 +6482,6 @@ goric
 gorier
 goriest
 gorilla
-gorilla's
 gorillalike
 gorillas
 gorillaship
@@ -6779,7 +6726,6 @@ governing
 governingly
 governless
 government
-government's
 governmental
 governmentalism
 governmentalist
@@ -6788,7 +6734,6 @@ governmentally
 governmentish
 governments
 governor
-governor's
 governorate
 governors
 governorship
@@ -6856,7 +6801,6 @@ grab
 grabbable
 grabbed
 grabber
-grabber's
 grabbers
 grabbier
 grabbiest
@@ -6916,7 +6860,6 @@ gradates
 gradatim
 gradating
 gradation
-gradation's
 gradational
 gradationally
 gradationately
@@ -6936,7 +6879,6 @@ graders
 grades
 gradgrind
 gradient
-gradient's
 gradienter
 gradients
 gradin
@@ -7003,7 +6945,6 @@ grafts
 grager
 gragers
 graham
-graham's
 grahamism
 grahamite
 grahams
@@ -7078,7 +7019,6 @@ graminous
 gramma
 grammalogue
 grammar
-grammar's
 grammarian
 grammarianism
 grammarians
@@ -7130,7 +7070,6 @@ granage
 granam
 granaries
 granary
-granary's
 granat
 granate
 granatite
@@ -7175,7 +7114,6 @@ grandevous
 grandeza
 grandezza
 grandfather
-grandfather's
 grandfatherhood
 grandfatherish
 grandfatherless
@@ -7208,7 +7146,6 @@ grandmas
 grandmaster
 grandmaternal
 grandmother
-grandmother's
 grandmotherhood
 grandmotherism
 grandmotherliness
@@ -7237,7 +7174,6 @@ grandsir
 grandsire
 grandsirs
 grandson
-grandson's
 grandsons
 grandsonship
 grandstand
@@ -7377,7 +7313,6 @@ granum
 granza
 granzita
 grape
-grape's
 graped
 grapeflower
 grapefruit
@@ -7403,7 +7338,6 @@ grapewort
 grapey
 grapeys
 graph
-graph's
 graphalloy
 graphanalysis
 graphed
@@ -7610,7 +7544,6 @@ gratuitous
 gratuitously
 gratuitousness
 gratuity
-gratuity's
 gratulant
 gratulate
 gratulated
@@ -7864,7 +7797,6 @@ greegree
 greegrees
 greeing
 greek
-greek's
 greekish
 greekize
 greekling
@@ -7915,7 +7847,6 @@ greenhorn
 greenhornism
 greenhorns
 greenhouse
-greenhouse's
 greenhouses
 greenier
 greeniest
@@ -8034,7 +7965,6 @@ gremmies
 gremmy
 grenada
 grenade
-grenade's
 grenades
 grenadier
 grenadierial
@@ -8103,7 +8033,6 @@ gribble
 gribbles
 grice
 grid
-grid's
 gridded
 gridder
 gridding
@@ -8128,7 +8057,6 @@ griece
 grieced
 griecep
 grief
-grief's
 griefful
 grieffully
 griefless
@@ -8140,7 +8068,6 @@ grieshoch
 grieshuckle
 grievable
 grievance
-grievance's
 grievances
 grievant
 grievants
@@ -8267,7 +8194,6 @@ grindings
 grindle
 grinds
 grindstone
-grindstone's
 grindstones
 gringo
 gringole
@@ -8377,7 +8303,6 @@ gristmilling
 grists
 gristy
 grit
-grit's
 grith
 grithbreach
 grithman
@@ -8433,7 +8358,6 @@ groatsworth
 grobian
 grobianism
 grocer
-grocer's
 grocerdom
 groceress
 groceries
@@ -8577,7 +8501,6 @@ grothite
 grots
 grottesco
 grotto
-grotto's
 grottoed
 grottoes
 grottolike
@@ -8738,7 +8661,6 @@ growls
 growly
 grown
 grownup
-grownup's
 grownups
 grows
 growse
@@ -8758,7 +8680,6 @@ grozet
 grr
 grs
 grub
-grub's
 grubbed
 grubber
 grubberies
@@ -8786,7 +8707,6 @@ grubworm
 grubworms
 grucche
 grudge
-grudge's
 grudged
 grudgeful
 grudgefully
@@ -9077,7 +8997,6 @@ guardfully
 guardhouse
 guardhouses
 guardian
-guardian's
 guardiancy
 guardianess
 guardianless
@@ -9214,7 +9133,6 @@ guernseys
 guerre
 guerrila
 guerrilla
-guerrilla's
 guerrillaism
 guerrillas
 guerrillaship
@@ -9234,7 +9152,6 @@ guesstimating
 guesswork
 guessworker
 guest
-guest's
 guestchamber
 guested
 guesten
@@ -9289,7 +9206,6 @@ guidances
 guide
 guideboard
 guidebook
-guidebook's
 guidebookish
 guidebooks
 guidebooky
@@ -9297,7 +9213,6 @@ guidecraft
 guided
 guideless
 guideline
-guideline's
 guidelines
 guidepost
 guideposts
@@ -9394,14 +9309,12 @@ guisard
 guisards
 guisarme
 guise
-guise's
 guised
 guiser
 guises
 guisian
 guising
 guitar
-guitar's
 guitarfish
 guitarfishes
 guitarist
@@ -9423,7 +9336,6 @@ gularis
 gulas
 gulash
 gulch
-gulch's
 gulches
 guld
 gulden
@@ -9432,7 +9344,6 @@ guldens
 gule
 gules
 gulf
-gulf's
 gulfed
 gulfier
 gulfiest
@@ -9479,7 +9390,6 @@ gulliver
 gulllike
 gulls
 gully
-gully's
 gullygut
 gullyhole
 gullying
@@ -9507,7 +9417,6 @@ gulsach
 gult
 guly
 gum
-gum's
 gumbo
 gumboil
 gumboils
@@ -9578,7 +9487,6 @@ gumweeds
 gumwood
 gumwoods
 gun
-gun's
 guna
 gunarchy
 gunate
@@ -9649,7 +9557,6 @@ gunnel
 gunnels
 gunnen
 gunner
-gunner's
 gunneress
 gunneries
 gunners
@@ -9802,7 +9709,6 @@ gussies
 gussy
 gussying
 gust
-gust's
 gustable
 gustables
 gustard
@@ -9985,10 +9891,8 @@ gymnasic
 gymnasisia
 gymnasisiums
 gymnasium
-gymnasium's
 gymnasiums
 gymnast
-gymnast's
 gymnastic
 gymnastical
 gymnastically
@@ -10200,7 +10104,6 @@ gypsumed
 gypsuming
 gypsums
 gypsy
-gypsy's
 gypsydom
 gypsydoms
 gypsyesque
@@ -10276,7 +10179,6 @@ gyropilot
 gyroplane
 gyros
 gyroscope
-gyroscope's
 gyroscopes
 gyroscopic
 gyroscopically

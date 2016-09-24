@@ -1,5 +1,4 @@
 y
-y's
 ya
 yaba
 yabber
@@ -193,7 +192,6 @@ yaray
 yarb
 yarborough
 yard
-yard's
 yardage
 yardages
 yardang
@@ -216,7 +214,6 @@ yardmen
 yards
 yardsman
 yardstick
-yardstick's
 yardsticks
 yardwand
 yardwands
@@ -242,7 +239,6 @@ yarmulka
 yarmulke
 yarmulkes
 yarn
-yarn's
 yarned
 yarnen
 yarner
@@ -353,7 +349,6 @@ yclept
 yd
 yds
 ye
-ye'se
 yea
 yeah
 yealing
@@ -366,7 +361,6 @@ yeanlings
 yeans
 yeaoman
 year
-year's
 yeara
 yearbird
 yearbook
@@ -401,7 +395,6 @@ yeas
 yeasayer
 yeasayers
 yeast
-yeast's
 yeasted
 yeastier
 yeastiest
@@ -770,7 +763,6 @@ yojana
 yok
 yokage
 yoke
-yoke's
 yokeable
 yokeableness
 yokeage
@@ -845,10 +837,6 @@ yotacism
 yotacize
 yote
 you
-you'd
-you'll
-you're
-you've
 youd
 youden
 youdith
@@ -868,7 +856,6 @@ youngly
 youngness
 youngs
 youngster
-youngster's
 youngsters
 youngstown
 youngth
@@ -879,7 +866,6 @@ youp
 youpon
 youpons
 your
-your'n
 youre
 yourn
 yours

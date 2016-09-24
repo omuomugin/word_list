@@ -1,5 +1,4 @@
 v
-v's
 va
 vaad
 vaadim
@@ -12,7 +11,6 @@ vacabond
 vacance
 vacancies
 vacancy
-vacancy's
 vacandi
 vacant
 vacante
@@ -136,7 +134,6 @@ vady
 vafrous
 vag
 vagabond
-vagabond's
 vagabondage
 vagabondager
 vagabonded
@@ -166,7 +163,6 @@ vagarist
 vagaristic
 vagarity
 vagary
-vagary's
 vagas
 vagation
 vagbondia
@@ -178,7 +174,6 @@ vagile
 vagilities
 vagility
 vagina
-vagina's
 vaginae
 vaginal
 vaginalectomies
@@ -305,7 +300,6 @@ valanche
 valancing
 valbellite
 vale
-vale's
 valebant
 valediction
 valedictions
@@ -315,7 +309,6 @@ valedictories
 valedictorily
 valedictory
 valence
-valence's
 valences
 valencia
 valencianite
@@ -327,7 +320,6 @@ valens
 valent
 valentiam
 valentine
-valentine's
 valentines
 valentinian
 valentinite
@@ -350,7 +342,6 @@ valeryl
 valerylene
 vales
 valet
-valet's
 valeta
 valetage
 valetaille
@@ -429,7 +420,6 @@ vallecular
 valleculate
 vallevarite
 valley
-valley's
 valleyful
 valleyite
 valleylet
@@ -483,7 +473,6 @@ valuated
 valuates
 valuating
 valuation
-valuation's
 valuational
 valuationally
 valuations
@@ -507,7 +496,6 @@ valval
 valvar
 valvate
 valve
-valve's
 valved
 valveless
 valvelet
@@ -567,7 +555,6 @@ vamps
 vampyre
 vamure
 van
-van's
 vanadate
 vanadates
 vanadiate
@@ -605,7 +592,6 @@ vandyke
 vandyked
 vandykes
 vane
-vane's
 vaned
 vaneless
 vanelike
@@ -807,7 +793,6 @@ varia
 variabilities
 variability
 variable
-variable's
 variableness
 variables
 variably
@@ -815,7 +800,6 @@ variac
 variadic
 variagles
 variance
-variance's
 variances
 variancy
 variant
@@ -826,7 +810,6 @@ variated
 variates
 variating
 variation
-variation's
 variational
 variationally
 variationist
@@ -885,7 +868,6 @@ varietism
 varietist
 varietur
 variety
-variety's
 varificatory
 variform
 variformed
@@ -953,7 +935,6 @@ varna
 varnas
 varnashrama
 varnish
-varnish's
 varnished
 varnisher
 varnishes
@@ -1011,7 +992,6 @@ vasculous
 vasculum
 vasculums
 vase
-vase's
 vasectomies
 vasectomise
 vasectomised
@@ -1125,7 +1105,6 @@ vastus
 vasty
 vasu
 vat
-vat's
 vates
 vatful
 vatfuls
@@ -1245,7 +1224,6 @@ vectitation
 vectograph
 vectographic
 vector
-vector's
 vectorcardiogram
 vectorcardiographic
 vectorcardiography
@@ -1302,7 +1280,6 @@ vegasite
 vegeculture
 vegetability
 vegetable
-vegetable's
 vegetablelike
 vegetables
 vegetablewise
@@ -1313,7 +1290,6 @@ vegetalcule
 vegetality
 vegetant
 vegetarian
-vegetarian's
 vegetarianism
 vegetarians
 vegetate
@@ -1348,7 +1324,6 @@ vehemency
 vehement
 vehemently
 vehicle
-vehicle's
 vehicles
 vehicula
 vehicular
@@ -1492,7 +1467,6 @@ velocipeding
 velocities
 velocitous
 velocity
-velocity's
 velodrome
 velometer
 velour
@@ -1586,7 +1560,6 @@ venditation
 vendition
 venditor
 vendor
-vendor's
 vendors
 vends
 vendue
@@ -1792,7 +1765,6 @@ ventrals
 ventralward
 ventric
 ventricle
-ventricle's
 ventricles
 ventricolumna
 ventricolumnar
@@ -1915,7 +1887,6 @@ veracities
 veracity
 verament
 veranda
-veranda's
 verandaed
 verandah
 verandahed
@@ -1952,7 +1923,6 @@ veratryl
 veratrylidene
 veray
 verb
-verb's
 verbal
 verbalisation
 verbalise
@@ -2432,7 +2402,6 @@ vertebrarterial
 vertebras
 vertebrata
 vertebrate
-vertebrate's
 vertebrated
 vertebrates
 vertebration
@@ -2612,7 +2581,6 @@ vespine
 vespoid
 vespucci
 vessel
-vessel's
 vesseled
 vesselful
 vesselled
@@ -2650,7 +2618,6 @@ vestibulospinal
 vestibulum
 vestigal
 vestige
-vestige's
 vestiges
 vestigia
 vestigial
@@ -2715,13 +2682,11 @@ vetchling
 vetchy
 veter
 veteran
-veteran's
 veterancy
 veteraness
 veteranize
 veterans
 veterinarian
-veterinarian's
 veterinarianism
 veterinarians
 veterinaries
@@ -2804,7 +2769,6 @@ viagram
 viagraph
 viajaca
 vial
-vial's
 vialed
 vialful
 vialing
@@ -2934,7 +2898,6 @@ vicars
 vicarship
 vicary
 vice
-vice's
 vicecomes
 vicecomital
 vicecomites
@@ -2985,7 +2948,6 @@ viciously
 viciousness
 vicissitous
 vicissitude
-vicissitude's
 vicissitudes
 vicissitudinary
 vicissitudinous
@@ -2999,7 +2961,6 @@ vicontiel
 vicontiels
 victal
 victim
-victim's
 victimhood
 victimisation
 victimise
@@ -3019,7 +2980,6 @@ victimless
 victims
 victless
 victor
-victor's
 victordom
 victoress
 victorfish
@@ -3040,7 +3000,6 @@ victoriousness
 victorium
 victors
 victory
-victory's
 victoryless
 victress
 victresses
@@ -3089,7 +3048,6 @@ videogenic
 videophone
 videos
 videotape
-videotape's
 videotaped
 videotapes
 videotaping
@@ -3153,7 +3111,6 @@ viewlessly
 viewlessness
 viewly
 viewpoint
-viewpoint's
 viewpoints
 viewport
 views
@@ -3178,7 +3135,6 @@ vigilance
 vigilancy
 vigilant
 vigilante
-vigilante's
 vigilantes
 vigilantism
 vigilantist
@@ -3193,7 +3149,6 @@ vigintillionth
 vigneron
 vignerons
 vignette
-vignette's
 vignetted
 vignetter
 vignettes
@@ -3263,7 +3218,6 @@ vilities
 vility
 vill
 villa
-villa's
 villache
 villadom
 villadoms
@@ -3287,7 +3241,6 @@ villagey
 villagism
 villagy
 villain
-villain's
 villainage
 villaindom
 villainess
@@ -3429,7 +3382,6 @@ vindictiveness
 vindictivolence
 vindresser
 vine
-vine's
 vinea
 vineae
 vineal
@@ -3465,7 +3417,6 @@ vinetta
 vinew
 vinewise
 vineyard
-vineyard's
 vineyarding
 vineyardist
 vineyards
@@ -3567,7 +3518,6 @@ violational
 violations
 violative
 violator
-violator's
 violators
 violatory
 violature
@@ -3580,7 +3530,6 @@ violentness
 violer
 violescent
 violet
-violet's
 violetish
 violetlike
 violets
@@ -3588,14 +3537,12 @@ violette
 violetwise
 violety
 violin
-violin's
 violina
 violine
 violined
 violinette
 violining
 violinist
-violinist's
 violinistic
 violinistically
 violinists
@@ -3625,7 +3572,6 @@ viomycins
 viosterol
 vip
 viper
-viper's
 viperan
 viperess
 viperfish
@@ -3692,7 +3638,6 @@ virgil
 virgilia
 virgilian
 virgin
-virgin's
 virginal
 virginalist
 virginality
@@ -3790,7 +3735,6 @@ virtuality
 virtualize
 virtually
 virtue
-virtue's
 virtued
 virtuefy
 virtueless
@@ -3806,7 +3750,6 @@ virtuosic
 virtuosities
 virtuosity
 virtuoso
-virtuoso's
 virtuosos
 virtuosoship
 virtuous
@@ -3830,7 +3773,6 @@ virulently
 virulentness
 viruliferous
 virus
-virus's
 viruscidal
 viruscide
 virusemic
@@ -3909,7 +3851,6 @@ viscosimetry
 viscosities
 viscosity
 viscount
-viscount's
 viscountcies
 viscountcy
 viscountess
@@ -3945,7 +3886,6 @@ visigothic
 visile
 vising
 vision
-vision's
 visional
 visionally
 visionaries
@@ -3972,7 +3912,6 @@ visitant
 visitants
 visitate
 visitation
-visitation's
 visitational
 visitations
 visitative
@@ -3986,7 +3925,6 @@ visiters
 visiting
 visitment
 visitor
-visitor's
 visitoress
 visitorial
 visitors
@@ -4000,7 +3938,6 @@ visney
 visnomy
 vison
 visor
-visor's
 visored
 visoring
 visorless
@@ -4009,7 +3946,6 @@ visors
 visory
 viss
 vista
-vista's
 vistaed
 vistal
 vistaless
@@ -4436,7 +4372,6 @@ vocals
 vocat
 vocate
 vocation
-vocation's
 vocational
 vocationalism
 vocationalist
@@ -4598,7 +4533,6 @@ volcanize
 volcanized
 volcanizing
 volcano
-volcano's
 volcanoes
 volcanoism
 volcanologic
@@ -4652,7 +4586,6 @@ volkswagens
 vollenge
 volley
 volleyball
-volleyball's
 volleyballs
 volleyed
 volleyer
@@ -4716,7 +4649,6 @@ volubleness
 volubly
 volucrine
 volume
-volume's
 volumed
 volumen
 volumenometer
@@ -4950,7 +4882,6 @@ vousty
 vow
 vowed
 vowel
-vowel's
 vowelisation
 vowelish
 vowelism
@@ -5123,7 +5054,6 @@ vulsella
 vulsellum
 vulsinite
 vulture
-vulture's
 vulturelike
 vultures
 vulturewise

@@ -1,5 +1,4 @@
 q
-q's
 qabbala
 qabbalah
 qadarite
@@ -102,7 +101,6 @@ quadrangulate
 quadranguled
 quadrans
 quadrant
-quadrant's
 quadrantal
 quadrantes
 quadrantile
@@ -130,7 +128,6 @@ quadratrix
 quadrats
 quadratum
 quadrature
-quadrature's
 quadratures
 quadratus
 quadrauricular
@@ -377,7 +374,6 @@ quagginess
 quaggle
 quaggy
 quagmire
-quagmire's
 quagmired
 quagmires
 quagmirier
@@ -396,7 +392,6 @@ quaife
 quaigh
 quaighs
 quail
-quail's
 quailberry
 quailed
 quaileries
@@ -456,7 +451,6 @@ qualitatively
 qualitied
 qualities
 quality
-quality's
 qualityless
 qualityship
 qually
@@ -481,7 +475,6 @@ quandang
 quandangs
 quandaries
 quandary
-quandary's
 quando
 quandong
 quandongs
@@ -524,7 +517,6 @@ quantitive
 quantitively
 quantitiveness
 quantity
-quantity's
 quantivalence
 quantivalency
 quantivalent
@@ -547,7 +539,6 @@ quaquaversally
 quar
 quarantinable
 quarantine
-quarantine's
 quarantined
 quarantiner
 quarantines
@@ -596,7 +587,6 @@ quarries
 quarrion
 quarrome
 quarry
-quarry's
 quarryable
 quarrying
 quarryman
@@ -655,7 +645,6 @@ quarterstaves
 quarterstetch
 quartes
 quartet
-quartet's
 quartets
 quartette
 quartetto
@@ -835,7 +824,6 @@ quedness
 quedship
 queechy
 queen
-queen's
 queencake
 queencraft
 queencup
@@ -1015,7 +1003,6 @@ questionless
 questionlessly
 questionlessness
 questionnaire
-questionnaire's
 questionnaires
 questionous
 questions
@@ -1603,7 +1590,6 @@ quittance
 quittances
 quitted
 quitter
-quitter's
 quitterbone
 quitters
 quitting
@@ -1655,7 +1641,6 @@ quizzism
 quizzity
 quizzy
 quo
-quo'
 quoad
 quod
 quodded
@@ -1703,14 +1688,12 @@ quorums
 quos
 quot
 quota
-quota's
 quotability
 quotable
 quotableness
 quotably
 quotas
 quotation
-quotation's
 quotational
 quotationally
 quotationist
@@ -1742,7 +1725,6 @@ quotity
 quotlibet
 quott
 quotum
-qur'an
 qursh
 qurshes
 qurush

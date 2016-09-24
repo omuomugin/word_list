@@ -1,5 +1,4 @@
 r
-r's
 ra
 raad
 raadzaal
@@ -47,7 +46,6 @@ rabbis
 rabbish
 rabbiship
 rabbit
-rabbit's
 rabbitberries
 rabbitberry
 rabbited
@@ -113,7 +111,6 @@ racahout
 racallable
 racche
 raccoon
-raccoon's
 raccoonberry
 raccoons
 raccroc
@@ -246,7 +243,6 @@ racked
 racker
 rackers
 racket
-racket's
 racketed
 racketeer
 racketeering
@@ -295,7 +291,6 @@ racy
 rad
 rada
 radar
-radar's
 radarman
 radarmen
 radars
@@ -359,7 +354,6 @@ radiatopatent
 radiatoporose
 radiatoporous
 radiator
-radiator's
 radiators
 radiatory
 radiatostriate
@@ -627,7 +621,6 @@ radious
 radiov
 radiovision
 radish
-radish's
 radishes
 radishlike
 radium
@@ -698,7 +691,6 @@ raftsman
 raftsmen
 rafty
 rag
-rag's
 raga
 ragabash
 ragabrash
@@ -834,7 +826,6 @@ railroadship
 rails
 railside
 railway
-railway's
 railwaydom
 railwayed
 railwayless
@@ -858,10 +849,8 @@ rainbowy
 rainburst
 raincheck
 raincoat
-raincoat's
 raincoats
 raindrop
-raindrop's
 raindrops
 rained
 rainer
@@ -992,7 +981,6 @@ ralph
 rals
 ralstonite
 ram
-ram's
 ramack
 ramada
 ramadan
@@ -1061,7 +1049,6 @@ ramies
 ramiferous
 ramificate
 ramification
-ramification's
 ramifications
 ramified
 ramifies
@@ -1113,7 +1100,6 @@ ramosopinnate
 ramososubdivided
 ramous
 ramp
-ramp's
 rampacious
 rampaciously
 rampage
@@ -1315,14 +1301,12 @@ ranivorous
 rank
 ranked
 ranker
-ranker's
 rankers
 rankest
 ranket
 rankett
 rankine
 ranking
-ranking's
 rankings
 rankish
 rankle
@@ -1395,7 +1379,6 @@ ranunculus
 ranunculuses
 raob
 rap
-rap's
 rapaceus
 rapacious
 rapaciously
@@ -1500,7 +1483,6 @@ raptorious
 raptors
 raptril
 rapture
-rapture's
 raptured
 raptureless
 raptures
@@ -1538,7 +1520,6 @@ rareripes
 rarest
 rareties
 rarety
-rarety's
 rariconstant
 rariety
 rarified
@@ -1641,7 +1622,6 @@ rasty
 rasure
 rasures
 rat
-rat's
 rata
 ratability
 ratable
@@ -1741,7 +1721,6 @@ ratines
 rating
 ratings
 ratio
-ratio's
 ratiocinant
 ratiocinate
 ratiocinated
@@ -1759,7 +1738,6 @@ rationable
 rationably
 rational
 rationale
-rationale's
 rationales
 rationalisation
 rationalise
@@ -1871,7 +1849,6 @@ rattles
 rattleskull
 rattleskulled
 rattlesnake
-rattlesnake's
 rattlesnakes
 rattlesome
 rattletrap
@@ -1982,7 +1959,6 @@ ravigotes
 ravin
 ravinate
 ravine
-ravine's
 ravined
 ravinement
 ravines
@@ -2035,7 +2011,6 @@ raxed
 raxes
 raxing
 ray
-ray's
 raya
 rayage
 rayah
@@ -2071,7 +2046,6 @@ razes
 razing
 razoo
 razor
-razor's
 razorable
 razorback
 razorbill
@@ -2237,7 +2211,6 @@ reactants
 reacted
 reacting
 reaction
-reaction's
 reactional
 reactionally
 reactionaries
@@ -2245,7 +2218,6 @@ reactionariness
 reactionarism
 reactionarist
 reactionary
-reactionary's
 reactionaryism
 reactionism
 reactionist
@@ -2264,7 +2236,6 @@ reactivity
 reactological
 reactology
 reactor
-reactor's
 reactors
 reacts
 reactualization
@@ -2357,7 +2328,6 @@ readorning
 readornment
 readorns
 readout
-readout's
 readouts
 reads
 readvance
@@ -2461,7 +2431,6 @@ realising
 realism
 realisms
 realist
-realist's
 realistic
 realistically
 realisticize
@@ -2475,7 +2444,6 @@ realizable
 realizableness
 realizably
 realization
-realization's
 realizations
 realize
 realized
@@ -2507,7 +2475,6 @@ reallude
 reallusion
 really
 realm
-realm's
 realmless
 realmlet
 realms
@@ -2706,7 +2673,6 @@ rearrange
 rearrangeable
 rearranged
 rearrangement
-rearrangement's
 rearrangements
 rearranger
 rearranges
@@ -2791,7 +2757,6 @@ reassessed
 reassesses
 reassessing
 reassessment
-reassessment's
 reassessments
 reasseverate
 reassign
@@ -2799,7 +2764,6 @@ reassignation
 reassigned
 reassigning
 reassignment
-reassignment's
 reassignments
 reassigns
 reassimilate
@@ -2970,7 +2934,6 @@ rebase
 rebasis
 rebatable
 rebate
-rebate's
 rebateable
 rebated
 rebatement
@@ -3008,7 +2971,6 @@ rebehold
 rebeholding
 rebekah
 rebel
-rebel's
 rebeldom
 rebeldoms
 rebelief
@@ -3018,7 +2980,6 @@ rebeller
 rebellike
 rebelling
 rebellion
-rebellion's
 rebellions
 rebellious
 rebelliously
@@ -3242,7 +3203,6 @@ rebuttons
 rebuy
 rebuying
 rec
-rec'd
 recable
 recabled
 recabling
@@ -3397,7 +3357,6 @@ receder
 recedes
 receding
 receipt
-receipt's
 receiptable
 receipted
 receipter
@@ -3449,7 +3408,6 @@ recentralizing
 recentre
 recept
 receptacle
-receptacle's
 receptacles
 receptacula
 receptacular
@@ -3462,7 +3420,6 @@ receptary
 receptibility
 receptible
 reception
-reception's
 receptionism
 receptionist
 receptionists
@@ -3580,7 +3537,6 @@ recidivity
 recidivous
 recip
 recipe
-recipe's
 recipes
 recipiangle
 recipiatur
@@ -3590,7 +3546,6 @@ recipiend
 recipiendary
 recipiendum
 recipient
-recipient's
 recipients
 recipiomotor
 reciprocable
@@ -3632,14 +3587,12 @@ recissory
 recit
 recitable
 recital
-recital's
 recitalist
 recitalists
 recitals
 recitando
 recitatif
 recitation
-recitation's
 recitationalism
 recitationist
 recitations
@@ -3784,7 +3737,6 @@ recogniser
 recognising
 recognita
 recognition
-recognition's
 recognitions
 recognitive
 recognitor
@@ -3833,7 +3785,6 @@ recollectedness
 recollectible
 recollecting
 recollection
-recollection's
 recollections
 recollective
 recollectively
@@ -3883,7 +3834,6 @@ recommendable
 recommendableness
 recommendably
 recommendation
-recommendation's
 recommendations
 recommendative
 recommendatory
@@ -4035,7 +3985,6 @@ reconfide
 reconfigurability
 reconfigurable
 reconfiguration
-reconfiguration's
 reconfigurations
 reconfigure
 reconfigured
@@ -4294,7 +4243,6 @@ recoverless
 recoveror
 recovers
 recovery
-recovery's
 recpt
 recramp
 recrank
@@ -4366,7 +4314,6 @@ recrudescent
 recrudesces
 recrudescing
 recruit
-recruit's
 recruitable
 recruitage
 recruital
@@ -4397,7 +4344,6 @@ rectal
 rectalgia
 rectally
 rectangle
-rectangle's
 rectangled
 rectangles
 rectangular
@@ -4455,7 +4401,6 @@ rectopexy
 rectophobia
 rectoplasty
 rector
-rector's
 rectoral
 rectorate
 rectorates
@@ -4481,7 +4426,6 @@ rectrices
 rectricial
 rectrix
 rectum
-rectum's
 rectums
 rectus
 recubant
@@ -4520,7 +4464,6 @@ recureless
 recurl
 recurred
 recurrence
-recurrence's
 recurrences
 recurrency
 recurrent
@@ -4535,7 +4478,6 @@ recursed
 recurses
 recursing
 recursion
-recursion's
 recursions
 recursive
 recursively
@@ -4751,7 +4693,6 @@ redefined
 redefines
 redefining
 redefinition
-redefinition's
 redefinitions
 redeflect
 redefy
@@ -5216,7 +5157,6 @@ reductase
 reductibility
 reductio
 reduction
-reduction's
 reductional
 reductionism
 reductionist
@@ -5278,7 +5218,6 @@ reechoes
 reechoing
 reechy
 reed
-reed's
 reedbird
 reedbirds
 reedbuck
@@ -5738,7 +5677,6 @@ referendaryship
 referendum
 referendums
 referent
-referent's
 referential
 referentiality
 referentially
@@ -5747,7 +5685,6 @@ referents
 referment
 referrable
 referral
-referral's
 referrals
 referred
 referrer
@@ -5808,7 +5745,6 @@ refined
 refinedly
 refinedness
 refinement
-refinement's
 refinements
 refiner
 refineries
@@ -5863,7 +5799,6 @@ reflectible
 reflecting
 reflectingly
 reflection
-reflection's
 reflectional
 reflectioning
 reflectionist
@@ -5876,7 +5811,6 @@ reflectivity
 reflectometer
 reflectometry
 reflector
-reflector's
 reflectorize
 reflectorized
 reflectorizing
@@ -5889,7 +5823,6 @@ reflet
 reflets
 reflew
 reflex
-reflex's
 reflexed
 reflexes
 reflexibility
@@ -6124,7 +6057,6 @@ refreshing
 refreshingly
 refreshingness
 refreshment
-refreshment's
 refreshments
 refricate
 refried
@@ -6139,7 +6071,6 @@ refrigerating
 refrigeration
 refrigerative
 refrigerator
-refrigerator's
 refrigerators
 refrigeratory
 refrigerium
@@ -6171,7 +6102,6 @@ refuels
 refuge
 refuged
 refugee
-refugee's
 refugeeism
 refugees
 refugeeship
@@ -6339,7 +6269,6 @@ regeneratress
 regeneratrix
 regenesis
 regent
-regent's
 regental
 regentess
 regents
@@ -6372,7 +6301,6 @@ regilds
 regill
 regilt
 regime
-regime's
 regimen
 regimenal
 regimens
@@ -6396,7 +6324,6 @@ reginal
 reginas
 regioide
 region
-region's
 regional
 regionalism
 regionalist
@@ -6433,7 +6360,6 @@ registrate
 registrated
 registrating
 registration
-registration's
 registrational
 registrationist
 registrations
@@ -6549,7 +6475,6 @@ regressed
 regresses
 regressing
 regression
-regression's
 regressionist
 regressions
 regressive
@@ -6636,7 +6561,6 @@ regulations
 regulative
 regulatively
 regulator
-regulator's
 regulators
 regulatorship
 regulatory
@@ -6720,7 +6644,6 @@ rehearings
 rehears
 rehearsable
 rehearsal
-rehearsal's
 rehearsals
 rehearse
 rehearsed
@@ -6861,7 +6784,6 @@ reimburse
 reimburseable
 reimbursed
 reimbursement
-reimbursement's
 reimbursements
 reimburser
 reimburses
@@ -7041,7 +6963,6 @@ reinforce
 reinforceable
 reinforced
 reinforcement
-reinforcement's
 reinforcements
 reinforcer
 reinforcers
@@ -7321,12 +7242,10 @@ rejecters
 rejecting
 rejectingly
 rejection
-rejection's
 rejections
 rejective
 rejectment
 rejector
-rejector's
 rejectors
 rejects
 rejeopardize
@@ -7479,7 +7398,6 @@ relationist
 relationless
 relations
 relationship
-relationship's
 relationships
 relatival
 relative
@@ -7510,7 +7428,6 @@ relaxable
 relaxant
 relaxants
 relaxation
-relaxation's
 relaxations
 relaxative
 relaxatory
@@ -7615,7 +7532,6 @@ reliberate
 reliberated
 reliberating
 relic
-relic's
 relicary
 relicense
 relicensed
@@ -7669,7 +7585,6 @@ religieuses
 religieux
 religio
 religion
-religion's
 religionary
 religionate
 religioner
@@ -7821,7 +7736,6 @@ remails
 remaim
 remain
 remainder
-remainder's
 remaindered
 remaindering
 remainderman
@@ -7971,7 +7885,6 @@ remembering
 rememberingly
 remembers
 remembrance
-remembrance's
 remembrancer
 remembrancership
 remembrances
@@ -8039,7 +7952,6 @@ remingling
 reminisce
 reminisced
 reminiscence
-reminiscence's
 reminiscenceful
 reminiscencer
 reminiscences
@@ -8108,7 +8020,6 @@ remixing
 remixt
 remixture
 remnant
-remnant's
 remnantal
 remnants
 remobilization
@@ -8213,7 +8124,6 @@ removable
 removableness
 removably
 removal
-removal's
 removalist
 removals
 remove
@@ -8313,7 +8223,6 @@ rendibility
 rendible
 rending
 rendition
-rendition's
 renditions
 rendlewood
 rendoun
@@ -8491,7 +8400,6 @@ rentability
 rentable
 rentage
 rental
-rental's
 rentaler
 rentaller
 rentals
@@ -8626,7 +8534,6 @@ reorganised
 reorganiser
 reorganising
 reorganization
-reorganization's
 reorganizational
 reorganizationist
 reorganizations
@@ -8736,7 +8643,6 @@ reparably
 reparagraph
 reparate
 reparation
-reparation's
 reparations
 reparative
 reparatory
@@ -8762,7 +8668,6 @@ repasser
 repasses
 repassing
 repast
-repast's
 repaste
 repasted
 repasting
@@ -8872,7 +8777,6 @@ reperception
 repercolation
 repercuss
 repercussion
-repercussion's
 repercussions
 repercussive
 repercussively
@@ -8913,7 +8817,6 @@ repetitae
 repetiteur
 repetiteurs
 repetition
-repetition's
 repetitional
 repetitionary
 repetitions
@@ -8966,7 +8869,6 @@ replaceability
 replaceable
 replaced
 replacement
-replacement's
 replacements
 replacer
 replacers
@@ -9145,7 +9047,6 @@ repositions
 repositor
 repositories
 repository
-repository's
 reposits
 reposoir
 repossess
@@ -9227,7 +9128,6 @@ representably
 representamen
 representant
 representation
-representation's
 representational
 representationalism
 representationalist
@@ -9263,7 +9163,6 @@ repressible
 repressibly
 repressing
 repression
-repression's
 repressionary
 repressionist
 repressions
@@ -9303,7 +9202,6 @@ reprinting
 reprintings
 reprints
 reprisal
-reprisal's
 reprisalist
 reprisals
 reprise
@@ -9371,7 +9269,6 @@ reproducible
 reproducibly
 reproducing
 reproduction
-reproduction's
 reproductionist
 reproductions
 reproductive
@@ -9446,7 +9343,6 @@ reptation
 reptatorial
 reptatory
 reptile
-reptile's
 reptiledom
 reptilelike
 reptiles
@@ -9463,11 +9359,9 @@ reptility
 reptilivorous
 reptiloid
 republic
-republic's
 republica
 republical
 republican
-republican's
 republicanisation
 republicanise
 republicanised
@@ -9571,7 +9465,6 @@ reputable
 reputableness
 reputably
 reputation
-reputation's
 reputationless
 reputations
 reputative
@@ -9612,7 +9505,6 @@ requirable
 require
 required
 requirement
-requirement's
 requirements
 requirer
 requirers
@@ -9915,7 +9807,6 @@ reselling
 resells
 resemblable
 resemblance
-resemblance's
 resemblances
 resemblant
 resemble
@@ -9970,7 +9861,6 @@ reserpinized
 reservable
 reserval
 reservation
-reservation's
 reservationist
 reservations
 reservative
@@ -9993,7 +9883,6 @@ reserving
 reservist
 reservists
 reservoir
-reservoir's
 reservoired
 reservoirs
 reservor
@@ -10095,14 +9984,12 @@ resid
 reside
 resided
 residence
-residence's
 residencer
 residences
 residencia
 residencies
 residency
 resident
-resident's
 residental
 residenter
 residential
@@ -10125,7 +10012,6 @@ residuals
 residuary
 residuation
 residue
-residue's
 residuent
 residues
 residuous
@@ -10144,7 +10030,6 @@ resignaled
 resignaling
 resignatary
 resignation
-resignation's
 resignationism
 resignations
 resigned
@@ -10179,7 +10064,6 @@ resilvering
 resilvers
 resimmer
 resin
-resin's
 resina
 resinaceous
 resinate
@@ -10254,7 +10138,6 @@ resistless
 resistlessly
 resistlessness
 resistor
-resistor's
 resistors
 resists
 resit
@@ -10391,7 +10274,6 @@ resounding
 resoundingly
 resounds
 resource
-resource's
 resourceful
 resourcefully
 resourcefulness
@@ -10504,7 +10386,6 @@ respondencies
 respondency
 respondendum
 respondent
-respondent's
 respondentia
 respondents
 responder
@@ -10611,7 +10492,6 @@ restating
 restation
 restaur
 restaurant
-restaurant's
 restauranteur
 restauranteurs
 restaurants
@@ -10698,7 +10578,6 @@ restorableness
 restoral
 restorals
 restoration
-restoration's
 restorationer
 restorationism
 restorationist
@@ -10736,7 +10615,6 @@ restraining
 restrainingly
 restrains
 restraint
-restraint's
 restraintful
 restraints
 restrap
@@ -10757,7 +10635,6 @@ restrictedly
 restrictedness
 restricting
 restriction
-restriction's
 restrictionary
 restrictionism
 restrictionist
@@ -10886,7 +10763,6 @@ resummoned
 resummoning
 resummons
 resumption
-resumption's
 resumptions
 resumptive
 resumptively
@@ -10926,7 +10802,6 @@ resurrected
 resurrectible
 resurrecting
 resurrection
-resurrection's
 resurrectional
 resurrectionary
 resurrectioner
@@ -11184,7 +11059,6 @@ reticent
 reticently
 reticket
 reticle
-reticle's
 reticles
 reticula
 reticular
@@ -11233,7 +11107,6 @@ retimes
 retiming
 retin
 retina
-retina's
 retinacula
 retinacular
 retinaculate
@@ -11306,7 +11179,6 @@ retiredness
 retiree
 retirees
 retirement
-retirement's
 retirements
 retirer
 retirers
@@ -11429,7 +11301,6 @@ retranslating
 retranslation
 retranslations
 retransmission
-retransmission's
 retransmissions
 retransmissive
 retransmit
@@ -11492,7 +11363,6 @@ retrievable
 retrievableness
 retrievably
 retrieval
-retrieval's
 retrievals
 retrieve
 retrieved
@@ -11759,7 +11629,6 @@ reunifies
 reunify
 reunifying
 reunion
-reunion's
 reunionism
 reunionist
 reunionistic
@@ -11884,7 +11753,6 @@ revel
 revelability
 revelant
 revelation
-revelation's
 revelational
 revelationer
 revelationist
@@ -11976,7 +11844,6 @@ reverencers
 reverences
 reverencing
 reverend
-reverend's
 reverendly
 reverends
 reverendship
@@ -12004,7 +11871,6 @@ revers
 reversability
 reversable
 reversal
-reversal's
 reversals
 reverse
 reversed
@@ -12142,7 +12008,6 @@ revises
 revisible
 revising
 revision
-revision's
 revisional
 revisionary
 revisionism
@@ -12177,7 +12042,6 @@ revivability
 revivable
 revivably
 revival
-revival's
 revivalism
 revivalist
 revivalistic
@@ -12249,14 +12113,12 @@ revolunteer
 revolute
 revoluted
 revolution
-revolution's
 revolutional
 revolutionally
 revolutionaries
 revolutionarily
 revolutionariness
 revolutionary
-revolutionary's
 revolutioneering
 revolutioner
 revolutionise
@@ -13017,7 +12879,6 @@ rhyptical
 rhysimeter
 rhyta
 rhythm
-rhythm's
 rhythmal
 rhythmed
 rhythmic
@@ -13055,7 +12916,6 @@ riantly
 riata
 riatas
 rib
-rib's
 ribald
 ribaldish
 ribaldly
@@ -13087,7 +12947,6 @@ ribbing
 ribbings
 ribble
 ribbon
-ribbon's
 ribbonback
 ribboned
 ribboner
@@ -13232,7 +13091,6 @@ ricks
 ricksha
 rickshas
 rickshaw
-rickshaw's
 rickshaws
 rickstaddle
 rickstand
@@ -13289,7 +13147,6 @@ ridership
 riderships
 rides
 ridge
-ridge's
 ridgeband
 ridgeboard
 ridgebone
@@ -13400,7 +13257,6 @@ riftless
 rifts
 rifty
 rig
-rig's
 riga
 rigadig
 rigadon
@@ -13549,7 +13405,6 @@ rills
 rillstone
 rilly
 rim
-rim's
 rima
 rimal
 rimas
@@ -13605,7 +13460,6 @@ rinceaux
 rinch
 rincon
 rind
-rind's
 rinded
 rinderpest
 rindle
@@ -13884,7 +13738,6 @@ ritardando
 ritardandos
 ritards
 rite
-rite's
 riteless
 ritelessness
 ritely
@@ -13949,7 +13802,6 @@ rivalries
 rivalrous
 rivalrousness
 rivalry
-rivalry's
 rivals
 rivalship
 rive
@@ -13962,7 +13814,6 @@ rivell
 rivelled
 riven
 river
-river's
 riverain
 riverbank
 riverbanks
@@ -14020,7 +13871,6 @@ rivose
 rivulariaceous
 rivulation
 rivulet
-rivulet's
 rivulets
 rivulose
 rivulus
@@ -14053,7 +13903,6 @@ roached
 roaches
 roaching
 road
-road's
 roadability
 roadable
 roadbed
@@ -14089,12 +13938,10 @@ roadsman
 roadstead
 roadsteads
 roadster
-roadster's
 roadsters
 roadstone
 roadtrack
 roadway
-roadway's
 roadways
 roadweed
 roadwise
@@ -14138,12 +13985,10 @@ roband
 robands
 robbed
 robber
-robber's
 robberies
 robberproof
 robbers
 robbery
-robbery's
 robbin
 robbing
 robbins
@@ -14157,7 +14002,6 @@ roberts
 robes
 robhah
 robin
-robin's
 robinet
 robing
 robinia
@@ -14176,7 +14020,6 @@ roborative
 roborean
 roboreous
 robot
-robot's
 robotesque
 robotian
 robotic
@@ -14314,7 +14157,6 @@ rocolo
 rocs
 rocta
 rod
-rod's
 rodd
 rodded
 rodden
@@ -14414,7 +14256,6 @@ roggle
 rognon
 rognons
 rogue
-rogue's
 rogued
 roguedom
 rogueing
@@ -14471,7 +14312,6 @@ rolamites
 roland
 rolando
 role
-role's
 roleo
 roleplayed
 roleplaying
@@ -14574,7 +14414,6 @@ romanos
 romans
 romansh
 romantic
-romantic's
 romantical
 romanticalism
 romanticality
@@ -14797,7 +14636,6 @@ roosting
 roosts
 roosty
 root
-root's
 rootage
 rootages
 rootcap
@@ -14939,14 +14777,12 @@ roscoe
 roscoelite
 roscoes
 rose
-rose's
 roseal
 roseate
 roseately
 rosebay
 rosebays
 rosebud
-rosebud's
 rosebuds
 rosebush
 rosebushes
@@ -15521,7 +15357,6 @@ royalising
 royalism
 royalisms
 royalist
-royalist's
 royalistic
 royalists
 royalization
@@ -15534,7 +15369,6 @@ royalme
 royals
 royalties
 royalty
-royalty's
 royet
 royetness
 royetous
@@ -15578,7 +15412,6 @@ rubbaboos
 rubbed
 rubbee
 rubber
-rubber's
 rubberer
 rubberiness
 rubberise
@@ -15683,7 +15516,6 @@ rubine
 rubineous
 rubious
 ruble
-ruble's
 rubles
 rublis
 rubor
@@ -15715,7 +15547,6 @@ rubs
 rubstone
 rubus
 ruby
-ruby's
 rubying
 rubylike
 rubytail
@@ -15750,7 +15581,6 @@ rudas
 rudbeckia
 rudd
 rudder
-rudder's
 rudderfish
 rudderfishes
 rudderhead
@@ -15795,7 +15625,6 @@ rudesheimer
 rudest
 rudge
 rudiment
-rudiment's
 rudimental
 rudimentarily
 rudimentariness
@@ -15875,7 +15704,6 @@ rufter
 rufulous
 rufus
 rug
-rug's
 ruga
 rugae
 rugal
@@ -15915,7 +15743,6 @@ ruinated
 ruinates
 ruinating
 ruination
-ruination's
 ruinations
 ruinatious
 ruinator
@@ -16120,7 +15947,6 @@ runestaff
 runeword
 runfish
 rung
-rung's
 runghead
 rungless
 rungs
@@ -16143,7 +15969,6 @@ runnable
 runnel
 runnels
 runner
-runner's
 runners
 runnet
 runneth
@@ -16282,7 +16107,6 @@ russetting
 russety
 russia
 russian
-russian's
 russianization
 russianize
 russians
@@ -16345,7 +16169,6 @@ rustyback
 rustyish
 ruswut
 rut
-rut's
 rutabaga
 rutabagas
 rutaceous
